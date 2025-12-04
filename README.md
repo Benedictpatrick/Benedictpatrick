@@ -35,7 +35,7 @@ I value:
 
 I'm working toward becoming a **multi-domain engineer** capable of shipping impactful systems, contributing to open source, and building tools people rely on.
 
-> _“Good engineering isn’t about writing more code — it’s about writing the right code cleanly.”_
+> _“Good engineering isn’t about writing more code,it’s about writing the right code cleanly.”_
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:22c55e&height=2&section=footer" />
@@ -198,7 +198,7 @@ Tools I use to build scalable UIs, performant APIs, and maintainable systems.
 - Contributing to **open-source** and collaborative engineering  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1600&color=22C55E&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling+%F0%9F%91%8B;Let%27s+build+something+impactful+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1600&color=22C55E&center=true&vCenter=true&width=600&lines=Thanks+for+stoping+by;Let%27s+build+something+impactful" />
 </p>
 
 <p align="center">
