@@ -1,144 +1,186 @@
-<!-- TOP BANNER -->
+<!-- ============================= HEADER BANNER ============================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tzbXk0YzI4bmh3Y3g1eDVuYWxjNnUzZzBuMWJoc2ZxN3UxeGlsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="780" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=260&section=header&text=Benedict%20Patrick&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Ben+here+%F0%9F%91%8B+%7C+Engineering+Student;Full-Stack+Developer+%7C+AI+%26+ML+Explorer;Building+projects+that+actually+ship" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1300&color=38BDF8&center=true&vCenter=true&width=650&lines=CSE+Student+who+ships+real+projects;Full-Stack+Developer+%7C+AI+%26+ML+Explorer;Building+production-style+apps+end+to+end" />
 </p>
 
-<div align="center">
+<!-- Badges: views + contacts -->
+<p align="center">
+  <!-- Visitor counter -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBenedictpatrick&title=Profile%20Views&edge_flat=true" />
+  <!-- TODO: replace # with real links when ready -->
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:benedicpatrickjohn@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
-
----
-
-## 🧑‍💻 Who am I?
-
-- 🎓 CSE student obsessed with **clean UIs**, **solid backends**, and **real-world products**
-- 🧠 Exploring **AI / ML**, **cloud**, and **system design**
-- 🛠️ I learn by shipping: break → debug → refactor → scale  
-- 🎯 Long-term: Multi-domain engineer + MAANG-level roles
-
-> _“Write code your future self won’t hate.”_
+<!-- Gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=4&section=footer" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👤 About
 
-<div align="center">
+- 🎓 CSE undergraduate focused on **full-stack engineering** and **applied AI/ML**
+- 🧠 Comfortable owning products end-to-end: **UI → APIs → DB → deployment**
+- 🧩 I care about **clean UX, readable code, and scalable structure**
+- 🎯 Long-term goal: become a **multi-domain engineer** working on high-impact systems
 
-### 🌐 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+> _“Think like an engineer, ship like a startup.”_  
 
-### ⚙️ Backend & APIs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
-
-### 📦 Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-
-### 🧰 Tools & Others
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-
-</div>
+<!-- Gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:22c55e&height=3&section=footer" />
+</p>
 
 ---
 
-## 🚀 Signature Projects
+## 🛠 Tech Stack (Animated Row Style)
 
-> These are the ones I’d show in an interview.
+<p align="center">
+  <!-- skillicons = sleek "animated-feel" strip -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,django,mongodb,mysql,git,docker,figma&perline=7" />
+</p>
 
-### 🎯 GestureTalk – AI Gesture-to-Speech System
-- Converts **hand gestures to speech** for accessibility.
-- Uses **computer vision + ML** with a clean UI.
-- Built to feel like a real assistive product, not a toy.
+<p align="center">
+  <sub>Always adding more as I explore new stacks.</sub>
+</p>
 
----
-
-### 🍔 CampusBite – Campus Food Ordering Platform
-- A mini **Swiggy-for-campus** experience.
-- Role-based flows for **students, vendors, and admins**.
-- Focus on UX: fast navigation, clear CTAs, and responsive layout.
-
----
-
-### 🛡️ WomenGuard – Safety & Emergency Alert System
-- **Emergency triggers**, location sharing, and alert notifications.
-- Designed with **low-friction interactions** for actual emergency use.
-- Future-ready for integration with SMS / external APIs.
+<!-- Gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:f97316&height=3&section=footer" />
+</p>
 
 ---
 
-### 🏫 ERP Portal – Academic Management System
-- Handles **authentication, roles, student / staff modules, attendance, analytics**.
-- Built like a real college ERP: dashboards + CRUD + search + filters.
-- Great showcase of full-stack skills: **UI + API + DB + auth**.
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Benedictpatrick&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+<!-- Gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:6366f1&height=3&section=footer" />
+</p>
 
 ---
 
-## 📊 GitHub Overview
+## 🚀 Featured Projects (with space for animated cards)
 
-<div align="center">
+> These are the projects I’d show first in an interview.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benedictpatrick&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Benedictpatrick&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Benedictpatrick&theme=github_dark" />
+### 🎯 GestureTalk – AI Gesture-to-Speech Interface  
+**Stack:** Python, Computer Vision/ML, Web Frontend  
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Benedictpatrick&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Benedictpatrick&theme=github_dark" />
+<p align="center">
+  <!-- Replace GIF_LINK_HERE with a real demo GIF when you have one -->
+  <img src="GIF_LINK_HERE" alt="GestureTalk Demo" width="600" />
+</p>
 
-</div>
+- Converts **hand gestures into synthesized speech** for accessibility.  
+- Uses computer vision for gesture detection with a simple, focused UI.  
+- Built to feel closer to a **real assistive product** than a classroom demo.
 
 ---
 
-## 🧊 Animated 3D Contribution Graph
+### 🍔 CampusBite – Campus Food Ordering Platform  
+**Stack:** React, Node.js/Express, MongoDB  
 
-> You’ll need to generate this SVG once using  
-> `github-profile-3d-contrib` and commit it to `profile-3d-contrib/profile-green.svg`.
+<p align="center">
+  <img src="GIF_LINK_HERE" alt="CampusBite Demo" width="600" />
+</p>
 
-<div align="center">
+- Mini **Swiggy/Zomato for campus** with students, vendors, and admin flows.  
+- Role-based routing, clean navigation and responsive design.  
+- Great example of **full-stack web app with real user flows**.
+
+---
+
+### 🛡 WomenGuard – Safety & Emergency Alert System  
+**Stack:** React (or Web Frontend), Backend API  
+
+<p align="center">
+  <img src="GIF_LINK_HERE" alt="WomenGuard Demo" width="600" />
+</p>
+
+- One-tap **emergency alert** with context and location sharing.  
+- Designed around **low-friction UX** for real emergency scenarios.  
+- Built with future integrations in mind (SMS / external APIs).
+
+---
+
+### 🏫 ERP Portal – Academic Management System  
+**Stack:** Full-Stack Web (Auth + Dashboards + DB)  
+
+<p align="center">
+  <img src="GIF_LINK_HERE" alt="ERP Portal Demo" width="600" />
+</p>
+
+- Handles authentication, roles (student/staff/admin), attendance, and more.  
+- Dashboard-driven UI with filters, search and data tables.  
+- Demonstrates **end-to-end product thinking** for internal tools.
+
+<!-- Gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:ec4899&height=3&section=footer" />
+</p>
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Benedictpatrick&show_icons=true&theme=transparent&hide_title=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedictpatrick&layout=compact&theme=transparent&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Benedictpatrick&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<!-- Gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:14b8a6&height=3&section=footer" />
+</p>
+
+---
+
+## 🧊 3D Contribution Graph
+
+> Optional but looks elite once set up.  
+> Generate using `github-profile-3d-contrib` and commit SVG to  
+> `profile-3d-contrib/profile-green.svg` in this repo.
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/profile-3d-contrib/profile-green.svg" />
-</div>
+</p>
+
+<!-- Gradient divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:a855f7&height=3&section=footer" />
+</p>
 
 ---
 
-## 📈 Stats that Matter
+## 🎯 Current Focus
 
-<div align="center">
+- Strengthening **DSA, system design and low-level fundamentals**
+- Building more **production-style apps** (tests, better structure, deployment)
+- Deeper dive into **AI/ML pipelines** that plug into real products
+- Gradually contributing to **open-source** and collaborative projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=Benedictpatrick&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Benedictpatrick&theme=tokyonight&hide_border=true" height="180" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1600&color=22C55E&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling+%F0%9F%91%8B;Let%27s+build+something+impactful+%F0%9F%9A%80" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedictpatrick&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
-
----
-
-## 🎯 Roadmap
-
-- Deep dive into **AI/ML for real products**, not just notebooks  
-- Learn **DevOps & cloud** to ship scalable systems  
-- Contribute more to **open-source**  
-- Keep shipping projects that look and feel production-ready  
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=00FF9C&center=true&vCenter=true&width=600&lines=Thanks+for+scrolling+!+Let's+build+something+cool+%F0%9F%9A%80" />
-</div>
+<!-- ============================= FOOTER BANNER ============================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer" />
+</p>
