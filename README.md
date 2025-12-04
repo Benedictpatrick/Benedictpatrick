@@ -77,7 +77,7 @@ Tools I use to build scalable UIs, performant APIs, and maintainable systems.
 **Stack:** Python · ML/CV Workflow · Web Frontend  
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x450.png?text=GestureTalk+Demo" />
+  <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-27%20223121.png" />
 </p>
 
 - Converts **hand gestures into synthesized speech** for accessibility  
@@ -91,7 +91,7 @@ Tools I use to build scalable UIs, performant APIs, and maintainable systems.
 **Stack:** React · Express · MongoDB  
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x450.png?text=CampusBite+Demo" />
+  <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-24%20214822.png" />
 </p>
 
 - Multi-role platform: **Student · Vendor · Admin**  
@@ -105,7 +105,7 @@ Tools I use to build scalable UIs, performant APIs, and maintainable systems.
 **Stack:** Web Frontend & API Integration  
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x450.png?text=WomenGuard+Demo" />
+  <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-27%20002400.png" />
 </p>
 
 - One-tap emergency alerts with context & location  
@@ -119,7 +119,7 @@ Tools I use to build scalable UIs, performant APIs, and maintainable systems.
 **Stack:** Full-Stack Web (Auth · CRUD · Dashboards)  
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x450.png?text=ERP+Portal+Demo" />
+  <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-30%20182149.png" />
 </p>
 
 - Handles **auth, attendance, academics, profile flows, dashboards**  
