@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Benedict%20Patrick&fontAlign=50&fontAlignY=40&fontSize=45&color=0:0f172a,100:0ea5e9&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Benedict%20&fontAlign=50&fontAlignY=40&fontSize=45&color=0:0f172a,100:0ea5e9&fontColor=ffffff" />
 </p>
 
 <p align="center">
