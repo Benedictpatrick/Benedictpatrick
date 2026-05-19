@@ -1,170 +1,249 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Benedict%20&fontAlign=50&fontAlignY=40&fontSize=45&color=0:0f172a,100:0ea5e9&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Benedict&fontAlign=50&fontAlignY=40&fontSize=50&color=0:020617,100:0ea5e9&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1300&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+in+the+Making;AI%2FML+Explorer+%7C+Applied+Engineering+Mindset;Building+Reliable+Systems+%F0%9F%9A%80;Designing+Products+That+Feel+Good+To+Use;Always+Learning+%7C+Always+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1400&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer+%26+Multi-Domain+Builder;Building+Autonomous+Systems+%26+AI+Infrastructure;ML+%E2%80%A2+Cybersecurity+%E2%80%A2+Agentic+Workflows;Semantic+Systems+%E2%80%A2+Developer+Tooling+%E2%80%A2+Full-Stack+Engineering;Turning+Complex+Problems+Into+Scalable+Products+%F0%9F%9A%80;Always+Learning+%7C+Always+Shipping" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Benedictpatrick&style=for-the-badge&color=0ea5e9" />
 
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:benedictpatrickjohn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0ea5e9&height=2&section=footer" />
 </p>
 
 <!-- ========================= ABOUT ========================= -->
 
-## 👤 About Me
+# 👤 About Me
 
-I’m a CSE undergraduate with a strong focus on **full-stack engineering**, **AI/ML**, and **building production-ready systems**.  
-I enjoy taking ideas from concept → architecture → clean UI → deployed software.
+I’m a CSE undergraduate focused on building intelligent systems across  
+AI/ML, autonomous agents, cybersecurity, infrastructure tooling, and scalable full-stack applications.
 
-I value:
-- 🧠 **Applied problem-solving** — designing systems that are reliable and maintainable  
-- 🎨 **Product thinking** — ensuring users feel clarity, not complexity  
-- ⚙️ **End-to-end ownership** — UI, APIs, DB models, auth, devops  
-- 📈 **Iteration & improvement** — making every project cleaner and more scalable  
+My work combines:
 
-I'm working toward becoming a **multi-domain engineer** capable of shipping impactful systems, contributing to open source, and building tools people rely on.
+- 🤖 AI systems engineering  
+- ⚡ developer infrastructure & tooling  
+- 🔐 cybersecurity-focused architectures  
+- 🧠 multi-agent orchestration  
+- 🌐 production-grade full-stack systems  
 
-> _“Good engineering isn’t about writing more code,it’s about writing the right code cleanly.”_
+I enjoy building products that sit at the intersection of:
+
+> research × engineering × usability
+
+Most of my projects focus on solving operational and real-world workflow problems using:
+
+- AI agents  
+- semantic systems  
+- computer vision  
+- autonomous workflows  
+- intelligent automation  
+- scalable architectures  
+
+I’m working toward becoming a high-impact multi-domain engineer capable of designing and shipping deeply technical systems end-to-end.
+
+> _“Great engineering is not about complexity — it's about building systems that scale cleanly, think intelligently, and solve real problems.”_
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:22c55e&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:22c55e&height=2&section=footer" />
 </p>
 
 <!-- ========================= TECH STACK ========================= -->
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center"><sub>
-Tools I use to build scalable UIs, performant APIs, and maintainable systems.
+Building scalable systems, intelligent workflows, autonomous agents, and developer infrastructure.
 </sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,django,mongodb,mysql,git,docker,figma,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,express,fastapi,django,mongodb,postgres,mysql,docker,linux,git,github,figma,tensorflow&perline=6" />
 </p>
 
+---
+
+## ⚡ Core Domains
+
+```txt
+AI Systems Engineering
+Autonomous Agents & Multi-Agent Systems
+Semantic Search & AI Infrastructure
+Cybersecurity Engineering
+Computer Vision
+Full-Stack Product Engineering
+Developer Tooling
+Scalable Backend Architecture
+Operational Intelligence Systems
+```
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:f97316&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:f97316&height=2&section=footer" />
 </p>
 
 <!-- ========================= TROPHIES ========================= -->
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Benedictpatrick&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:6366f1&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:6366f1&height=2&section=footer" />
 </p>
 
 <!-- ========================= FEATURED PROJECTS ========================= -->
 
-## 🚀 Featured Projects
-
-### 🎯 GestureTalk – AI Gesture-to-Speech Interface  
-**Stack:** Python · ML/CV Workflow · Web Frontend  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-27%20223121.png" />
-</p>
-
-- Converts **hand gestures into synthesized speech** for accessibility  
-- ML pipeline optimized for **fast inference & clean signal interpretation**  
-- Designed with **assistive-tech UX principles**  
-- Modular & extendable gesture mapping system  
+# 🚀 Featured Projects
 
 ---
 
-### 🍔 CampusBite – Campus Food Ordering Platform  
-**Stack:** React · Express · MongoDB  
+## 🧠 Smartgrep — Semantic Code Search Infrastructure
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-24%20214822.png" />
-</p>
+### AI Developer Tooling • Semantic Search • Agent Context Engineering
 
-- Multi-role platform: **Student · Vendor · Admin**  
-- Secure auth, role-based routing, and optimized API structure  
-- Full-stack architecture mirroring real food-delivery apps  
-- Clean UI with predictable user flows  
-
----
-
-### 🛡 WomenGuard – Safety & Emergency Alert System  
-**Stack:** Web Frontend & API Integration  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-27%20002400.png" />
-</p>
-
-- One-tap emergency alerts with context & location  
-- Workflow designed for **low friction during stress scenarios**  
-- Modular architecture for easy integration with SMS/alerts  
-- Focused on clarity, reliability, and accessibility  
+- Local-first semantic code search for developers and AI agents
+- Query entire repositories in plain English
+- Context-aware navigation across large codebases
+- Designed to reduce token/context overload in AI coding workflows
+- Enables faster reasoning for autonomous coding agents
+- Focused on AI-native developer infrastructure
 
 ---
 
-### 🏫 ERP Portal – Academic Management System  
-**Stack:** Full-Stack Web (Auth · CRUD · Dashboards)  
+## 🚦 FlowSense — AI Traffic Intelligence System
+
+### Computer Vision • Smart Infrastructure • SDG 11
+
+- YOLO-powered real-time vehicle detection system
+- Traffic density, queue length, and congestion analysis
+- Adaptive signal optimization logic
+- AI vs traditional traffic workflow comparison dashboard
+- Live camera/video inference pipeline
+- Intelligent urban mobility optimization system
+
+---
+
+## 🛡 Atlas — AI-Powered Cybersecurity System
+
+### Cybersecurity • Threat Intelligence • Autonomous Security
+
+- AI-driven cybersecurity monitoring and analysis platform
+- Intelligent anomaly detection workflows
+- Autonomous operational security concepts
+- Scalable backend architecture for threat analysis
+- Focused on intelligent security automation
+
+---
+
+## 🌍 Ecoverify — Autonomous Governance Intelligence Engine
+
+### Multi-Agent Systems • LangGraph • MCP • Zero Trust Architecture
+
+- Multi-agent operational intelligence ecosystem
+- Cross-domain governance and verification workflows
+- LangGraph-based agent orchestration
+- MCP-integrated autonomous workflows
+- Zero-trust identity-oriented architecture
+- Enterprise-scale operational intelligence concepts
+
+---
+
+## 🏥 Smart Triage — AI Hospital Workflow Optimization
+
+### Healthcare AI • Operational Intelligence
+
+- AI-powered hospital triage and prioritization system
+- Workflow optimization for emergency operations
+- Intelligent routing and resource allocation concepts
+- Healthcare operational automation workflows
+- Designed for efficiency-focused hospital systems
+
+---
+
+## 🧬 SAHA — Sovereign Autonomous Health Agent
+
+### Autonomous Healthcare AI • Intelligent Agents
+
+- Sovereign AI-based healthcare assistant architecture
+- Privacy-focused autonomous health workflows
+- Intelligent interaction and assistance concepts
+- Focused on scalable AI-driven healthcare support
+
+---
+
+## 🍔 CampusBites — Campus Food Commerce Platform
+
+### Full-Stack Application • Commerce Infrastructure
+
+- Campus-focused food ordering ecosystem
+- Multi-role architecture: students, vendors, admins
+- Secure authentication and scalable backend APIs
+- Production-style full-stack workflow implementation
+- Clean UI and operational ordering workflows
+
+---
+
+## ✋ GestureTalk — AI Gesture-to-Speech System
+
+### Computer Vision • Accessibility AI
+
+- Converts hand gestures into synthesized speech
+- Accessibility-focused interaction system
+- Real-time gesture recognition workflows
+- Modular and extensible ML architecture
+- Designed for assistive-tech usability
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-30%20182149.png" />
-</p>
-
-- Handles **auth, attendance, academics, profile flows, dashboards**  
-- Clean separation between UI · logic · database  
-- Built with **scalability & clarity** in mind  
-- Represents ownership of a full internal system  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:ec4899&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:ec4899&height=2&section=footer" />
 </p>
 
 <!-- ========================= ENGINEERING PHILOSOPHY ========================= -->
 
-## 🧩 Engineering Philosophy
+# 🧩 Engineering Philosophy
 
-- **Clarity over cleverness** — simple, readable solutions age the best  
-- **Design before implementation** — the right architecture prevents the wrong code  
-- **User experience matters** — good engineering feels effortless  
-- **Automate repetitive tasks** — save focus for meaningful problems  
-- **Fundamentals compound** — mastery > memorizing frameworks  
+- Clarity over unnecessary complexity  
+- Architecture before implementation  
+- Systems should scale cleanly and predictably  
+- Good engineering should feel invisible to users  
+- Developer tooling should amplify thinking, not slow it down  
+- Automation creates leverage  
+- Strong fundamentals compound over time  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0ea5e9&height=2&section=footer" />
 </p>
 
 <!-- ========================= HIGHLIGHTS ========================= -->
 
-## 🏅 Highlights
+# 🏅 Highlights
 
-- Built several full-stack applications end-to-end  
-- Strong foundation in **DSA, system design, and architecture**  
-- Practical experience in applied **AI/ML workflows**  
-- Designed UI/UX for clarity and real workflows  
-- Continuously improving testing, structure, and deployment skills  
+- Building intelligent systems across multiple engineering domains
+- Experience with AI workflows, full-stack systems, and infrastructure tooling
+- Focused on scalable architecture and operational reliability
+- Exploring autonomous agents and AI-native developer tooling
+- Active in hackathons, rapid prototyping, and applied engineering
+- Continuously improving system design and engineering depth
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:a855f7&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:a855f7&height=2&section=footer" />
 </p>
 
 <!-- ========================= GITHUB STATS ========================= -->
 
-## 📊 GitHub Snapshot
+# 📊 GitHub Snapshot
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Benedictpatrick&show_icons=true&theme=transparent&hide_title=true&hide_border=true" height="160" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedictpatrick&layout=compact&theme=transparent&hide_border=true" height="160" />
 </p>
 
@@ -173,34 +252,36 @@ Tools I use to build scalable UIs, performant APIs, and maintainable systems.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:14b8a6&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:14b8a6&height=2&section=footer" />
 </p>
 
-<!-- ========================= 3D CONTRIBUTION GRAPH ========================= -->
+<!-- ========================= CONTRIBUTION GRAPH ========================= -->
 
-## 🧊 3D Contribution Graph
+# 🧊 3D Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/profile-3d-contrib/profile-green.svg" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:a855f7&height=2&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:a855f7&height=2&section=footer" />
 </p>
 
 <!-- ========================= CURRENT FOCUS ========================= -->
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
-- Deepening **DSA, system design, and low-level fundamentals**  
-- Building **production-style full-stack apps** with scalable architecture  
-- Enhancing skills in **AI/ML pipelines** with practical use-cases  
-- Contributing to **open-source** and collaborative engineering  
+- Deepening AI systems engineering knowledge
+- Building autonomous multi-agent workflows
+- Scaling semantic infrastructure & developer tooling
+- Advancing cybersecurity engineering concepts
+- Improving system design and backend architecture
+- Contributing to impactful open-source systems
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1600&color=22C55E&center=true&vCenter=true&width=600&lines=Thanks+for+stoping+by;Let%27s+build+something+impactful" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1600&color=22C55E&center=true&vCenter=true&width=700&lines=Building+Systems+That+Think+%F0%9F%A7%A0;Engineering+AI-Native+Infrastructure+%F0%9F%9A%80;Always+Shipping+%7C+Always+Improving" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:0ea5e9&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,100:0ea5e9&section=footer" />
 </p>
