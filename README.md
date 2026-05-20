@@ -113,7 +113,7 @@ Tools I use to build scalable UIs, intelligent systems, AI workflows, and mainta
 
 <p align="center">
   <a href="https://benedictpatrick.github.io/smartgrep-web/">
-    <img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -210,19 +210,4 @@ Tools I use to build scalable UIs, intelligent systems, AI workflows, and mainta
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:ec4899&height=2&section=footer" />
-</p>
-
-<!-- ========================= ENGINEERING PHILOSOPHY ========================= -->
-
-## 🧩 Engineering Philosophy
-
-- **Clarity over cleverness** — simple, readable solutions age the best  
-- **Design before implementation** — the right architecture prevents the wrong code  
-- **User experience matters** — good engineering feels effortless  
-- **Automate repetitive tasks** — save focus for meaningful problems  
-- **Systems should scale predictably** — maintainability matters  
-- **Fundamentals compound** — mastery > memorizing frameworks  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2&section=footer" />
 </p>
