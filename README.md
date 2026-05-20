@@ -102,6 +102,30 @@ Tools I use to build scalable UIs, intelligent systems, AI workflows, and mainta
 
 ---
 
+### 🧠 Smartgrep – Semantic Code Search Infrastructure  
+**Stack:** AI Infrastructure · Semantic Search · Developer Tooling  
+
+<p align="center">
+  <a href="https://benedictpatrick.github.io/smartgrep-web/">
+    <img src="YOUR_SMARTGREP_IMAGE_LINK" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://benedictpatrick.github.io/smartgrep-web/">
+    <img src="https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+- Local-first semantic code search for developers and AI agents  
+- Query repositories in plain English  
+- Context-aware navigation across large codebases  
+- Reduces token/context overload in AI workflows  
+- Designed for AI-native developer infrastructure  
+- Helps autonomous coding agents understand repositories faster  
+
+---
+
 ### 🚦 FlowSense – AI Traffic Intelligence System  
 **Stack:** YOLO · Computer Vision · AI Infrastructure  
 
@@ -115,22 +139,6 @@ Tools I use to build scalable UIs, intelligent systems, AI workflows, and mainta
 - Adaptive signal optimization logic  
 - AI vs baseline comparison dashboard  
 - Live camera/video inference pipeline  
-
----
-
-### 🧠 Smartgrep – Semantic Code Search Infrastructure  
-**Stack:** AI Infrastructure · Semantic Search · Developer Tooling  
-
-<p align="center">
-  <img src="YOUR_SMARTGREP_IMAGE_LINK" />
-</p>
-
-- Local-first semantic code search for developers and AI agents  
-- Query repositories in plain English  
-- Context-aware navigation across large codebases  
-- Reduces token/context overload in AI workflows  
-- Designed for AI-native developer infrastructure  
-- Helps autonomous coding agents understand repositories faster  
 
 ---
 
@@ -217,83 +225,4 @@ Tools I use to build scalable UIs, intelligent systems, AI workflows, and mainta
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2&section=footer" />
-</p>
-
-<!-- ========================= HIGHLIGHTS ========================= -->
-
-## 🏅 Highlights
-
-- Built several full-stack and AI-driven applications end-to-end  
-- Strong foundation in **DSA, system design, and architecture**  
-- Practical experience in applied **AI/ML workflows**  
-- Exploring autonomous agents and semantic infrastructure systems  
-- Designed UI/UX for clarity and real operational workflows  
-- Continuously improving testing, structure, scalability, and deployment skills  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:a855f7&height=2&section=footer" />
-</p>
-
-<!-- ========================= GITHUB STATS ========================= -->
-
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benedictpatrick&show_icons=true&theme=transparent&hide_title=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedictpatrick&layout=compact&theme=transparent&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Benedictpatrick&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:14b8a6&height=2&section=footer" />
-</p>
-
-<!-- ========================= 3D CONTRIBUTION GRAPH ========================= -->
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/profile-3d-contrib/profile-green.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:a855f7&height=2&section=footer" />
-</p>
-
-<!-- ========================= CORE INTERESTS ========================= -->
-
-## ⚡ Core Areas of Interest
-
-- AI Systems Engineering  
-- Autonomous Agents & Multi-Agent Systems  
-- Semantic Search & AI Infrastructure  
-- Cybersecurity Engineering  
-- Computer Vision  
-- Developer Tooling  
-- Full-Stack Product Engineering  
-- Intelligent Automation  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:06b6d4&height=2&section=footer" />
-</p>
-
-<!-- ========================= CURRENT FOCUS ========================= -->
-
-## 🎯 Current Focus
-
-- Deepening **DSA, system design, and low-level fundamentals**  
-- Building **AI-native developer tooling and semantic systems**  
-- Exploring **multi-agent orchestration workflows**  
-- Enhancing practical skills in **AI/ML pipelines & cybersecurity systems**  
-- Contributing to **open-source** and collaborative engineering  
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1600&color=22C55E&center=true&vCenter=true&width=700&lines=Building+Systems+That+Think+%F0%9F%A7%A0;Engineering+AI-Native+Infrastructure+%F0%9F%9A%80;Always+Shipping+%7C+Always+Improving" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:0ea5e9&section=footer" />
 </p>
