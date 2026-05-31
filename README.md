@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Benedict%20Patrick&fontAlign=50&fontAlignY=45&fontSize=52&color=0:020617,50:0c1445,100:0f172a&fontColor=e2e8f0&stroke=38bdf8&strokeWidth=2&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Founder%20%40%20Impera&descSize=16&descAlignY=67&descFontColor=94a3b8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Benedict%20Patrick&fontAlign=50&fontAlignY=40&fontSize=55&color=0:020617,50:0c1445,100:0f172a&fontColor=e2e8f0&stroke=38bdf8&strokeWidth=2&desc=Deep%20Tech%20Builder%20%E2%80%A2%20AI%20Infrastructure%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Cybersecurity&descSize=15&descAlignY=63&descFontColor=94a3b8&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=40&lines=Building+AI+Infrastructure+for+the+Physical+World;Autonomous+Systems+%E2%80%A2+Semantic+Tooling+%E2%80%A2+Full-Stack+Engineering;Neuromorphic+AI+%E2%80%A2+Physics-Informed+Neural+Networks;Cybersecurity+%E2%80%A2+Agentic+Workflows+%E2%80%A2+ML+Pipelines;CSE+Final+Year+%40+HITS+Chennai+%7C+Founder+%40+Impera;From+Concept+%E2%86%92+Architecture+%E2%86%92+Production+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=40&lines=AI+Infrastructure+Engineer+%26+Full-Stack+Builder;Founder+%40+Meridian+%E2%80%A2+Deep+Tech+Ventures;Physics-Informed+Neural+Networks+%E2%80%A2+Neuromorphic+AI;Cybersecurity+%E2%80%A2+Agentic+Workflows+%E2%80%A2+Semantic+Tooling;CSE+Final+Year+%40+HITS+Chennai+%F0%9F%87%AE%F0%9F%87%B3;From+Concept+%E2%86%92+Architecture+%E2%86%92+Production+%F0%9F%9A%80" />
 
 </div>
 
@@ -20,7 +20,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://benedictpatrick.github.io/smartgrep-web/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benedict-patrick)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benedictpatrickjohn@gmail.com)
-[![Impera](https://img.shields.io/badge/IMPERA-0f172a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzM4YmRmOCIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNXoiLz48cGF0aCBmaWxsPSIjMzhiZGY4IiBkPSJNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=&logoColor=38bdf8)](https://github.com/Benedictpatrick)
+[![Meridian](https://img.shields.io/badge/FOUNDER%20%40%20MERIDIAN-0f172a?style=for-the-badge&logo=rocket&logoColor=38bdf8)](https://github.com/Benedictpatrick)
 
 </div>
 
@@ -30,9 +30,9 @@
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" align="center" /> &nbsp;About Me
+## 👤 &nbsp;About Me
 
 <table>
 <tr>
@@ -40,50 +40,59 @@
 
 ```typescript
 const benedict = {
-  role:       "AI Systems Engineer & Founder",
-  company:    "Impera",
-  education:  "B.Tech CSE @ HITS Chennai (Final Year)",
+  alias:      "Benedict Patrick",
+
+  roles: [
+    "AI Infrastructure Engineer",
+    "Full-Stack Engineer",
+    "ML & Computer Vision Builder",
+    "Cybersecurity Systems Engineer",
+    "Founder @ Meridian"
+  ],
+
+  education:  "B.Tech CSE — HITS Chennai (Final Year)",
   location:   "Chennai, India 🇮🇳",
 
-  focus: [
-    "AI Infrastructure & Autonomous Systems",
-    "Physics-Informed Neural Networks",
-    "Semantic Developer Tooling",
-    "Full-Stack Engineering",
-    "Cybersecurity & Agentic Workflows"
-  ],
-
   currentlyBuilding: [
-    "Impera — Indian AI Infrastructure",
-    "GameX — PC Hardware & GPU Marketplace",
-    "Smartgrep — Semantic Code Search",
+    "Meridian        — AI Infrastructure Venture",
+    "GameX           — PC Hardware & GPU Marketplace",
+    "Smartgrep       — Semantic Code Search Engine",
+    "Varcas Neural   — Neuromorphic AI in Materials"
   ],
 
-  values: [
-    "End-to-end ownership",
-    "AI-native engineering",
-    "Product thinking",
-    "Civilizational-scale impact"
+  deepInterests: [
+    "Physics-Informed Neural Networks (PINN)",
+    "Autonomous Systems & Agentic Workflows",
+    "Cybersecurity & Threat Intelligence AI",
+    "Civilizational-scale Deep Tech"
   ],
 
-  philosophy:
-    "Build systems that are reliable,
-     maintainable, and solve hard problems."
+  philosophy: [
+    "Think in monopolies, not products.",
+    "Own end-to-end: UI → API → DB → DevOps.",
+    "AI-native = infrastructure, not wrappers."
+  ]
 };
 ```
 
 </td>
 <td width="45%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Benedictpatrick&show_icons=true&theme=midnight-purple&bg_color=020617&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8&border_color=1e293b&border_radius=12&hide_border=false&rank_icon=github&card_width=400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Benedictpatrick&show_icons=true&theme=midnight-purple&bg_color=020617&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8&border_color=1e293b&border_radius=12&hide_border=false&rank_icon=github" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Benedictpatrick&theme=midnight-purple&background=020617&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&border=1e293b&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=Benedictpatrick&theme=midnight-purple&background=020617&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&border=1e293b&border_radius=12" width="100%" />
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedictpatrick&layout=donut&theme=midnight-purple&bg_color=020617&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&border_radius=12&langs_count=8&hide=html,css" />
+
+</div>
 
 <br/>
 
@@ -91,65 +100,56 @@ const benedict = {
 
 <br/>
 
-<!-- ===================== STATS ROW ===================== -->
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠 &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedictpatrick&layout=donut-vertical&theme=midnight-purple&bg_color=020617&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&border_radius=12&langs_count=8&hide=html,css" />
-
-&nbsp;&nbsp;
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Benedictpatrick&theme=github_dark&utcOffset=5.5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,fastapi,tensorflow,pytorch,mongodb,mysql,postgres,supabase,docker,git,linux,figma,vercel&perline=8" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22c55e&height=1&section=footer" />
-
-<br/>
-
-<!-- ===================== TECH STACK ===================== -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" align="center" /> &nbsp;Tech Stack
-
 <div align="center">
 
-**Frontend & UI**
+**🖥️ Frontend & UI**
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](.)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](.)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](.)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](.)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](.)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](.)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](.)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Backend & APIs**
+**⚙️ Backend & APIs**
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](.)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](.)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](.)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](.)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](.)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**AI / ML**
+**🤖 AI / ML Systems**
 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](.)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](.)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3A5E?style=for-the-badge&logo=langchain&logoColor=white)](.)
-[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](.)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](.)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3A5E?style=flat-square&logo=langchain&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![PINN](https://img.shields.io/badge/Physics--Informed%20NN-6366f1?style=flat-square)
 
-**Databases & Cloud**
+**🗄️ Data, Cloud & DevOps**
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](.)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](.)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](.)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)](.)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](.)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](.)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](.)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -161,7 +161,7 @@ const benedict = {
 
 <!-- ===================== TROPHIES ===================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" align="center" /> &nbsp;GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
@@ -177,23 +177,24 @@ const benedict = {
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center" /> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <br/>
 
-<!-- PROJECT 1: GestureTalk -->
+<!-- ═══════════ GestureTalk ═══════════ -->
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 ### ✋ &nbsp;GestureTalk — AI Gesture-to-Speech Interface
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ML/CV](https://img.shields.io/badge/ML%2FCV%20Pipeline-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ML Pipeline](https://img.shields.io/badge/ML%20Pipeline-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility%20Tech-22c55e?style=flat-square)
 
-> _Breaking communication barriers through intelligent gesture recognition._
+> *Breaking communication barriers through intelligent gesture recognition.*
 
 - 🎯 Converts **hand gestures into synthesized speech** for assistive accessibility
 - ⚡ ML pipeline optimized for **fast inference & clean signal interpretation**
@@ -201,9 +202,9 @@ const benedict = {
 - 🎨 Designed with **assistive-tech UX principles** at the core
 
 </td>
-<td width="35%">
+<td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-27%20223121.png" style="border-radius:12px; border: 1px solid #1e293b;" />
+<img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-27%20223121.png" width="100%" />
 
 </td>
 </tr>
@@ -213,33 +214,37 @@ const benedict = {
 
 ---
 
-<!-- PROJECT 2: Smartgrep -->
+<!-- ═══════════ Smartgrep ═══════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,50:0f0f3d,100:0f172a&height=100&text=Smartgrep&fontSize=40&fontColor=a5b4fc&desc=Semantic%20Code%20Search%20Infrastructure%20%E2%80%94%20For%20Developers%20%26%20AI%20Agents&descSize=13&descFontColor=94a3b8&fontAlignY=45&descAlignY=72" width="100%" />
 
 <table>
 <tr>
-<td width="35%">
+<td width="75%">
 
-<img src="https://opengraph.githubassets.com/1/Benedictpatrick/smartgrep-web" style="border-radius:12px; border: 1px solid #1e293b;" />
+### 🧠 &nbsp;Smartgrep
 
-</td>
-<td width="65%">
-
-### 🧠 &nbsp;Smartgrep — Semantic Code Search Infrastructure
-
-![AI](https://img.shields.io/badge/AI%20Infrastructure-0f172a?style=flat-square&logoColor=38bdf8)
+![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-0f172a?style=flat-square)
 ![Semantic Search](https://img.shields.io/badge/Semantic%20Search-6366f1?style=flat-square)
 ![Developer Tooling](https://img.shields.io/badge/Developer%20Tooling-0ea5e9?style=flat-square)
+![Local First](https://img.shields.io/badge/Local--First-22c55e?style=flat-square)
 
-> _Query your codebase in plain English. Built for developers and AI agents._
+> *Query your codebase in plain English. No cloud. No latency. Built for AI-native workflows.*
 
-- 🔍 Local-first **semantic code search** — no cloud, no latency
-- 🗣️ Query repositories in **plain English** naturally
-- 🧭 Context-aware navigation across **large codebases**
-- ⚡ Reduces **token/context overload** in AI workflows
-- 🤖 Designed for **AI-native developer infrastructure**
-- 🚀 Helps autonomous agents **understand repos faster**
+- 🔍 Local-first **semantic code search** — privacy-preserving, zero latency
+- 🗣️ Query repositories in **plain English** — no grep patterns needed
+- 🧭 Context-aware navigation across **large, complex codebases**
+- ⚡ Reduces **token/context overload** in LLM-powered developer workflows
+- 🤖 Helps autonomous agents **understand and navigate repositories faster**
 
-[![Website](https://img.shields.io/badge/LIVE%20SITE-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://benedictpatrick.github.io/smartgrep-web/)
+[![Live Site](https://img.shields.io/badge/%F0%9F%8C%90%20LIVE%20SITE-0f172a?style=for-the-badge)](https://benedictpatrick.github.io/smartgrep-web/)
+
+</td>
+<td width="25%" align="center">
+
+![Status](https://img.shields.io/badge/STATUS-LIVE-22c55e?style=for-the-badge&labelColor=0f172a)
+
+![Type](https://img.shields.io/badge/TYPE-DEV%20TOOL-6366f1?style=for-the-badge&labelColor=0f172a)
 
 </td>
 </tr>
@@ -249,29 +254,30 @@ const benedict = {
 
 ---
 
-<!-- PROJECT 3: CampusBites -->
+<!-- ═══════════ CampusBites ═══════════ -->
 
 <table>
 <tr>
-<td width="65%">
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-24%20214822.png" width="100%" />
+
+</td>
+<td width="60%">
 
 ### 🍔 &nbsp;CampusBites — Campus Food Ordering Platform
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-> _Full-stack food delivery system — Student, Vendor, and Admin under one roof._
+> *Full-stack food delivery platform — Student, Vendor, and Admin under one roof.*
 
-- 👥 Multi-role platform: **Student · Vendor · Admin** with isolated dashboards
-- 🔐 Secure auth with **JWT-based role routing**
-- 📡 Optimized REST API structure with clean data models
-- 🎨 Clean UI with **predictable, zero-confusion flows**
-
-</td>
-<td width="35%">
-
-<img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-24%20214822.png" style="border-radius:12px; border: 1px solid #1e293b;" />
+- 👥 Multi-role architecture: **Student · Vendor · Admin** with isolated dashboards
+- 🔐 Secure **JWT-based auth** with role-level route protection
+- 📡 Clean **REST API** structure with optimized data models
+- 🎨 Clean UI with **predictable, zero-confusion user flows**
 
 </td>
 </tr>
@@ -281,187 +287,138 @@ const benedict = {
 
 ---
 
-<!-- PROJECT 4: FlowSense -->
+<!-- ═══════════ FlowSense ═══════════ -->
 
-<table>
-<tr>
-<td width="35%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:064e3b,50:052e1a,100:0f172a&height=100&text=FlowSense&fontSize=40&fontColor=6ee7b7&desc=AI%20Traffic%20Intelligence%20System%20%E2%80%94%20YOLO%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Adaptive%20Signal%20Control&descSize=13&descFontColor=94a3b8&fontAlignY=45&descAlignY=72" width="100%" />
 
-![FlowSense](https://img.shields.io/badge/AI%20Traffic%20System-020617?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSI1IiByPSIzIiBmaWxsPSIjZjk3MzE2Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIgZmlsbD0iI2VhYjMwOCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTkiIHI9IjMiIGZpbGw9IiMyMmM1NWUiLz48L3N2Zz4=&logoColor=white)
+### 🚦 &nbsp;FlowSense
 
-</td>
-<td width="65%">
-
-### 🚦 &nbsp;FlowSense — AI Traffic Intelligence System
-
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-6366f1?style=flat-square)
 ![AI Infrastructure](https://img.shields.io/badge/AI%20Infrastructure-0ea5e9?style=flat-square)
+![Real-Time](https://img.shields.io/badge/Real--Time%20Inference-f97316?style=flat-square)
 
-> _Real-time traffic intelligence using YOLO and predictive AI._
+> *Real-time traffic intelligence using YOLO-powered detection and predictive AI.*
 
-- 🎯 **YOLO-powered** real-time vehicle detection & classification
-- 📊 Traffic density, queue analysis & **congestion prediction**
-- 🔄 **Adaptive signal optimization** logic
-- 📈 AI vs baseline **comparison dashboard**
-- 📷 Live camera/video **inference pipeline**
-
-</td>
-</tr>
-</table>
+- 🎯 **YOLOv8-powered** real-time vehicle detection & multi-class classification
+- 📊 Traffic density analysis, queue estimation & **congestion prediction**
+- 🔄 **Adaptive signal optimization** logic driven by live traffic state
+- 📈 AI vs baseline **performance comparison dashboard**
+- 📷 Live camera/video stream **inference pipeline**
 
 <br/>
 
 ---
 
-<!-- PROJECT 5: Atlas -->
+<!-- ═══════════ Atlas ═══════════ -->
 
-<table>
-<tr>
-<td width="65%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:450a0a,50:3b0a0a,100:0f172a&height=100&text=Atlas&fontSize=40&fontColor=fca5a5&desc=AI-Powered%20Cybersecurity%20Platform%20%E2%80%94%20Anomaly%20Detection%20%E2%80%A2%20Autonomous%20SecOps&descSize=13&descFontColor=94a3b8&fontAlignY=45&descAlignY=72" width="100%" />
 
-### 🛡 &nbsp;Atlas — AI-Powered Cybersecurity System
+### 🛡️ &nbsp;Atlas
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-EF4444?style=flat-square&logo=shield&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-EF4444?style=flat-square)
 ![AI Systems](https://img.shields.io/badge/AI%20Systems-6366f1?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend%20Infrastructure-0f172a?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-0ea5e9?style=flat-square)
+![Autonomous SecOps](https://img.shields.io/badge/Autonomous%20SecOps-f97316?style=flat-square)
 
-> _Autonomous threat intelligence and anomaly detection at scale._
+> *Autonomous threat intelligence and anomaly detection at enterprise scale.*
 
-- 🧠 **AI-driven** cybersecurity monitoring platform
-- 🔍 Intelligent **anomaly detection workflows**
-- 🤖 Autonomous operational security concepts
-- 📡 Focused on **scalable threat analysis** systems
-
-</td>
-<td width="35%">
-
-![Atlas](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Atlas-Cybersecurity%20AI-EF4444?style=for-the-badge&labelColor=0f172a)
-
-</td>
-</tr>
-</table>
+- 🧠 **AI-driven** cybersecurity monitoring and threat tracking platform
+- 🔍 Intelligent **anomaly detection** across network and system event logs
+- 🤖 Autonomous operational security decision concepts
+- 📡 Designed for **scalable, production-grade threat analysis** systems
 
 <br/>
 
 ---
 
-<!-- PROJECT 6: Ecoverify -->
+<!-- ═══════════ Ecoverify ═══════════ -->
 
-<table>
-<tr>
-<td width="35%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:042f2e,50:042424,100:0f172a&height=100&text=Ecoverify&fontSize=40&fontColor=5eead4&desc=Autonomous%20Governance%20Intelligence%20Engine%20%E2%80%94%20LangGraph%20%E2%80%A2%20MCP%20%E2%80%A2%20Multi-Agent&descSize=13&descFontColor=94a3b8&fontAlignY=45&descAlignY=72" width="100%" />
 
-![Ecoverify](https://img.shields.io/badge/%F0%9F%8C%8D%20Ecoverify-Multi--Agent%20Intelligence-22c55e?style=for-the-badge&labelColor=0f172a)
-
-</td>
-<td width="65%">
-
-### 🌍 &nbsp;Ecoverify — Autonomous Governance Intelligence Engine
+### 🌍 &nbsp;Ecoverify
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3A5E?style=flat-square&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-0ea5e9?style=flat-square)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-6366f1?style=flat-square)
+![Zero-Trust](https://img.shields.io/badge/Zero--Trust%20Architecture-EF4444?style=flat-square)
 
-> _Multi-agent governance intelligence with zero-trust architecture._
+> *Multi-agent governance intelligence with zero-trust identity architecture.*
 
-- 🤝 **Multi-agent operational intelligence** ecosystem
-- 🌐 Cross-domain **governance workflows**
-- 🔗 **LangGraph orchestration + MCP integration**
-- 🔒 **Zero-trust** identity-oriented architecture
-
-</td>
-</tr>
-</table>
+- 🤝 **Multi-agent operational intelligence** ecosystem for cross-domain decisions
+- 🌐 Cross-domain **governance and compliance automation** workflows
+- 🔗 **LangGraph orchestration + MCP integration** for tool-augmented agents
+- 🔒 **Zero-trust identity-oriented** agent architecture
 
 <br/>
 
 ---
 
-<!-- PROJECT 7: SAHA -->
+<!-- ═══════════ SAHA ═══════════ -->
 
-<table>
-<tr>
-<td width="65%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:052e16,50:042012,100:0f172a&height=100&text=SAHA&fontSize=40&fontColor=86efac&desc=Sovereign%20Autonomous%20Health%20Agent%20%E2%80%94%20Privacy-First%20%E2%80%A2%20Intelligent%20Healthcare%20AI&descSize=13&descFontColor=94a3b8&fontAlignY=45&descAlignY=72" width="100%" />
 
-### 🧬 &nbsp;SAHA — Sovereign Autonomous Health Agent
+### 🧬 &nbsp;SAHA
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-6366f1?style=flat-square)
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-22c55e?style=flat-square)
-![Privacy](https://img.shields.io/badge/Privacy--First-0ea5e9?style=flat-square)
+![Privacy-First](https://img.shields.io/badge/Privacy--First-0ea5e9?style=flat-square)
+![Sovereign](https://img.shields.io/badge/Sovereign%20Architecture-f97316?style=flat-square)
 
-> _Autonomous healthcare AI — private, sovereign, and scalable._
+> *Autonomous healthcare AI — private, sovereign, and scalable.*
 
-- 🤖 Autonomous **healthcare-focused AI assistant**
-- 🔐 **Privacy-focused** health interaction workflows
-- 📈 Scalable **intelligent healthcare support** system
-
-</td>
-<td width="35%">
-
-![SAHA](https://img.shields.io/badge/%F0%9F%A7%AC%20SAHA-Sovereign%20Health%20AI-22c55e?style=for-the-badge&labelColor=0f172a)
-
-</td>
-</tr>
-</table>
+- 🤖 **Autonomous healthcare-focused AI assistant** with contextual reasoning
+- 🔐 **Privacy-first** health interaction workflows — no data leaves the device
+- 📈 Scalable **intelligent healthcare support** system architecture
 
 <br/>
 
 ---
 
-<!-- PROJECT 8: Smart Triage -->
+<!-- ═══════════ Smart Triage ═══════════ -->
 
-<table>
-<tr>
-<td width="35%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:431407,50:3a1006,100:0f172a&height=100&text=Smart%20Triage&fontSize=40&fontColor=fed7aa&desc=AI%20Hospital%20Workflow%20Optimization%20%E2%80%94%20Emergency%20Intelligence%20%E2%80%A2%20Adaptive%20Routing&descSize=13&descFontColor=94a3b8&fontAlignY=45&descAlignY=72" width="100%" />
 
-![Smart Triage](https://img.shields.io/badge/%F0%9F%8F%A5%20Smart%20Triage-Hospital%20AI-f97316?style=for-the-badge&labelColor=0f172a)
-
-</td>
-<td width="65%">
-
-### 🏥 &nbsp;Smart Triage — AI Hospital Workflow Optimization
+### 🏥 &nbsp;Smart Triage
 
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-f97316?style=flat-square)
 ![Operational Intelligence](https://img.shields.io/badge/Operational%20Intelligence-6366f1?style=flat-square)
+![Emergency Systems](https://img.shields.io/badge/Emergency%20Systems-EF4444?style=flat-square)
 
-> _AI-powered triage system for emergency workflow optimization._
+> *AI-powered triage for smarter, faster emergency hospital operations.*
 
-- 🏃 **AI-powered** hospital triage system
-- ⚙️ Workflow optimization for **emergency operations**
-- 🧭 Intelligent **prioritization and routing** concepts
-
-</td>
-</tr>
-</table>
+- 🏃 **AI-powered** patient triage and priority scoring system
+- ⚙️ End-to-end **emergency workflow optimization** pipeline
+- 🧭 Intelligent **prioritization and adaptive routing** for multi-department flow
 
 <br/>
 
 ---
 
-<!-- PROJECT 9: ERP Portal -->
+<!-- ═══════════ ERP Portal ═══════════ -->
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 ### 🏫 &nbsp;ERP Portal — Academic Management System
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Web-0ea5e9?style=flat-square)
-![Auth](https://img.shields.io/badge/Auth%20%26%20RBAC-6366f1?style=flat-square)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-0ea5e9?style=flat-square)
+![Auth & RBAC](https://img.shields.io/badge/Auth%20%26%20RBAC-6366f1?style=flat-square)
 ![Dashboards](https://img.shields.io/badge/Dashboards%20%26%20CRUD-22c55e?style=flat-square)
+![Scalable](https://img.shields.io/badge/Scalable%20Architecture-f97316?style=flat-square)
 
-> _End-to-end academic ERP with complete auth, attendance, and analytics._
+> *End-to-end academic ERP — auth, attendance, academics, and analytics in one system.*
 
 - 🔐 Handles **auth, attendance, academics, profile flows, dashboards**
-- 🧱 Clean separation between **UI · logic · database**
-- 📐 Built with **scalability & clarity** as first principles
-- 🏗️ Represents complete **end-to-end system ownership**
+- 🧱 Clean separation of concerns: **UI · Logic · Database**
+- 📐 Built with **scalability & maintainability** as first principles
+- 🏗️ Represents complete **full-system ownership** from design to deployment
 
 </td>
-<td width="35%">
+<td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-30%20182149.png" style="border-radius:12px; border: 1px solid #1e293b;" />
+<img src="https://raw.githubusercontent.com/Benedictpatrick/Benedictpatrick/main/Screenshot%202025-11-30%20182149.png" width="100%" />
 
 </td>
 </tr>
@@ -475,11 +432,11 @@ const benedict = {
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" width="30" align="center" /> &nbsp;Contribution Activity
+## 📊 &nbsp;Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benedictpatrick&bg_color=020617&color=38bdf8&line=6366f1&point=f97316&area=true&area_color=0ea5e920&hide_border=true&radius=12" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Benedictpatrick&bg_color=020617&color=38bdf8&line=6366f1&point=f97316&area=true&area_color=0ea5e920&hide_border=true&radius=12" width="100%" />
 
 </div>
 
@@ -489,18 +446,18 @@ const benedict = {
 
 <br/>
 
-<!-- ===================== WHAT I'M BUILDING ===================== -->
+<!-- ===================== CURRENTLY BUILDING ===================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lightning.png" width="30" align="center" /> &nbsp;Currently Building
+## ⚡ &nbsp;Currently Building @ Meridian & Beyond
 
 <div align="center">
 
-| Project | Status | Description |
-|---|---|---|
-| 🏢 **Impera** | 🔵 Active | Indian AI Infrastructure — the cognitive layer for production AI |
-| 🎮 **GameX** | 🟡 In Progress | PC Hardware & GPU Marketplace (First-party + C2C) |
-| 🔍 **Smartgrep** | 🟢 Live | Semantic code search for developers and AI agents |
-| 🧠 **Varcas Neural Systems** | 🔴 R&D | Neuromorphic AI integrated into physical structural materials |
+| &nbsp; | Project | Status | Description |
+|:---:|:---|:---:|:---|
+| 🏢 | **Meridian** | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) | Indian AI Infrastructure venture — cognitive layer for production AI |
+| 🎮 | **GameX** | ![Building](https://img.shields.io/badge/Building-f97316?style=flat-square) | PC Hardware & GPU Marketplace — First-party + C2C model |
+| 🔍 | **Smartgrep** | ![Live](https://img.shields.io/badge/Live-38bdf8?style=flat-square&labelColor=0f172a) | Semantic code search for developers and autonomous AI agents |
+| 🧬 | **Varcas Neural Systems** | ![R&D](https://img.shields.io/badge/R%26D-6366f1?style=flat-square) | Neuromorphic AI integrated into physical structural materials |
 
 </div>
 
@@ -512,7 +469,7 @@ const benedict = {
 
 <!-- ===================== PHILOSOPHY ===================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30" align="center" /> &nbsp;Engineering Philosophy
+## 💡 &nbsp;Engineering Philosophy
 
 <div align="center">
 
@@ -520,30 +477,38 @@ const benedict = {
 <tr>
 <td align="center" width="25%">
 
-**🧠**
+🧠
+
 **Applied Problem-Solving**
+
 Designing systems that are reliable and maintainable — not clever for its own sake.
 
 </td>
 <td align="center" width="25%">
 
-**🎨**
+🎨
+
 **Product Thinking**
-Users feel clarity, not complexity. Every interface is a contract with the person using it.
+
+Every interface is a contract with the person using it. Users feel clarity, not complexity.
 
 </td>
 <td align="center" width="25%">
 
-**⚙️**
+⚙️
+
 **End-to-End Ownership**
+
 UI, APIs, DB models, auth, devops — no handoffs, no gaps, no excuses.
 
 </td>
 <td align="center" width="25%">
 
-**🤖**
+🤖
+
 **AI-Native Engineering**
-Building autonomous systems, agents, and semantic workflows — not wrappers, actual infrastructure.
+
+Building autonomous systems and semantic infrastructure — not wrappers, actual infrastructure.
 
 </td>
 </tr>
@@ -569,12 +534,12 @@ Building autonomous systems, agents, and semantic workflows — not wrappers, ac
 
 <!-- ===================== CONNECT ===================== -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" align="center" /> &nbsp;Let's Connect
+## 👋 &nbsp;Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/benedict-patrick">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:benedictpatrickjohn@gmail.com">
@@ -593,7 +558,7 @@ Building autonomous systems, agents, and semantic workflows — not wrappers, ac
 
 <br/>
 
-<!-- ===================== SNAKE / FOOTER ===================== -->
+<!-- ===================== SNAKE FOOTER ===================== -->
 
 <div align="center">
 
@@ -607,8 +572,8 @@ Building autonomous systems, agents, and semantic workflows — not wrappers, ac
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:0c1445,100:020617&section=footer&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020617,50:0c1445,100:0f172a&section=footer" />
 
 <div align="center">
-<sub>Built with precision · Powered by curiosity · Designed to last</sub>
+<sub>Built with precision &nbsp;·&nbsp; Powered by curiosity &nbsp;·&nbsp; Designed to last &nbsp;·&nbsp; <strong>Meridian</strong> 🔵</sub>
 </div>
