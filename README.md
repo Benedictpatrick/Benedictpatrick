@@ -50,8 +50,8 @@ const benedict = {
     "Founder @ Meridian"
   ],
 
-  education:  "B.Tech CSE — HITS Chennai (Final Year)",
-  location:   "Chennai, India 🇮🇳",
+  education:  "B.Tech CSE — (Second year),
+  location:   "Chennai, India",
 
   currentlyBuilding: [
     "Meridian        — AI Infrastructure Venture",
