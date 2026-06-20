@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=40&lines=AI+Infrastructure+Engineer+%26+Full-Stack+Builder;Founder+%40+Meridian+%E2%80%A2+Deep+Tech+Ventures;Physics-Informed+Neural+Networks+%E2%80%A2+Neuromorphic+AI;Cybersecurity+%E2%80%A2+Agentic+Workflows+%E2%80%A2+Semantic+Tooling;CSE+Final+Year+%40+HITS+Chennai+%F0%9F%87%AE%F0%9F%87%B3;From+Concept+%E2%86%92+Architecture+%E2%86%92+Production+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=40&lines=AI+Infrastructure+Engineer+%26+Full-Stack+Builder;Founder+%40+Meridian+%E2%80%A2+Deep+Tech+Ventures;Physics-Informed+Neural+Networks+%E2%80%A2+Neuromorphic+AI;Cybersecurity+%E2%80%A2+Agentic+Workflows+%E2%80%A2+Semantic+Tooling;CSE+Sec+Year+%40+HITS+Chennai+%F0%9F%87%AE%F0%9F%87%B3;From+Concept+%E2%86%92+Architecture+%E2%86%92+Production+%F0%9F%9A%80" />
 
 </div>
 
@@ -196,10 +196,10 @@ const benedict = {
 
 > *Breaking communication barriers through intelligent gesture recognition.*
 
-- 🎯 Converts **hand gestures into synthesized speech** for assistive accessibility
-- ⚡ ML pipeline optimized for **fast inference & clean signal interpretation**
-- 🧩 Modular & extendable **gesture-to-phoneme mapping system**
-- 🎨 Designed with **assistive-tech UX principles** at the core
+- Converts **hand gestures into synthesized speech** for assistive accessibility
+- ML pipeline optimized for **fast inference & clean signal interpretation**
+- Modular & extendable **gesture-to-phoneme mapping system**
+- Designed with **assistive-tech UX principles** at the core
 
 </td>
 <td width="40%" align="center">
@@ -231,11 +231,11 @@ const benedict = {
 
 > *Query your codebase in plain English. No cloud. No latency. Built for AI-native workflows.*
 
-- 🔍 Local-first **semantic code search** — privacy-preserving, zero latency
-- 🗣️ Query repositories in **plain English** — no grep patterns needed
-- 🧭 Context-aware navigation across **large, complex codebases**
-- ⚡ Reduces **token/context overload** in LLM-powered developer workflows
-- 🤖 Helps autonomous agents **understand and navigate repositories faster**
+- Local-first **semantic code search** — privacy-preserving, zero latency
+- Query repositories in **plain English** — no grep patterns needed
+- Context-aware navigation across **large, complex codebases**
+- Reduces **token/context overload** in LLM-powered developer workflows
+- Helps autonomous agents **understand and navigate repositories faster**
 
 [![Live Site](https://img.shields.io/badge/%F0%9F%8C%90%20LIVE%20SITE-0f172a?style=for-the-badge)](https://benedictpatrick.github.io/smartgrep-web/)
 
@@ -274,10 +274,10 @@ const benedict = {
 
 > *Full-stack food delivery platform — Student, Vendor, and Admin under one roof.*
 
-- 👥 Multi-role architecture: **Student · Vendor · Admin** with isolated dashboards
-- 🔐 Secure **JWT-based auth** with role-level route protection
-- 📡 Clean **REST API** structure with optimized data models
-- 🎨 Clean UI with **predictable, zero-confusion user flows**
+- Multi-role architecture: **Student · Vendor · Admin** with isolated dashboards
+- Secure **JWT-based auth** with role-level route protection
+- Clean **REST API** structure with optimized data models
+- Clean UI with **predictable, zero-confusion user flows**
 
 </td>
 </tr>
@@ -300,11 +300,11 @@ const benedict = {
 
 > *Real-time traffic intelligence using YOLO-powered detection and predictive AI.*
 
-- 🎯 **YOLOv8-powered** real-time vehicle detection & multi-class classification
-- 📊 Traffic density analysis, queue estimation & **congestion prediction**
-- 🔄 **Adaptive signal optimization** logic driven by live traffic state
-- 📈 AI vs baseline **performance comparison dashboard**
-- 📷 Live camera/video stream **inference pipeline**
+- **YOLOv8-powered** real-time vehicle detection & multi-class classification
+- Traffic density analysis, queue estimation & **congestion prediction**
+- **Adaptive signal optimization** logic driven by live traffic state
+- AI vs baseline **performance comparison dashboard**
+- Live camera/video stream **inference pipeline**
 
 <br/>
 
@@ -323,10 +323,10 @@ const benedict = {
 
 > *Autonomous threat intelligence and anomaly detection at enterprise scale.*
 
-- 🧠 **AI-driven** cybersecurity monitoring and threat tracking platform
-- 🔍 Intelligent **anomaly detection** across network and system event logs
-- 🤖 Autonomous operational security decision concepts
-- 📡 Designed for **scalable, production-grade threat analysis** systems
+- **AI-driven** cybersecurity monitoring and threat tracking platform
+- Intelligent **anomaly detection** across network and system event logs
+- Autonomous operational security decision concepts
+- Designed for **scalable, production-grade threat analysis** systems
 
 <br/>
 
@@ -336,7 +336,7 @@ const benedict = {
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:042f2e,50:042424,100:0f172a&height=100&text=Ecoverify&fontSize=40&fontColor=5eead4&desc=Autonomous%20Governance%20Intelligence%20Engine%20%E2%80%94%20LangGraph%20%E2%80%A2%20MCP%20%E2%80%A2%20Multi-Agent&descSize=13&descFontColor=94a3b8&fontAlignY=45&descAlignY=72" width="100%" />
 
-### 🌍 &nbsp;Ecoverify
+###  &nbsp;Ecoverify
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3A5E?style=flat-square&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-0ea5e9?style=flat-square)
@@ -345,10 +345,10 @@ const benedict = {
 
 > *Multi-agent governance intelligence with zero-trust identity architecture.*
 
-- 🤝 **Multi-agent operational intelligence** ecosystem for cross-domain decisions
-- 🌐 Cross-domain **governance and compliance automation** workflows
-- 🔗 **LangGraph orchestration + MCP integration** for tool-augmented agents
-- 🔒 **Zero-trust identity-oriented** agent architecture
+- **Multi-agent operational intelligence** ecosystem for cross-domain decisions
+- Cross-domain **governance and compliance automation** workflows
+- **LangGraph orchestration + MCP integration** for tool-augmented agents
+- **Zero-trust identity-oriented** agent architecture
 
 <br/>
 
@@ -358,7 +358,7 @@ const benedict = {
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:052e16,50:042012,100:0f172a&height=100&text=SAHA&fontSize=40&fontColor=86efac&desc=Sovereign%20Autonomous%20Health%20Agent%20%E2%80%94%20Privacy-First%20%E2%80%A2%20Intelligent%20Healthcare%20AI&descSize=13&descFontColor=94a3b8&fontAlignY=45&descAlignY=72" width="100%" />
 
-### 🧬 &nbsp;SAHA
+###  &nbsp;SAHA
 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-6366f1?style=flat-square)
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-22c55e?style=flat-square)
@@ -367,9 +367,9 @@ const benedict = {
 
 > *Autonomous healthcare AI — private, sovereign, and scalable.*
 
-- 🤖 **Autonomous healthcare-focused AI assistant** with contextual reasoning
-- 🔐 **Privacy-first** health interaction workflows — no data leaves the device
-- 📈 Scalable **intelligent healthcare support** system architecture
+- **Autonomous healthcare-focused AI assistant** with contextual reasoning
+- **Privacy-first** health interaction workflows — no data leaves the device
+- Scalable **intelligent healthcare support** system architecture
 
 <br/>
 
@@ -379,7 +379,7 @@ const benedict = {
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:431407,50:3a1006,100:0f172a&height=100&text=Smart%20Triage&fontSize=40&fontColor=fed7aa&desc=AI%20Hospital%20Workflow%20Optimization%20%E2%80%94%20Emergency%20Intelligence%20%E2%80%A2%20Adaptive%20Routing&descSize=13&descFontColor=94a3b8&fontAlignY=45&descAlignY=72" width="100%" />
 
-### 🏥 &nbsp;Smart Triage
+### &nbsp;Smart Triage
 
 ![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-f97316?style=flat-square)
 ![Operational Intelligence](https://img.shields.io/badge/Operational%20Intelligence-6366f1?style=flat-square)
@@ -387,9 +387,9 @@ const benedict = {
 
 > *AI-powered triage for smarter, faster emergency hospital operations.*
 
-- 🏃 **AI-powered** patient triage and priority scoring system
-- ⚙️ End-to-end **emergency workflow optimization** pipeline
-- 🧭 Intelligent **prioritization and adaptive routing** for multi-department flow
+-  **AI-powered** patient triage and priority scoring system
+-  End-to-end **emergency workflow optimization** pipeline
+- Intelligent **prioritization and adaptive routing** for multi-department flow
 
 <br/>
 
@@ -401,7 +401,7 @@ const benedict = {
 <tr>
 <td width="60%">
 
-### 🏫 &nbsp;ERP Portal — Academic Management System
+###  &nbsp;ERP Portal — Academic Management System
 
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-0ea5e9?style=flat-square)
 ![Auth & RBAC](https://img.shields.io/badge/Auth%20%26%20RBAC-6366f1?style=flat-square)
@@ -410,10 +410,10 @@ const benedict = {
 
 > *End-to-end academic ERP — auth, attendance, academics, and analytics in one system.*
 
-- 🔐 Handles **auth, attendance, academics, profile flows, dashboards**
-- 🧱 Clean separation of concerns: **UI · Logic · Database**
-- 📐 Built with **scalability & maintainability** as first principles
-- 🏗️ Represents complete **full-system ownership** from design to deployment
+-  Handles **auth, attendance, academics, profile flows, dashboards**
+-  Clean separation of concerns: **UI · Logic · Database**
+-  Built with **scalability & maintainability** as first principles
+-  Represents complete **full-system ownership** from design to deployment
 
 </td>
 <td width="40%" align="center">
@@ -432,7 +432,7 @@ const benedict = {
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 
-## 📊 &nbsp;Contribution Activity
+##  &nbsp;Contribution Activity
 
 <div align="center">
 
@@ -448,7 +448,7 @@ const benedict = {
 
 <!-- ===================== CURRENTLY BUILDING ===================== -->
 
-## ⚡ &nbsp;Currently Building @ Meridian & Beyond
+## &nbsp;Currently Building @ Meridian & Beyond
 
 <div align="center">
 
@@ -469,7 +469,7 @@ const benedict = {
 
 <!-- ===================== PHILOSOPHY ===================== -->
 
-## 💡 &nbsp;Engineering Philosophy
+## &nbsp;Engineering Philosophy
 
 <div align="center">
 
@@ -477,7 +477,7 @@ const benedict = {
 <tr>
 <td align="center" width="25%">
 
-🧠
+
 
 **Applied Problem-Solving**
 
@@ -486,7 +486,7 @@ Designing systems that are reliable and maintainable — not clever for its own 
 </td>
 <td align="center" width="25%">
 
-🎨
+
 
 **Product Thinking**
 
@@ -495,7 +495,7 @@ Every interface is a contract with the person using it. Users feel clarity, not 
 </td>
 <td align="center" width="25%">
 
-⚙️
+
 
 **End-to-End Ownership**
 
@@ -504,7 +504,7 @@ UI, APIs, DB models, auth, devops — no handoffs, no gaps, no excuses.
 </td>
 <td align="center" width="25%">
 
-🤖
+
 
 **AI-Native Engineering**
 
@@ -534,7 +534,7 @@ Building autonomous systems and semantic infrastructure — not wrappers, actual
 
 <!-- ===================== CONNECT ===================== -->
 
-## 👋 &nbsp;Let's Connect
+##  &nbsp;Let's Connect
 
 <div align="center">
 
