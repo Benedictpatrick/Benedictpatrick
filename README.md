@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=40&lines=AI+Infrastructure+Engineer+%26;Founder+%40+Meridian+%E2%80%A2+Deep+Tech+Ventures;Physics-Informed+Neural+Networks+%E2%80%A2+Neuromorphic+AI;Cybersecurity+%E2%80%A2+Agentic+Workflows+%E2%80%A2+Semantic+Tooling;CSE+Second+Year+%40+%F0%9F%87%AE%F0%9F%87%B3;From+Concept+%E2%86%92+Architecture+%E2%86%92+Production+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=40&lines=AI+Infrastructure+Engineer+;Founder+%40+Meridian+%E2%80%A2+Deep+Tech+Ventures;Physics-Informed+Neural+Networks+%E2%80%A2+Neuromorphic+AI;Cybersecurity+%E2%80%A2+Agentic+Workflows+%E2%80%A2+Semantic+Tooling;CSE+Second+Year+%40+%F0%9F%87%AE%F0%9F%87%B3;From+Concept+%E2%86%92+Architecture+%E2%86%92+Production+%F0%9F%9A%80" />
 
 </div>
 
