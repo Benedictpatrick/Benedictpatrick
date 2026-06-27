@@ -575,5 +575,5 @@ Building autonomous systems and semantic infrastructure — not wrappers, actual
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:020617,50:0c1445,100:0f172a&section=footer" />
 
 <div align="center">
-<sub>Built with precision &nbsp;·&nbsp; Powered by curiosity &nbsp;·&nbsp; Designed to last &nbsp;·&nbsp; <strong>Meridian</strong> 🔵</sub>
+<sub>Built with precision &nbsp;·&nbsp; Powered by curiosity &nbsp;·&nbsp; Designed to last &nbsp;·&nbsp;🔵</sub>
 </div>
