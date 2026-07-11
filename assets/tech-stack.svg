@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520">
+  <defs>
+    <radialGradient id="stackBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:#0d1527;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#070709;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#020203;stop-opacity:1"/>
+    </radialGradient>
+
+    <linearGradient id="badgeBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#161b22;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1"/>
+    </linearGradient>
+
+    <!-- Hover glow filter -->
+    <filter id="hoverGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .cat-title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        fill: #3b82f6;
+        letter-spacing: 1.5px;
+      }
+      .badge-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 11.5px;
+        font-weight: 500;
+        fill: #f8fafc;
+      }
+      .badge-rect {
+        fill: url(#badgeBg);
+        stroke: #30363d;
+        stroke-width: 0.8;
+        transition: all 0.3s ease;
+      }
+      .badge-group {
+        cursor: pointer;
+      }
+      .badge-group:hover .badge-rect {
+        stroke: #3b82f6;
+        fill: #1f2937;
+        filter: url(#hoverGlow);
+      }
+      .badge-group:hover .badge-text {
+        fill: #60a5fa;
+      }
+      .badge-group:hover circle {
+        fill: #60a5fa;
+        filter: url(#hoverGlow);
+      }
+      .dot-indicator {
+        fill: #30363d;
+        transition: fill 0.3s;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="520" fill="url(#stackBg)" rx="16" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- ==================== ROW 1: LANGUAGES ==================== -->
+  <g transform="translate(30, 40)">
+    <text x="0" y="24" class="cat-title">LANGUAGES</text>
+    <line x1="0" y1="36" x2="840" y2="36" stroke="#1e293b" stroke-width="0.8" opacity="0.4"/>
+    
+    <!-- Badges -->
+    <g transform="translate(180, 8)" class="badge-group">
+      <rect width="76" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#3b82f6"/>
+      <text x="26" y="18" class="badge-text">Python</text>
+    </g>
+    <g transform="translate(266, 8)" class="badge-group">
+      <rect width="96" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#3b82f6"/>
+      <text x="26" y="18" class="badge-text">TypeScript</text>
+    </g>
+    <g transform="translate(372, 8)" class="badge-group">
+      <rect width="96" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#f5d742"/>
+      <text x="26" y="18" class="badge-text">JavaScript</text>
+    </g>
+    <g transform="translate(478, 8)" class="badge-group">
+      <rect width="64" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#60a5fa"/>
+      <text x="26" y="18" class="badge-text">C++</text>
+    </g>
+    <g transform="translate(552, 8)" class="badge-group">
+      <rect width="50" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#60a5fa"/>
+      <text x="26" y="18" class="badge-text">C</text>
+    </g>
+    <g transform="translate(612, 8)" class="badge-group">
+      <rect width="64" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#ed8936"/>
+      <text x="26" y="18" class="badge-text">Java</text>
+    </g>
+    <g transform="translate(686, 8)" class="badge-group">
+      <rect width="64" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#3b82f6"/>
+      <text x="26" y="18" class="badge-text">SQL</text>
+    </g>
+  </g>
+
+  <!-- ==================== ROW 2: FRAMEWORKS ==================== -->
+  <g transform="translate(30, 130)">
+    <text x="0" y="24" class="cat-title">FRAMEWORKS</text>
+    <line x1="0" y1="36" x2="840" y2="36" stroke="#1e293b" stroke-width="0.8" opacity="0.4"/>
+    
+    <!-- Badges -->
+    <g transform="translate(180, 8)" class="badge-group">
+      <rect width="70" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#61dafb"/>
+      <text x="26" y="18" class="badge-text">React</text>
+    </g>
+    <g transform="translate(260, 8)" class="badge-group">
+      <rect width="80" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#ffffff"/>
+      <text x="26" y="18" class="badge-text">Next.js</text>
+    </g>
+    <g transform="translate(350, 8)" class="badge-group">
+      <rect width="80" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#009688"/>
+      <text x="26" y="18" class="badge-text">FastAPI</text>
+    </g>
+    <g transform="translate(440, 8)" class="badge-group">
+      <rect width="80" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#68a063"/>
+      <text x="26" y="18" class="badge-text">Node.js</text>
+    </g>
+    <g transform="translate(530, 8)" class="badge-group">
+      <rect width="80" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#ffffff"/>
+      <text x="26" y="18" class="badge-text">Express</text>
+    </g>
+    <g transform="translate(620, 8)" class="badge-group">
+      <rect width="80" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#dd0031"/>
+      <text x="26" y="18" class="badge-text">Angular</text>
+    </g>
+    <g transform="translate(710, 8)" class="badge-group">
+      <rect width="90" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#38bdf8"/>
+      <text x="26" y="18" class="badge-text">Tailwind</text>
+    </g>
+  </g>
+
+  <!-- ==================== ROW 3: AI / MACHINE LEARNING ==================== -->
+  <g transform="translate(30, 220)">
+    <text x="0" y="24" class="cat-title">AI &amp; MACHINE LEARNING</text>
+    <line x1="0" y1="36" x2="840" y2="36" stroke="#1e293b" stroke-width="0.8" opacity="0.4"/>
+    
+    <!-- Badges -->
+    <g transform="translate(180, 8)" class="badge-group">
+      <rect width="80" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#ee4c2c"/>
+      <text x="26" y="18" class="badge-text">PyTorch</text>
+    </g>
+    <g transform="translate(270, 8)" class="badge-group">
+      <rect width="96" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#ff6f00"/>
+      <text x="26" y="18" class="badge-text">TensorFlow</text>
+    </g>
+    <g transform="translate(376, 8)" class="badge-group">
+      <rect width="76" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#5c3ee8"/>
+      <text x="26" y="18" class="badge-text">OpenCV</text>
+    </g>
+    <g transform="translate(462, 8)" class="badge-group">
+      <rect width="86" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#00e676"/>
+      <text x="26" y="18" class="badge-text">MediaPipe</text>
+    </g>
+    <g transform="translate(558, 8)" class="badge-group">
+      <rect width="64" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#ffd21e"/>
+      <text x="26" y="18" class="badge-text">YOLO</text>
+    </g>
+    <g transform="translate(632, 8)" class="badge-group">
+      <rect width="68" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#ffffff"/>
+      <text x="26" y="18" class="badge-text">ONNX</text>
+    </g>
+    <g transform="translate(710, 8)" class="badge-group">
+      <rect width="68" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#76b900"/>
+      <text x="26" y="18" class="badge-text">CUDA</text>
+    </g>
+  </g>
+
+  <!-- ==================== ROW 4: AGENTIC & GEN AI ==================== -->
+  <g transform="translate(30, 310)">
+    <text x="0" y="24" class="cat-title">GENERATIVE AI &amp; AGENTS</text>
+    <line x1="0" y1="36" x2="840" y2="36" stroke="#1e293b" stroke-width="0.8" opacity="0.4"/>
+    
+    <!-- Badges -->
+    <g transform="translate(180, 8)" class="badge-group">
+      <rect width="68" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#3b82f6"/>
+      <text x="26" y="18" class="badge-text">LLMs</text>
+    </g>
+    <g transform="translate(258, 8)" class="badge-group">
+      <rect width="90" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#1c3c3c"/>
+      <text x="26" y="18" class="badge-text">LangChain</text>
+    </g>
+    <g transform="translate(358, 8)" class="badge-group">
+      <rect width="90" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#1c3c3c"/>
+      <text x="26" y="18" class="badge-text">LangGraph</text>
+    </g>
+    <g transform="translate(458, 8)" class="badge-group">
+      <rect width="64" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#3b82f6"/>
+      <text x="26" y="18" class="badge-text">RAG</text>
+    </g>
+    <g transform="translate(532, 8)" class="badge-group">
+      <rect width="104" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#3b82f6"/>
+      <text x="26" y="18" class="badge-text">Vector DBs</text>
+    </g>
+    <g transform="translate(646, 8)" class="badge-group">
+      <rect width="76" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#3b82f6"/>
+      <text x="26" y="18" class="badge-text">MLOps</text>
+    </g>
+  </g>
+
+  <!-- ==================== ROW 5: INFRASTRUCTURE ==================== -->
+  <g transform="translate(30, 400)">
+    <text x="0" y="24" class="cat-title">CLOUD &amp; INFRASTRUCTURE</text>
+    <line x1="0" y1="36" x2="840" y2="36" stroke="#1e293b" stroke-width="0.8" opacity="0.4"/>
+    
+    <!-- Badges -->
+    <g transform="translate(180, 8)" class="badge-group">
+      <rect width="76" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#2496ed"/>
+      <text x="26" y="18" class="badge-text">Docker</text>
+    </g>
+    <g transform="translate(266, 8)" class="badge-group">
+      <rect width="68" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#fcc624"/>
+      <text x="26" y="18" class="badge-text">Linux</text>
+    </g>
+    <g transform="translate(344, 8)" class="badge-group">
+      <rect width="118" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#2088ff"/>
+      <text x="26" y="18" class="badge-text">GitHub Actions</text>
+    </g>
+    <g transform="translate(472, 8)" class="badge-group">
+      <rect width="80" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#ffca28"/>
+      <text x="26" y="18" class="badge-text">Firebase</text>
+    </g>
+    <g transform="translate(562, 8)" class="badge-group">
+      <rect width="100" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#336791"/>
+      <text x="26" y="18" class="badge-text">PostgreSQL</text>
+    </g>
+    <g transform="translate(672, 8)" class="badge-group">
+      <rect width="90" height="28" rx="6" class="badge-rect"/>
+      <circle cx="14" cy="14" r="2.5" class="dot-indicator" fill="#3ecf8e"/>
+      <text x="26" y="18" class="badge-text">Supabase</text>
+    </g>
+  </g>
+
+</svg>

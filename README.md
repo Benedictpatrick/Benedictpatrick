@@ -159,19 +159,9 @@ collaboration:
 <div align="center">
   <h2>💻 Technology Capabilities</h2>
   <p>Core tech stack and tools categorized by capability.</p>
+  <br/>
+  <img src="assets/tech-stack.svg" width="100%" alt="Technology Capabilities Grid" loading="lazy"/>
 </div>
-
-<br/>
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Programming Languages** | `Python` • `TypeScript` • `JavaScript` • `C` • `C++` • `Java` • `SQL` |
-| **Web & Backend** | `React` • `Next.js` • `FastAPI` • `Node.js` • `Express` • `Angular` • `TailwindCSS` |
-| **AI & Machine Learning** | `PyTorch` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `MediaPipe` • `YOLO` • `ONNX` • `CUDA` |
-| **Generative & Agentic AI** | `LLMs` • `Hugging Face` • `Prompt Engineering` • `LangChain` • `LangGraph` • `RAG` • `Vector Databases` • `MLOps` |
-| **Infrastructure & Database** | `Docker` • `Linux` • `Git` • `GitHub Actions` • `Firebase` • `MongoDB` • `PostgreSQL` • `Supabase` |
-
-<br/>
 
 <!-- ANIMATED NEURAL NETWORK VISUALIZATION -->
 <div align="center">
