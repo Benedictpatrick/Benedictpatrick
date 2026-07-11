@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380">
+  <defs>
+    <!-- Background styling -->
+    <radialGradient id="journeyBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:#0d1527;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#070709;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#020203;stop-opacity:1"/>
+    </radialGradient>
+
+    <!-- Glassmorphic panel styling -->
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#161b22;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0.2"/>
+    </linearGradient>
+
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .timeline-title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+        fill: #ffffff;
+      }
+      .timeline-desc {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 12px;
+        fill: #94a3b8;
+        line-height: 1.5;
+      }
+      .year-label {
+        font-family: 'Geist Mono', monospace;
+        font-size: 16px;
+        font-weight: 800;
+        fill: #3b82f6;
+        letter-spacing: 1px;
+      }
+      .card-border {
+        stroke: #1e293b;
+        stroke-width: 1;
+      }
+      
+      @media (prefers-color-scheme: light) {
+        rect[fill="url(#journeyBg)"] { fill: #f8fafc !important; stroke: #cbd5e1 !important; }
+        linearGradient#cardGrad stop[offset="0%"] { stop-color: #ffffff !important; stop-opacity: 0.95 !important; }
+        linearGradient#cardGrad stop[offset="100%"] { stop-color: #f1f5f9 !important; stop-opacity: 0.8 !important; }
+        .card-border { stroke: #cbd5e1 !important; }
+        .timeline-title { fill: #0f172a !important; }
+        .timeline-desc { fill: #475569 !important; }
+        .year-label { fill: #1d4ed8 !important; }
+        line[stroke="#1e293b"] { stroke: #cbd5e1 !important; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="380" fill="url(#journeyBg)" rx="16" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Main Title -->
+  <g transform="translate(40, 40)">
+    <text x="0" y="0" font-family="-apple-system, sans-serif" font-size="20" font-weight="800" fill="#f8fafc" letter-spacing="1">ENGINEERING JOURNEY</text>
+    <text x="0" y="20" font-family="-apple-system, sans-serif" font-size="12" font-weight="600" fill="#64748b">Chronological milestones and evolution of capabilities.</text>
+  </g>
+
+  <!-- Horizontal Timeline Axis -->
+  <line x1="80" y1="180" x2="820" y2="180" stroke="#1e293b" stroke-width="2"/>
+  
+  <!-- Glowing flow arrow -->
+  <line x1="80" y1="180" x2="820" y2="180" stroke="#3b82f6" stroke-width="1" opacity="0.3"/>
+
+  <!-- Animated Pulse flowing through the line -->
+  <circle r="2.5" fill="#3b82f6" filter="url(#neonGlow)">
+    <animate attributeName="cx" values="80;820" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ==================== MILESTONE 1: 2021 ==================== -->
+  <g transform="translate(80, 70)">
+    <circle cx="0" cy="110" r="6" fill="#3b82f6" filter="url(#neonGlow)"/>
+    <circle cx="0" cy="110" r="2.5" fill="#ffffff"/>
+    
+    <!-- Connector line -->
+    <line x1="0" y1="110" x2="0" y2="70" stroke="#1e293b" stroke-width="1" stroke-dasharray="2,2"/>
+    
+    <!-- Card Panel -->
+    <g transform="translate(-80, -60)">
+      <rect width="160" height="120" rx="8" fill="url(#cardGrad)" class="card-border"/>
+      <text x="14" y="24" class="year-label">2021</text>
+      <text x="14" y="48" class="timeline-title">The Foundation</text>
+      <text x="14" y="70" class="timeline-desc">First compiler builds,</text>
+      <text x="14" y="86" class="timeline-desc">low-level C code, and</text>
+      <text x="14" y="102" class="timeline-desc">systems architecture.</text>
+    </g>
+  </g>
+
+  <!-- ==================== MILESTONE 2: 2023 ==================== -->
+  <g transform="translate(320, 180)">
+    <circle cx="0" cy="0" r="6" fill="#3b82f6" filter="url(#neonGlow)"/>
+    <circle cx="0" cy="0" r="2.5" fill="#ffffff"/>
+    
+    <!-- Connector line -->
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#1e293b" stroke-width="1" stroke-dasharray="2,2"/>
+    
+    <!-- Card Panel (Positioned below the line) -->
+    <g transform="translate(-80, 40)">
+      <rect width="160" height="120" rx="8" fill="url(#cardGrad)" class="card-border"/>
+      <text x="14" y="24" class="year-label">2023</text>
+      <text x="14" y="48" class="timeline-title">Deep Learning Shift</text>
+      <text x="14" y="70" class="timeline-desc">Computer Vision systems,</text>
+      <text x="14" y="86" class="timeline-desc">MediaPipe &amp; YOLO, and</text>
+      <text x="14" y="102" class="timeline-desc">intelligent software.</text>
+    </g>
+  </g>
+
+  <!-- ==================== MILESTONE 3: 2025 ==================== -->
+  <g transform="translate(560, 70)">
+    <circle cx="0" cy="110" r="6" fill="#3b82f6" filter="url(#neonGlow)"/>
+    <circle cx="0" cy="110" r="2.5" fill="#ffffff"/>
+    
+    <!-- Connector line -->
+    <line x1="0" y1="110" x2="0" y2="70" stroke="#1e293b" stroke-width="1" stroke-dasharray="2,2"/>
+    
+    <!-- Card Panel -->
+    <g transform="translate(-80, -60)">
+      <rect width="160" height="120" rx="8" fill="url(#cardGrad)" class="card-border"/>
+      <text x="14" y="24" class="year-label">2025</text>
+      <text x="14" y="48" class="timeline-title">Research &amp; Security</text>
+      <text x="14" y="70" class="timeline-desc">MSc AI Research, RAG</text>
+      <text x="14" y="86" class="timeline-desc">pipelines, AST parsing,</text>
+      <text x="14" y="102" class="timeline-desc">and core cryptology.</text>
+    </g>
+  </g>
+
+  <!-- ==================== MILESTONE 4: 2026 ==================== -->
+  <g transform="translate(800, 180)">
+    <circle cx="0" cy="0" r="6" fill="#10b981" filter="url(#neonGlow)"/>
+    <circle cx="0" cy="0" r="2.5" fill="#ffffff"/>
+    
+    <!-- Connector line -->
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#1e293b" stroke-width="1" stroke-dasharray="2,2"/>
+    
+    <!-- Card Panel (Positioned below the line) -->
+    <g transform="translate(-130, 40)">
+      <rect width="160" height="120" rx="8" fill="url(#cardGrad)" class="card-border"/>
+      <text x="14" y="24" class="year-label" fill="#10b981">2026</text>
+      <text x="14" y="48" class="timeline-title">Autonomous Scale</text>
+      <text x="14" y="70" class="timeline-desc">High-integrity design,</text>
+      <text x="14" y="86" class="timeline-desc">distributed agent loops,</text>
+      <text x="14" y="102" class="timeline-desc">and global systems.</text>
+    </g>
+  </g>
+
+</svg>
