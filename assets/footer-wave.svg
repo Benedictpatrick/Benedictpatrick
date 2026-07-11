@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:0"/>
+      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f1117;stop-opacity:0"/>
+      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:0.8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Wave layer 1 - back -->
+  <path d="M0,60 C150,90 350,20 600,60 C850,100 1050,30 1200,60 L1200,120 L0,120 Z"
+        fill="#0d1117" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-100,0;0,0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave layer 2 - mid -->
+  <path d="M0,80 C200,50 400,100 600,75 C800,50 1000,90 1200,70 L1200,120 L0,120 Z"
+        fill="#0a0a0a" opacity="0.7">
+    <animateTransform attributeName="transform" type="translate" values="0,0;80,0;0,0" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Wave layer 3 - front -->
+  <path d="M0,95 C300,70 500,110 800,90 C1000,75 1100,105 1200,95 L1200,120 L0,120 Z"
+        fill="#0a0a0a" opacity="0.9"/>
+
+  <!-- Top gradient fade -->
+  <rect width="1200" height="30" fill="url(#waveGrad1)"/>
+
+  <!-- Subtle blue wave highlight -->
+  <path d="M0,60 C150,90 350,20 600,60 C850,100 1050,30 1200,60"
+        fill="none" stroke="#1d4ed8" stroke-width="0.5" opacity="0.15">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-100,0;0,0" dur="8s" repeatCount="indefinite"/>
+  </path>
+</svg>

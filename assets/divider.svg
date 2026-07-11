@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1"/>
+      <stop offset="20%" style="stop-color:#1e293b;stop-opacity:0.5"/>
+      <stop offset="50%" style="stop-color:#3b82f6;stop-opacity:0.7"/>
+      <stop offset="80%" style="stop-color:#1e293b;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:1"/>
+    </linearGradient>
+
+    <filter id="lineGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="dotGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#93c5fd;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:0.4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main divider line -->
+  <line x1="0" y1="30" x2="1200" y2="30" stroke="url(#divGrad)" stroke-width="0.5" opacity="0.6"/>
+
+  <!-- Glow line -->
+  <line x1="400" y1="30" x2="800" y2="30" stroke="#3b82f6" stroke-width="0.5" opacity="0.3" filter="url(#lineGlow)"/>
+
+  <!-- Center diamond -->
+  <g transform="translate(600, 30)">
+    <polygon points="0,-6 6,0 0,6 -6,0" fill="#0a0a0a" stroke="#3b82f6" stroke-width="0.8" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="3s" repeatCount="indefinite"/>
+    </polygon>
+    <circle cx="0" cy="0" r="2" fill="#60a5fa" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;0.4;0.9" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Left dots -->
+  <g fill="url(#dotGrad)" opacity="0.6">
+    <circle cx="540" cy="30" r="1.5">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="520" cy="30" r="1">
+      <animate attributeName="opacity" values="0.5;0.15;0.5" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="504" cy="30" r="0.7">
+      <animate attributeName="opacity" values="0.4;0.1;0.4" dur="3.5s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Right dots -->
+  <g fill="url(#dotGrad)" opacity="0.6">
+    <circle cx="660" cy="30" r="1.5">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="680" cy="30" r="1">
+      <animate attributeName="opacity" values="0.5;0.15;0.5" dur="3s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="696" cy="30" r="0.7">
+      <animate attributeName="opacity" values="0.4;0.1;0.4" dur="3.5s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Scanning light sweep animation -->
+  <rect x="-200" y="26" width="200" height="8" fill="#3b82f6" opacity="0.12" rx="4">
+    <animate attributeName="x" values="-200;1200" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.12;0.12;0" keyTimes="0;0.1;0.9;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

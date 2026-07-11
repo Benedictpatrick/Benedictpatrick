@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500">
+  <defs>
+    <radialGradient id="bgCenter" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" style="stop-color:#0f1929;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#080808;stop-opacity:1"/>
+    </radialGradient>
+
+    <filter id="particleBlur">
+      <feGaussianBlur stdDeviation="1"/>
+    </filter>
+
+    <filter id="starGlow">
+      <feGaussianBlur stdDeviation="0.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="500" fill="url(#bgCenter)"/>
+
+  <!-- Constellation / particle field -->
+  <!-- Large particles -->
+  <g filter="url(#starGlow)">
+    <circle cx="120" cy="90" r="1.5" fill="#3b82f6" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="280" cy="150" r="2" fill="#60a5fa" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.25;0.7" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="80" r="1.2" fill="#93c5fd" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.15;0.5" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="120" r="1.8" fill="#3b82f6" opacity="0.65">
+      <animate attributeName="opacity" values="0.65;0.2;0.65" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="830" cy="70" r="1.3" fill="#60a5fa" opacity="0.55">
+      <animate attributeName="opacity" values="0.55;0.18;0.55" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="130" r="1.8" fill="#93c5fd" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;0.22;0.6" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="90" r="1.5" fill="#3b82f6" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.15;0.5" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="70" cy="240" r="1.2" fill="#60a5fa" opacity="0.45">
+      <animate attributeName="opacity" values="0.45;0.12;0.45" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="300" r="1.6" fill="#3b82f6" opacity="0.55">
+      <animate attributeName="opacity" values="0.55;0.2;0.55" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="370" cy="260" r="1" fill="#93c5fd" opacity="0.4">
+      <animate attributeName="opacity" values="0.4;0.1;0.4" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="550" cy="350" r="1.5" fill="#60a5fa" opacity="0.5">
+      <animate attributeName="opacity" values="0.5;0.18;0.5" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="280" r="2" fill="#3b82f6" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;0.25;0.6" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="310" r="1.3" fill="#93c5fd" opacity="0.45">
+      <animate attributeName="opacity" values="0.45;0.14;0.45" dur="6.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="250" r="1.8" fill="#60a5fa" opacity="0.55">
+      <animate attributeName="opacity" values="0.55;0.2;0.55" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1150" cy="340" r="1.2" fill="#3b82f6" opacity="0.4">
+      <animate attributeName="opacity" values="0.4;0.12;0.4" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="160" cy="420" r="1.4" fill="#60a5fa" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.1;0.35" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="340" cy="440" r="1" fill="#93c5fd" opacity="0.3">
+      <animate attributeName="opacity" values="0.3;0.08;0.3" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="460" r="1.5" fill="#3b82f6" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.1;0.35" dur="8.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="430" r="1.2" fill="#60a5fa" opacity="0.3">
+      <animate attributeName="opacity" values="0.3;0.08;0.3" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="450" r="1.6" fill="#93c5fd" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.1;0.35" dur="9.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Constellation connections (very subtle) -->
+  <g stroke="#3b82f6" stroke-width="0.3" opacity="0.12">
+    <line x1="120" y1="90" x2="280" y2="150"/>
+    <line x1="280" y1="150" x2="450" y2="80"/>
+    <line x1="650" y1="120" x2="830" y2="70"/>
+    <line x1="830" y1="70" x2="980" y2="130"/>
+    <line x1="200" y1="300" x2="370" y2="260"/>
+    <line x1="550" y1="350" x2="720" y2="280"/>
+    <line x1="720" y1="280" x2="900" y2="310"/>
+    <line x1="280" y1="150" x2="200" y2="300"/>
+    <line x1="650" y1="120" x2="720" y2="280"/>
+    <line x1="980" y1="130" x2="1050" y2="250"/>
+  </g>
+
+  <!-- Orbiting rings (very subtle) -->
+  <g opacity="0.06">
+    <ellipse cx="600" cy="250" rx="350" ry="180" fill="none" stroke="#3b82f6" stroke-width="0.5" stroke-dasharray="4,8">
+      <animateTransform attributeName="transform" type="rotate" from="0 600 250" to="360 600 250" dur="30s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="600" cy="250" rx="220" ry="120" fill="none" stroke="#60a5fa" stroke-width="0.5" stroke-dasharray="3,10">
+      <animateTransform attributeName="transform" type="rotate" from="360 600 250" to="0 600 250" dur="20s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- Central radial glow -->
+  <circle cx="600" cy="250" r="180" fill="radialGradient" opacity="0">
+    <radialGradient id="centerFade">
+      <stop offset="0%" style="stop-color:#1d4ed8;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#080808;stop-opacity:0"/>
+    </radialGradient>
+  </circle>
+  <circle cx="600" cy="250" r="200" fill="#1d4ed8" opacity="0.025"/>
+  <circle cx="600" cy="250" r="120" fill="#3b82f6" opacity="0.02"/>
+</svg>
