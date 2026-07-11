@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="assets/banner.svg" width="100%" alt="Benedict Patrick — Engineering the Future" loading="lazy"/>
+<img src="assets/banner.svg?v=5" width="100%" alt="Benedict Patrick — Engineering the Future" loading="lazy"/>
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -65,7 +65,7 @@ collaboration:
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -75,14 +75,14 @@ collaboration:
   <h2>🛠️ Core Spheres of Engineering</h2>
   <p>Systems built with clean architecture, high scalability, and clean code.</p>
   <br/>
-  <img src="assets/what-i-build.svg" width="100%" alt="Bento Grid — Core Spheres of Engineering" loading="lazy"/>
+  <img src="assets/what-i-build.svg?v=5" width="100%" alt="Bento Grid — Core Spheres of Engineering" loading="lazy"/>
 </div>
 
 <br/>
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -92,7 +92,7 @@ collaboration:
   <h2>🚀 Featured Venture</h2>
   <p>Transforming software security through autonomy.</p>
   <br/>
-  <img src="assets/securevibe-showcase.svg" width="100%" alt="SecureVibe Product Showcase" loading="lazy"/>
+  <img src="assets/securevibe-showcase.svg?v=5" width="100%" alt="SecureVibe Product Showcase" loading="lazy"/>
   <br/><br/>
   <p>Install the CLI agent globally:</p>
   <pre><code>npm install -g securevibe</code></pre>
@@ -102,7 +102,7 @@ collaboration:
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -112,14 +112,14 @@ collaboration:
   <h2>🤖 Autonomous Compilation &amp; Security Pipeline</h2>
   <p>Isometric representation of the dynamic scanning, analysis, and patching stages.</p>
   <br/>
-  <img src="assets/pipeline.svg" width="100%" alt="SecureVibe Autonomous Pipeline" loading="lazy"/>
+  <img src="assets/pipeline.svg?v=5" width="100%" alt="SecureVibe Autonomous Pipeline" loading="lazy"/>
 </div>
 
 <br/>
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -150,7 +150,7 @@ collaboration:
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -160,12 +160,12 @@ collaboration:
   <h2>💻 Technology Capabilities</h2>
   <p>Core tech stack and tools categorized by capability.</p>
   <br/>
-  <img src="assets/tech-stack.svg" width="100%" alt="Technology Capabilities Grid" loading="lazy"/>
+  <img src="assets/tech-stack.svg?v=5" width="100%" alt="Technology Capabilities Grid" loading="lazy"/>
 </div>
 
 <!-- ANIMATED NEURAL NETWORK VISUALIZATION -->
 <div align="center">
-  <img src="assets/neural-network.svg" width="600" alt="Neural Network Visualization" loading="lazy"/>
+  <img src="assets/neural-network.svg?v=5" width="600" alt="Neural Network Visualization" loading="lazy"/>
   <br/>
   <code>&lt;autonomous-system-flow-graph /&gt;</code>
 </div>
@@ -174,7 +174,7 @@ collaboration:
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -201,7 +201,7 @@ collaboration:
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -226,7 +226,7 @@ collaboration:
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -276,7 +276,7 @@ collaboration:
 
 <!-- SECTION DIVIDER -->
 <div align="center">
-  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+  <img src="assets/divider.svg?v=5" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
@@ -301,7 +301,7 @@ collaboration:
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="assets/footer-wave.svg" width="100%" height="60" alt="" loading="lazy"/>
+  <img src="assets/footer-wave.svg?v=5" width="100%" height="60" alt="" loading="lazy"/>
 </div>
 
 <!-- FOOTER -->
