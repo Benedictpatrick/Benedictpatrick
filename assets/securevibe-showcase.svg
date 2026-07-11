@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380">
+  <defs>
+    <!-- Background Gradient -->
+    <radialGradient id="showcaseBg" cx="70%" cy="30%" r="80%">
+      <stop offset="0%" style="stop-color:#1e293b;stop-opacity:1"/>
+      <stop offset="60%" style="stop-color:#09090b;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#030303;stop-opacity:1"/>
+    </radialGradient>
+
+    <!-- Glowing Blue lines -->
+    <filter id="accentGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .brand-title {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", sans-serif;
+        font-size: 20px;
+        font-weight: 800;
+        letter-spacing: 2px;
+        fill: #f8fafc;
+      }
+      .brand-subtitle {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
+        font-size: 13.5px;
+        fill: #3b82f6;
+        font-weight: 600;
+        letter-spacing: 0.5px;
+      }
+      .brand-desc {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
+        font-size: 14px;
+        line-height: 1.6;
+        fill: #94a3b8;
+      }
+      .feature-title {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
+        font-size: 13px;
+        font-weight: 700;
+        fill: #f1f5f9;
+      }
+      .feature-desc {
+        font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
+        font-size: 12.5px;
+        fill: #64748b;
+      }
+    </style>
+  </defs>
+
+  <!-- Card Backdrop -->
+  <rect width="900" height="380" fill="url(#showcaseBg)" rx="16" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Left Side: Copywriting -->
+  <g transform="translate(40, 40)">
+    <!-- Header -->
+    <text x="0" y="24" class="brand-title">SECUREVIBE</text>
+    <text x="180" y="24" class="brand-subtitle">— AUTONOMOUS SECURITY AGENT</text>
+
+    <!-- Tag -->
+    <rect x="0" y="42" width="86" height="22" rx="4" fill="rgba(59, 130, 246, 0.1)" stroke="rgba(59, 130, 246, 0.25)" stroke-width="1"/>
+    <text x="10" y="57" font-family="-apple-system, sans-serif" font-size="11" font-weight="600" fill="#3b82f6">ACTIVE BETA</text>
+
+    <!-- Description -->
+    <text x="0" y="96" class="brand-desc">SecureVibe acts as an autonomous security engineer embedded directly in</text>
+    <text x="0" y="118" class="brand-desc">your development environment. It continuously parses code changes, validates</text>
+    <text x="0" y="140" class="brand-desc">potential security flaws, and delivers pre-verified pull requests containing direct fixes.</text>
+
+    <!-- Features Grid (2x2 layout inside the SVG) -->
+    <!-- Column 1, Row 1 -->
+    <g transform="translate(0, 180)">
+      <circle cx="6" cy="-4" r="3" fill="#3b82f6" filter="url(#accentGlow)"/>
+      <text x="18" y="0" class="feature-title">🤖 Autonomous Code Correction</text>
+      <text x="18" y="20" class="feature-desc">Produces ready-to-merge fixes for vulnerabilities.</text>
+    </g>
+
+    <!-- Column 2, Row 1 -->
+    <g transform="translate(420, 180)">
+      <circle cx="6" cy="-4" r="3" fill="#3b82f6" filter="url(#accentGlow)"/>
+      <text x="18" y="0" class="feature-title">🔍 Full AST-Level SAST Scan</text>
+      <text x="18" y="20" class="feature-desc">Deep structural static scanning across code trees.</text>
+    </g>
+
+    <!-- Column 1, Row 2 -->
+    <g transform="translate(0, 250)">
+      <circle cx="6" cy="-4" r="3" fill="#3b82f6" filter="url(#accentGlow)"/>
+      <text x="18" y="0" class="feature-title">⚡ Integrated CI/CD Checkpoint</text>
+      <text x="18" y="20" class="feature-desc">Blocks vulnerable branches from reaching production.</text>
+    </g>
+
+    <!-- Column 2, Row 2 -->
+    <g transform="translate(420, 250)">
+      <circle cx="6" cy="-4" r="3" fill="#3b82f6" filter="url(#accentGlow)"/>
+      <text x="18" y="0" class="feature-title">🛡️ Complete Security Auditing</text>
+      <text x="18" y="20" class="feature-desc">Detailed risk analysis maps and launch posture reports.</text>
+    </g>
+  </g>
+
+  <!-- Accent bottom border -->
+  <line x1="40" y1="350" x2="860" y2="350" stroke="#1e293b" stroke-width="1"/>
+  <line x1="40" y1="350" x2="200" y2="350" stroke="#3b82f6" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360">
+  <defs>
+    <!-- Card background gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d11;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#070709;stop-opacity:1"/>
+    </linearGradient>
+
+    <!-- Hover glow filter -->
+    <filter id="cardGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <style>
+      .card-title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        font-weight: 600;
+        fill: #f8fafc;
+      }
+      .card-desc {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 12.5px;
+        fill: #64748b;
+      }
+      .card-tag {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        fill: #3b82f6;
+        font-weight: 500;
+      }
+      .card-border {
+        stroke: #1e293b;
+        stroke-width: 1;
+        transition: stroke 0.3s;
+      }
+      .card-bg {
+        fill: url(#cardBg);
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="360" fill="#080808" rx="16"/>
+
+  <!-- Row 1, Card 1: AI -->
+  <g transform="translate(20, 20)">
+    <rect width="268" height="150" rx="12" class="card-bg card-border"/>
+    <!-- Glow element -->
+    <rect width="268" height="150" rx="12" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.15"/>
+    <text x="24" y="38" font-size="24">🤖</text>
+    <text x="24" y="74" class="card-title">Artificial Intelligence</text>
+    <text x="24" y="98" class="card-desc">Agentic frameworks, LLM orchestrations,</text>
+    <text x="24" y="116" class="card-desc">RAG pipelines, and fine-tuning.</text>
+  </g>
+
+  <!-- Row 1, Card 2: Security -->
+  <g transform="translate(316, 20)">
+    <rect width="268" height="150" rx="12" class="card-bg card-border"/>
+    <rect width="268" height="150" rx="12" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.15"/>
+    <text x="24" y="38" font-size="24">🛡️</text>
+    <text x="24" y="74" class="card-title">Cybersecurity</text>
+    <text x="24" y="98" class="card-desc">SAST analysis engines, autonomous</text>
+    <text x="24" y="116" class="card-desc">remediation, and static verification.</text>
+  </g>
+
+  <!-- Row 1, Card 3: DevTools -->
+  <g transform="translate(612, 20)">
+    <rect width="268" height="150" rx="12" class="card-bg card-border"/>
+    <rect width="268" height="150" rx="12" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.15"/>
+    <text x="24" y="38" font-size="24">🔧</text>
+    <text x="24" y="74" class="card-title">Developer Tooling</text>
+    <text x="24" y="98" class="card-desc">Command line interfaces, SDKs,</text>
+    <text x="24" y="116" class="card-desc">automated workflows, and utilities.</text>
+  </g>
+
+  <!-- Row 2, Card 1: Healthcare AI -->
+  <g transform="translate(20, 190)">
+    <rect width="268" height="150" rx="12" class="card-bg card-border"/>
+    <rect width="268" height="150" rx="12" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.15"/>
+    <text x="24" y="38" font-size="24">🏥</text>
+    <text x="24" y="74" class="card-title">Healthcare AI</text>
+    <text x="24" y="98" class="card-desc">Clinical NLP systems, diagnostics</text>
+    <text x="24" y="116" class="card-desc">integrations, and accessible care.</text>
+  </g>
+
+  <!-- Row 2, Card 2: Research -->
+  <g transform="translate(316, 190)">
+    <rect width="268" height="150" rx="12" class="card-bg card-border"/>
+    <rect width="268" height="150" rx="12" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.15"/>
+    <text x="24" y="38" font-size="24">🔬</text>
+    <text x="24" y="74" class="card-title">Deep Tech Research</text>
+    <text x="24" y="98" class="card-desc">Applied computer vision models,</text>
+    <text x="24" y="116" class="card-desc">reinforcement learning, and cryptography.</text>
+  </g>
+
+  <!-- Row 2, Card 3: Web Apps -->
+  <g transform="translate(612, 190)">
+    <rect width="268" height="150" rx="12" class="card-bg card-border"/>
+    <rect width="268" height="150" rx="12" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.15"/>
+    <text x="24" y="38" font-size="24">🌐</text>
+    <text x="24" y="74" class="card-title">Modern Web Apps</text>
+    <text x="24" y="98" class="card-desc">Highly responsive, premium interfaces</text>
+    <text x="24" y="116" class="card-desc">built with React, Next.js, and APIs.</text>
+  </g>
+</svg>
