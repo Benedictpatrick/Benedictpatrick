@@ -1,958 +1,628 @@
-﻿<!-- ============================================================
+<!-- ============================================================
      BENEDICT PATRICK — Premium GitHub Profile README
-     Designed & Engineered with precision
+     Designed & Engineered with absolute precision
      ============================================================ -->
 
 <div align="center">
 
-<!-- ─────────────────────────────────────────────────────── -->
 <!-- HERO BANNER -->
-<!-- ─────────────────────────────────────────────────────── -->
+<img src="assets/banner.svg" width="100%" alt="Benedict Patrick — Engineering the Future" style="border-radius: 12px; border: 1px solid #1e293b;" loading="lazy"/>
 
-<img src="assets/banner.svg" width="100%" alt="Benedict Patrick — Engineering the Future" loading="lazy"/>
+<br/><br/>
+
+<!-- COMMAND PALETTE / TYPING ANIMATION -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 800px; background: #09090b; border: 1px solid #1e293b; border-radius: 12px; overflow: hidden; margin: 10px 0;">
+  <tr>
+    <td style="padding: 10px 16px; background: #0f0f13; border-bottom: 1px solid #1e293b; display: flex; align-items: center; justify-content: space-between;">
+      <div style="display: flex; gap: 6px;">
+        <span style="width: 10px; height: 10px; border-radius: 50%; background: #ef4444; display: inline-block;"></span>
+        <span style="width: 10px; height: 10px; border-radius: 50%; background: #eab308; display: inline-block;"></span>
+        <span style="width: 10px; height: 10px; border-radius: 50%; background: #22c55e; display: inline-block;"></span>
+      </div>
+      <span style="font-family: 'SF Pro Text', -apple-system, sans-serif; font-size: 11px; color: #4b5563; font-weight: 500; letter-spacing: 0.5px;">command-palette.sh</span>
+      <div style="width: 38px;"></div>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 24px; text-align: center;">
+      <a href="https://git.io/typing-svg" target="_blank" style="text-decoration: none;">
+        <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=16&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Intelligent+Systems.;Building+SecureVibe+Autonomous+Agent.;Researching+Deep+Learning+and+AI+Security.;Designing+Developer+Tools+and+Modern+APIs.;Always+Learning.+Always+Building.;Founder+in+Progress." alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- TYPING ANIMATION -->
-<!-- ─────────────────────────────────────────────────────── -->
-
 <br/>
 
+<!-- SECTION DIVIDER -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=18&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Intelligent+Systems.;Building+SecureVibe.;Building+the+Future.;Researching+AI.;Engineering+Products.;Creating+Deep+Tech.;Founder+in+Progress.;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
-
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- DIVIDER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="40" alt="" loading="lazy"/>
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- ABOUT ME -->
-<!-- ─────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-<h2>
-<picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" width="28" height="28" alt="Engineer"/>
-</picture>
-&nbsp; About Me
-</h2>
-
-</div>
-
-<br/>
-
+<!-- ABOUT ME SECTION -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
-
-I'm **Benedict Patrick** — an AI Engineer, ML Researcher, Cybersecurity Engineer, and Startup Founder building systems where intelligent software meets real-world impact.
-
-My work sits at the intersection of **Artificial Intelligence**, **Deep Learning**, **Cybersecurity**, and **Full-Stack Engineering**. I turn research papers into production systems, ideas into shipped products, and complex problems into elegant software.
-
-I believe in three principles:
-
-- **Curiosity** — go deep, stay at the frontier
-- **Execution** — ideas only matter when they ship
-- **Impact** — build things that genuinely change how people work
-
-I'm equally comfortable in a research lab, a startup sprint, or a production on-call rotation.
-
-</td>
-<td width="5%"></td>
-<td width="40%" valign="top">
-
-```yaml
-name:      Benedict Patrick
-role:      AI / ML / Security Engineer
-focus:
-  - Artificial Intelligence
-  - Deep Learning & LLMs
-  - Cybersecurity
-  - Full Stack Development
-  - Startup Founding
-
-currently:
-  - Building SecureVibe
-  - MSc Research in AI
-  - Open Source Contributions
-
-open_to:
-  - Research Collaboration
-  - Hackathons
-  - Freelance Projects
-  - Startup Opportunities
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="55%" valign="top" style="padding-right: 20px;">
+      <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 24px; color: #f8fafc; margin-top: 0; display: flex; align-items: center; gap: 8px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" height="28" alt=""/>
+        About Executive
+      </h2>
+      <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 1.65; color: #94a3b8;">
+        I am <strong>Benedict Patrick</strong>, an AI Engineer, Cybersecurity Researcher, and Startup Founder building the next generation of intelligent, secure systems.
+      </p>
+      <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 1.65; color: #94a3b8;">
+        My engineering focus lies at the intersection of <strong>Deep Learning</strong>, <strong>Agentic AI</strong>, and <strong>Autonomous Security</strong>. I specialize in turning deep tech research papers into scalable production software, emphasizing clean architecture, modular system design, and exceptional developer experience.
+      </p>
+      <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 1.65; color: #94a3b8;">
+        Whether optimizing neural networks, writing static analysis parsers, or designing distributed systems, I aim for high-integrity craftsmanship.
+      </p>
+    </td>
+    <td width="5%"></td>
+    <td width="40%" valign="top">
+      <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; font-family: 'Geist Mono', 'Fira Code', monospace; font-size: 12px; color: #cbd5e1;">
+        <span style="color: #64748b;">// Identity Profile</span><br/>
+        <span style="color: #3b82f6;">const</span> <span style="color: #f1f5f9;">engineer</span> = {<br/>
+        &nbsp;&nbsp;name: <span style="color: #60a5fa;">"Benedict Patrick"</span>,<br/>
+        &nbsp;&nbsp;focus: [<span style="color: #60a5fa;">"AI"</span>, <span style="color: #60a5fa;">"Deep Learning"</span>, <span style="color: #60a5fa;">"Security"</span>],<br/>
+        &nbsp;&nbsp;current: <span style="color: #60a5fa;">"SecureVibe"</span>,<br/>
+        &nbsp;&nbsp;mission: <span style="color: #60a5fa;">"Autonomous Remediation"</span>,<br/>
+        &nbsp;&nbsp;status: <span style="color: #60a5fa;">"Always Building"</span><br/>
+        };<br/><br/>
+        <span style="color: #64748b;">// Active Channels</span><br/>
+        <span style="color: #3b82f6;">export const</span> <span style="color: #f1f5f9;">channels</span> = {<br/>
+        &nbsp;&nbsp;collabs: <span style="color: #22c55e;">true</span>,<br/>
+        &nbsp;&nbsp;research: <span style="color: #22c55e;">true</span>,<br/>
+        &nbsp;&nbsp;startups: <span style="color: #22c55e;">true</span><br/>
+        };
+      </div>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- DIVIDER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- SECTION DIVIDER -->
 <div align="center">
-<img src="assets/divider.svg" width="100%" height="40" alt="" loading="lazy"/>
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- WHAT I BUILD -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- WHAT I BUILD (BENTO GRID STYLE) -->
 <div align="center">
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 24px; color: #f8fafc; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" height="28" alt=""/>
+    Core Spheres of Engineering
+  </h2>
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; color: #64748b; margin-top: 4px; margin-bottom: 24px;">Systems built with clean architecture, high scalability, and clean code.</p>
 
-<h2>
-<picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Hammer%20and%20Wrench.png?raw=true" width="28" height="28" alt="Build"/>
-</picture>
-&nbsp; What I Build
-</h2>
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<td align="center" width="180" style="padding: 12px;">
-
-```
-🤖 Artificial
-   Intelligence
-```
-*LLMs, Agents, RAG,*
-*Prompt Engineering,*
-*Agentic Pipelines*
-
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="180" style="padding: 12px;">
-
-```
-🛡️ Cybersecurity
-   Systems
-```
-*SAST, Auto-Remediation,*
-*Threat Detection,*
-*Secure Dev Tools*
-
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="180" style="padding: 12px;">
-
-```
-🔧 Developer
-   Tools
-```
-*CLIs, SDKs,*
-*Automations,*
-*AI-Powered IDEs*
-
-</td>
-
-</tr>
-
-<tr><td colspan="5" height="16"></td></tr>
-
-<tr>
-
-<td align="center" width="180" style="padding: 12px;">
-
-```
-🏥 Healthcare
-   AI
-```
-*Clinical NLP,*
-*Medical Imaging,*
-*Accessible AI Care*
-
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="180" style="padding: 12px;">
-
-```
-🔬 Research &
-   Innovation
-```
-*Deep Learning,*
-*Computer Vision,*
-*Neural Architecture*
-
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="180" style="padding: 12px;">
-
-```
-🌐 Modern Web
-   Applications
-```
-*React, Next.js,*
-*FastAPI, Full Stack,*
-*Scalable APIs*
-
-</td>
-
-</tr>
-
-<tr><td colspan="5" height="16"></td></tr>
-
-<tr>
-
-<td align="center" width="180" style="padding: 12px;">
-
-```
-⚡ Automation &
-   MLOps
-```
-*CI/CD Pipelines,*
-*Model Deployment,*
-*Workflow AI*
-
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="180" style="padding: 12px;">
-
-```
-♿ Accessibility
-   Tech
-```
-*Gesture Interfaces,*
-*Voice AI,*
-*Inclusive Design*
-
-</td>
-
-<td width="20"></td>
-
-<td align="center" width="180" style="padding: 12px;">
-
-```
-🚀 Startup
-   Products
-```
-*0→1 Products,*
-*Hackathon Builds,*
-*Founder Mindset*
-
-</td>
-
-</tr>
-
-</table>
-
+  <table border="0" cellspacing="0" cellpadding="0" style="max-width: 900px; width: 100%;">
+    <tr>
+      <!-- Column 1 -->
+      <td width="32%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; text-align: left; height: 160px;">
+          <div style="font-size: 24px; margin-bottom: 8px;">🤖</div>
+          <h3 style="font-family: -apple-system, sans-serif; font-size: 15px; color: #f8fafc; margin: 0 0 6px 0; font-weight: 600;">Artificial Intelligence</h3>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #64748b; margin: 0; line-height: 1.5;">Agentic frameworks, LLM orchestrations, RAG pipelines, neural models, and fine-tuning.</p>
+        </div>
+      </td>
+      <td width="2%"></td>
+      <!-- Column 2 -->
+      <td width="32%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; text-align: left; height: 160px;">
+          <div style="font-size: 24px; margin-bottom: 8px;">🛡️</div>
+          <h3 style="font-family: -apple-system, sans-serif; font-size: 15px; color: #f8fafc; margin: 0 0 6px 0; font-weight: 600;">Cybersecurity</h3>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #64748b; margin: 0; line-height: 1.5;">SAST analysis engines, autonomous remediation systems, and static source code verification.</p>
+        </div>
+      </td>
+      <td width="2%"></td>
+      <!-- Column 3 -->
+      <td width="32%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; text-align: left; height: 160px;">
+          <div style="font-size: 24px; margin-bottom: 8px;">🔧</div>
+          <h3 style="font-family: -apple-system, sans-serif; font-size: 15px; color: #f8fafc; margin: 0 0 6px 0; font-weight: 600;">Developer Tooling</h3>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #64748b; margin: 0; line-height: 1.5;">Command line interfaces, SDKs, automated workflows, and developer productivity tools.</p>
+        </div>
+      </td>
+    </tr>
+    <tr><td colspan="5" height="16"></td></tr>
+    <tr>
+      <!-- Column 1 -->
+      <td width="32%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; text-align: left; height: 160px;">
+          <div style="font-size: 24px; margin-bottom: 8px;">🏥</div>
+          <h3 style="font-family: -apple-system, sans-serif; font-size: 15px; color: #f8fafc; margin: 0 0 6px 0; font-weight: 600;">Healthcare AI</h3>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #64748b; margin: 0; line-height: 1.5;">Clinical natural language systems, healthcare accessibility integrations, and computer vision diagnostics.</p>
+        </div>
+      </td>
+      <td width="2%"></td>
+      <!-- Column 2 -->
+      <td width="32%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; text-align: left; height: 160px;">
+          <div style="font-size: 24px; margin-bottom: 8px;">🔬</div>
+          <h3 style="font-family: -apple-system, sans-serif; font-size: 15px; color: #f8fafc; margin: 0 0 6px 0; font-weight: 600;">Deep Tech Research</h3>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #64748b; margin: 0; line-height: 1.5;">Applied computer vision models, reinforcement learning structures, and cryptographic architectures.</p>
+        </div>
+      </td>
+      <td width="2%"></td>
+      <!-- Column 3 -->
+      <td width="32%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; text-align: left; height: 160px;">
+          <div style="font-size: 24px; margin-bottom: 8px;">🌐</div>
+          <h3 style="font-family: -apple-system, sans-serif; font-size: 15px; color: #f8fafc; margin: 0 0 6px 0; font-weight: 600;">Modern Web Apps</h3>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #64748b; margin: 0; line-height: 1.5;">Highly responsive, premium interfaces using React, Next.js, and type-safe backend systems.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- DIVIDER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- SECTION DIVIDER -->
 <div align="center">
-<img src="assets/divider.svg" width="100%" height="40" alt="" loading="lazy"/>
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- STARTUP: SECUREVIBE -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- STARTUP LANDING CARD (SECUREVIBE) -->
 <div align="center">
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 24px; color: #f8fafc; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" height="28" alt=""/>
+    Featured Venture
+  </h2>
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; color: #64748b; margin-top: 4px; margin-bottom: 24px;">Transforming software security through autonomy.</p>
 
-<h2>
-<picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Rocket.png?raw=true" width="28" height="28" alt="Rocket"/>
-</picture>
-&nbsp; Startup
-</h2>
-
+  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 800px; background: #09090b; border: 1px solid #1e293b; border-radius: 16px; overflow: hidden; text-align: left;">
+    <tr>
+      <td style="padding: 32px; background: radial-gradient(circle at 100% 0%, #1e293b 0%, #09090b 70%);">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
+          <span style="font-family: 'SF Pro Display', sans-serif; font-size: 18px; font-weight: 800; color: #f1f5f9; letter-spacing: 2px;">SECUREVIBE</span>
+          <span style="background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.25); color: #3b82f6; font-family: -apple-system, sans-serif; font-size: 11px; padding: 4px 10px; border-radius: 99px; font-weight: 500;">Active Beta</span>
+        </div>
+        <p style="font-family: -apple-system, sans-serif; font-size: 14px; line-height: 1.6; color: #94a3b8; margin: 0 0 24px 0;">
+          SecureVibe acts as an autonomous security engineer within the development environment. It continuously parses code changes, validates potential security flaws, and delivers pre-verified pull requests containing direct code fixes, ensuring that security is proactive rather than reactive.
+        </p>
+        
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-top: 1px solid #1e293b; padding-top: 20px;">
+          <tr>
+            <td width="48%" valign="top">
+              <div style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; font-weight: 600; margin-bottom: 6px;">🤖 Autonomous Code Correction</div>
+              <div style="font-family: -apple-system, sans-serif; font-size: 12px; color: #64748b; line-height: 1.5;">Automatically produces code fixes for detected vulnerabilities.</div>
+            </td>
+            <td width="4%"></td>
+            <td width="48%" valign="top">
+              <div style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; font-weight: 600; margin-bottom: 6px;">🔍 Full AST-Level SAST Scan</div>
+              <div style="font-family: -apple-system, sans-serif; font-size: 12px; color: #64748b; line-height: 1.5;">Performs deep structural code scanning for precise threat tracking.</div>
+            </td>
+          </tr>
+          <tr><td colspan="3" height="16"></td></tr>
+          <tr>
+            <td width="48%" valign="top">
+              <div style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; font-weight: 600; margin-bottom: 6px;">⚡ Integrated CI/CD Checkpoint</div>
+              <div style="font-family: -apple-system, sans-serif; font-size: 12px; color: #64748b; line-height: 1.5;">Blocks vulnerable code branches from production pipelines.</div>
+            </td>
+            <td width="4%"></td>
+            <td width="48%" valign="top">
+              <div style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; font-weight: 600; margin-bottom: 6px;">🛡️ Complete Security Auditing</div>
+              <div style="font-family: -apple-system, sans-serif; font-size: 12px; color: #64748b; line-height: 1.5;">Outputs launch-readiness reports and structural security posture maps.</div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0" width="780">
-<tr>
-<td align="left" style="padding: 32px 40px; background: #0d1117; border-radius: 16px; border: 1px solid #1e293b;">
-
-<br/>
-
-<div align="left">
-
-**`SECUREVIBE`** &nbsp; `— Autonomous Security Engineer`
-
-<br/>
-
-> *Securing software, autonomously. From code to production.*
-
-<br/>
-
-**SecureVibe** is an AI-native security platform that acts as an autonomous security engineer embedded in your development workflow. It continuously analyzes your codebase, detects vulnerabilities, and generates precise remediations — before a single line ships to production.
-
-<br/>
-
-| Capability | Description |
-|:---|:---|
-| 🔍 **Static Analysis** | Deep SAST scanning across languages & frameworks |
-| 🤖 **AI Remediation** | Auto-generated, context-aware security fixes |
-| 🚀 **Launch Readiness** | Pre-deployment security clearance reports |
-| 🛡️ **Secure Dev Loop** | Security integrated from `git commit` to `deploy` |
-| ⚡ **Developer Experience** | Fast, non-intrusive, zero-friction security tooling |
-| 📊 **Risk Intelligence** | Prioritized threat scoring with business context |
-
-<br/>
-
-*`Python` · `FastAPI` · `LLMs` · `SAST` · `React` · `PostgreSQL` · `Docker` · `CI/CD`*
-
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- DIVIDER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- FEATURED PROJECTS SECTION -->
 <div align="center">
-<img src="assets/divider.svg" width="100%" height="40" alt="" loading="lazy"/>
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 24px; color: #f8fafc; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="28" height="28" alt=""/>
+    Featured Projects
+  </h2>
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; color: #64748b; margin-top: 4px; margin-bottom: 24px;">A showcase of open source components, experimental pipelines, and research implementations.</p>
+
+  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 900px;">
+    <!-- ROW 1 -->
+    <tr>
+      <!-- Project 1 -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; text-align: left; height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+              <span style="font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 700; color: #f8fafc;">SecureVibe</span>
+              <span style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #3b82f6;">🛡️ AI Security</span>
+            </div>
+            <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #94a3b8; line-height: 1.5; margin: 0 0 16px 0;">Autonomous security engineer. Detects vulnerabilities and automatically generates code remediations in pull requests.</p>
+          </div>
+          <div style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #64748b;">
+            Python • FastAPI • LLMs • AST-SAST • React
+          </div>
+        </div>
+      </td>
+      <td width="4%"></td>
+      <!-- Project 2 -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; text-align: left; height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+              <span style="font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 700; color: #f8fafc;">SmartGrep</span>
+              <span style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #3b82f6;">🔍 Semantic Search</span>
+            </div>
+            <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #94a3b8; line-height: 1.5; margin: 0 0 16px 0;">AI-powered semantic code search engine. Parses code structure and constructs vector representations for logical search queries.</p>
+          </div>
+          <div style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #64748b;">
+            Python • Vector DB • LangChain • AST Parser
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr><td colspan="3" height="16"></td></tr>
+    <!-- ROW 2 -->
+    <tr>
+      <!-- Project 3 -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; text-align: left; height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+              <span style="font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 700; color: #f8fafc;">GestureTalk</span>
+              <span style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #3b82f6;">✋ CV Assist</span>
+            </div>
+            <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #94a3b8; line-height: 1.5; margin: 0 0 16px 0;">Real-time sign language interpreter translating gestures to text and synthesized speech utilizing computer vision architectures.</p>
+          </div>
+          <div style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #64748b;">
+            Python • MediaPipe • OpenCV • YOLO v8 • React
+          </div>
+        </div>
+      </td>
+      <td width="4%"></td>
+      <!-- Project 4 -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; text-align: left; height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+              <span style="font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 700; color: #f8fafc;">SAHA</span>
+              <span style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #3b82f6;">🏥 Healthcare</span>
+            </div>
+            <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #94a3b8; line-height: 1.5; margin: 0 0 16px 0;">Smart Accessible Health Assistant. An clinical assistance platform utilizing natural language models for diagnostics and care access.</p>
+          </div>
+          <div style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #64748b;">
+            Python • NLP • TensorFlow • FastAPI • Supabase
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr><td colspan="3" height="16"></td></tr>
+    <!-- ROW 3 -->
+    <tr>
+      <!-- Project 5 -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; text-align: left; height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+              <span style="font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 700; color: #f8fafc;">Legacy Code Automation</span>
+              <span style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #3b82f6;">⚙️ Refactoring</span>
+            </div>
+            <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #94a3b8; line-height: 1.5; margin: 0 0 16px 0;">Automated pipeline converting legacy repositories to modern standards, optimizing structures and removing architectural debt.</p>
+          </div>
+          <div style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #64748b;">
+            LangChain • AST-Rewrite • Python • git-core
+          </div>
+        </div>
+      </td>
+      <td width="4%"></td>
+      <!-- Project 6 -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; text-align: left; height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+              <span style="font-family: -apple-system, sans-serif; font-size: 16px; font-weight: 700; color: #f8fafc;">CredAI</span>
+              <span style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #3b82f6;">🔐 Secret Audit</span>
+            </div>
+            <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #94a3b8; line-height: 1.5; margin: 0 0 16px 0;">AI-assisted credential scanning and management system, finding exposed credentials and automating secure rotation.</p>
+          </div>
+          <div style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #64748b;">
+            Python • cryptography • LLMs • PostgreSQL
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- FEATURED PROJECTS -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- SECTION DIVIDER -->
 <div align="center">
-
-<h2>
-<picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gem%20Stone.png?raw=true" width="28" height="28" alt="Projects"/>
-</picture>
-&nbsp; Featured Projects
-</h2>
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="0" width="900">
-<tr>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**SecureVibe**
-
-Autonomous AI security engineer. Detects vulnerabilities and generates remediations in real-time.
-
-`Python` `FastAPI` `LLMs` `SAST` `React`
-
-🛡️ *Security · Startup · AI*
-
-</td>
-
-<td width="16"></td>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**SmartGrep**
-
-AI-powered intelligent code search engine. Semantic understanding of codebases beyond keyword matching.
-
-`Python` `LLMs` `Vector DB` `FastAPI`
-
-🔍 *Developer Tools · AI*
-
-</td>
-
-<td width="16"></td>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**GestureTalk**
-
-Real-time sign language interpreter using computer vision. Enabling communication for the deaf community.
-
-`Python` `MediaPipe` `OpenCV` `YOLO` `React`
-
-✋ *Accessibility · Computer Vision*
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="0" width="900">
-<tr>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**SAHA**
-
-Smart Accessible Health Assistant. AI-powered clinical tool that improves healthcare accessibility for underserved communities.
-
-`Python` `NLP` `FastAPI` `TensorFlow`
-
-🏥 *Healthcare AI · Accessibility*
-
-</td>
-
-<td width="16"></td>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**Legacy Code Automation**
-
-LLM-powered system for automated refactoring and modernization of legacy codebases. Ships safer code faster.
-
-`LangChain` `LLMs` `AST` `Python` `RAG`
-
-⚙️ *Automation · AI Engineering*
-
-</td>
-
-<td width="16"></td>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**CredAI**
-
-Intelligent credential management system with AI-assisted secret detection and secure rotation workflows.
-
-`Python` `Cybersecurity` `LLMs` `PostgreSQL`
-
-🔐 *Security · Credentials · AI*
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="0" width="900">
-<tr>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**Cyber Brain**
-
-AI-powered threat intelligence system. Continuously learns from cyberattack patterns to predict and prevent breaches.
-
-`Python` `Deep Learning` `NLP` `MongoDB`
-
-🧠 *Threat Intelligence · AI Security*
-
-</td>
-
-<td width="16"></td>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**Adaptive Traffic Control**
-
-Reinforcement learning system for smart city traffic optimization. Reduces congestion using real-time adaptive signals.
-
-`Python` `RL` `PyTorch` `Simulation`
-
-🚦 *Smart City · Reinforcement Learning*
-
-</td>
-
-<td width="16"></td>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**EcoVerify**
-
-Blockchain-backed sustainability verification platform. Enables transparent carbon credit tracking and ESG compliance.
-
-`Solidity` `Python` `React` `Web3` `FastAPI`
-
-🌿 *Sustainability · Web3 · Fintech*
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="0" width="900">
-<tr>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**PARQ**
-
-AI-powered parking intelligence system. Real-time space detection and smart reservation via computer vision.
-
-`Python` `YOLO` `OpenCV` `React` `FastAPI`
-
-🅿️ *Smart Infrastructure · Computer Vision*
-
-</td>
-
-<td width="16"></td>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid #1e293b; border-radius: 12px; background: #0a0c10;">
-
-**Quantum Cyber Project**
-
-Research into quantum-resistant cryptographic algorithms for next-generation secure communications.
-
-`Python` `Qiskit` `Cryptography` `Research`
-
-⚛️ *Quantum Computing · Security Research*
-
-</td>
-
-<td width="16"></td>
-
-<td valign="top" width="280" align="left" style="padding: 20px 24px; border: 1px solid transparent; border-radius: 12px; background: transparent;">
-
-</td>
-
-</tr>
-</table>
-
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- DIVIDER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- SKILLS GRID (PREMIUM MINIMALIST CAPSULES) -->
 <div align="center">
-<img src="assets/divider.svg" width="100%" height="40" alt="" loading="lazy"/>
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 24px; color: #f8fafc; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" height="28" alt=""/>
+    Technology Capabilities
+  </h2>
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; color: #64748b; margin-top: 4px; margin-bottom: 24px;">Core tech stack and tools categorized by capability.</p>
+
+  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 900px; text-align: left;">
+    <tr>
+      <!-- Languages & Web -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; height: 320px;">
+          <h3 style="font-family: -apple-system, sans-serif; font-size: 15px; color: #3b82f6; font-weight: 700; margin: 0 0 16px 0; letter-spacing: 0.5px; text-transform: uppercase;">Languages &amp; Architectures</h3>
+          
+          <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; margin: 0 0 6px 0; font-weight: 600;">Programming Languages</p>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #94a3b8; margin: 0 0 16px 0;">Python • TypeScript • JavaScript • C • C++ • Java • SQL</p>
+          
+          <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; margin: 0 0 6px 0; font-weight: 600;">Web &amp; Backend Frameworks</p>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #94a3b8; margin: 0 0 16px 0;">React • Next.js • FastAPI • Node.js • Express • Angular • TailwindCSS</p>
+
+          <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; margin: 0 0 6px 0; font-weight: 600;">Cloud &amp; Infrastructure</p>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #94a3b8; margin: 0;">Docker • Linux • Git • GitHub Actions • Firebase • MongoDB • PostgreSQL • Supabase</p>
+        </div>
+      </td>
+      <td width="4%"></td>
+      <!-- Intelligence & Security -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; height: 320px;">
+          <h3 style="font-family: -apple-system, sans-serif; font-size: 15px; color: #3b82f6; font-weight: 700; margin: 0 0 16px 0; letter-spacing: 0.5px; text-transform: uppercase;">Intelligence &amp; Security</h3>
+          
+          <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; margin: 0 0 6px 0; font-weight: 600;">Machine Learning &amp; Computer Vision</p>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #94a3b8; margin: 0 0 16px 0;">PyTorch • TensorFlow • Scikit-learn • OpenCV • MediaPipe • YOLO • ONNX • CUDA</p>
+          
+          <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; margin: 0 0 6px 0; font-weight: 600;">Generative AI &amp; Agentic Systems</p>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #94a3b8; margin: 0 0 16px 0;">LLMs • Hugging Face • Prompt Engineering • LangChain • LangGraph • RAG • Vector DBs • MLOps</p>
+
+          <p style="font-family: -apple-system, sans-serif; font-size: 13px; color: #f1f5f9; margin: 0 0 6px 0; font-weight: 600;">Security &amp; Analysis</p>
+          <p style="font-family: -apple-system, sans-serif; font-size: 12.5px; color: #94a3b8; margin: 0;">Static Code Analysis (SAST) • Secret Detection • Threat Intelligence Systems • CI/CD Hardening</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- TECHNOLOGY STACK -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- ANIMATED NEURAL NETWORK VISUALIZATION -->
 <div align="center">
-
-<h2>
-<picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png?raw=true" width="28" height="28" alt="Tech"/>
-</picture>
-&nbsp; Technology Stack
-</h2>
-
+  <img src="assets/neural-network.svg" width="600" alt="Neural Network Visualization" style="border: 1px solid #1e293b; border-radius: 12px;" loading="lazy"/>
+  <br/>
+  <span style="font-family: 'Geist Mono', monospace; font-size: 11px; color: #4b5563;">&lt;autonomous-system-flow-graph /&gt;</span>
 </div>
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=3b82f6)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=3b82f6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=f5d742)
-![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=60a5fa)
-![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=60a5fa)
-![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=ed8936)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=3b82f6)
-
-<br/>
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=68a063)
-![Express](https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=ffffff)
-![Angular](https://img.shields.io/badge/Angular-0a0a0a?style=flat-square&logo=angular&logoColor=dd0031)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
-
-<br/>
-
-**AI & Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=ee4c2c)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0a?style=flat-square&logo=tensorflow&logoColor=ff6f00)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=f89939)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=flat-square&logo=opencv&logoColor=5c3ee8)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0a?style=flat-square&logo=huggingface&logoColor=ffd21e)
-![LangChain](https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=langchain&logoColor=1c3c3c)
-![ONNX](https://img.shields.io/badge/ONNX-0a0a0a?style=flat-square&logo=onnx&logoColor=ffffff)
-![CUDA](https://img.shields.io/badge/CUDA-0a0a0a?style=flat-square&logo=nvidia&logoColor=76b900)
-
-<br/>
-
-**Cloud & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=2496ed)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=fcc624)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=flat-square&logo=githubactions&logoColor=2088ff)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=ffca28)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=47a248)
-![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=3ecf8e)
-
-<br/>
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=f05032)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=flat-square&logo=visualstudiocode&logoColor=007acc)
-![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=flat-square&logo=figma&logoColor=f24e1e)
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=flat-square&logo=postman&logoColor=ff6c37)
-
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- NEURAL NETWORK VISUALIZATION -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- STATS & ENGINEERING DYNAMICS -->
 <div align="center">
-<br/>
-<img src="assets/neural-network.svg" width="600" alt="Neural Network Visualization" loading="lazy"/>
-<br/>
-<sub><sup>A visualization of the systems I build — layers of intelligence, learning to see.</sup></sub>
-<br/>
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 24px; color: #f8fafc; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" alt=""/>
+    System Performance &amp; Dynamics
+  </h2>
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; color: #64748b; margin-top: 4px; margin-bottom: 24px;">Live engineering telemetry from current production workspaces.</p>
+
+  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 900px;">
+    <tr>
+      <!-- Stats -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; text-align: center; height: 260px; display: flex; align-items: center; justify-content: center;">
+          <img src="https://github-readme-stats.vercel.app/api?username=Benedictpatrick&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=60a5fa&text_color=94a3b8&bg_color=09090b&ring_color=1d4ed8" width="100%" alt="GitHub Stats" loading="lazy"/>
+        </div>
+      </td>
+      <td width="4%"></td>
+      <!-- Top Languages -->
+      <td width="48%" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 24px; text-align: center; height: 260px; display: flex; align-items: center; justify-content: center;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benedictpatrick&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=94a3b8&bg_color=09090b" width="100%" alt="Top Languages" loading="lazy"/>
+        </div>
+      </td>
+    </tr>
+    <tr><td colspan="3" height="16"></td></tr>
+    <tr>
+      <!-- Streak -->
+      <td colspan="3" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; text-align: center;">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Benedictpatrick&theme=transparent&hide_border=true&stroke=1e293b&ring=3b82f6&fire=60a5fa&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569&background=09090b&currStreakNum=ffffff" width="100%" style="max-width: 600px;" alt="GitHub Streak" loading="lazy"/>
+        </div>
+      </td>
+    </tr>
+    <tr><td colspan="3" height="16"></td></tr>
+    <tr>
+      <!-- Contribution Graph -->
+      <td colspan="3" valign="top">
+        <div style="background: #09090b; border: 1px solid #1e293b; border-radius: 12px; padding: 20px; text-align: center;">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benedictpatrick&bg_color=09090b&color=3b82f6&line=1d4ed8&point=60a5fa&area=true&area_color=1d4ed8&hide_border=true" width="100%" alt="Activity Graph" loading="lazy"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- DIVIDER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
+<!-- SECTION DIVIDER -->
 <div align="center">
-<img src="assets/divider.svg" width="100%" height="40" alt="" loading="lazy"/>
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- GITHUB STATS -->
-<!-- ─────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-<h2>
-<picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Bar%20Chart.png?raw=true" width="28" height="28" alt="Stats"/>
-</picture>
-&nbsp; Engineering Activity
-</h2>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=BenedictPatrick&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=60a5fa&text_color=94a3b8&bg_color=0a0a0a&ring_color=1d4ed8" width="420" alt="GitHub Stats" loading="lazy"/>
-
-&nbsp;&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenedictPatrick&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=94a3b8&bg_color=0a0a0a" width="320" alt="Top Languages" loading="lazy"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BenedictPatrick&theme=transparent&hide_border=true&stroke=1e293b&ring=3b82f6&fire=60a5fa&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569&background=0a0a0a&currStreakNum=ffffff" width="480" alt="GitHub Streak" loading="lazy"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BenedictPatrick&bg_color=0a0a0a&color=3b82f6&line=1d4ed8&point=60a5fa&area=true&area_color=1d4ed8&hide_border=true" width="900" alt="Activity Graph" loading="lazy"/>
-
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- DIVIDER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="40" alt="" loading="lazy"/>
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────────────────── -->
 <!-- ENGINEERING PHILOSOPHY -->
-<!-- ─────────────────────────────────────────────────────── -->
-
 <div align="center">
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 24px; color: #f8fafc; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" height="28" alt=""/>
+    Execution Manifesto
+  </h2>
+  
+  <br/>
 
-<h2>
-<picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Light%20Bulb.png?raw=true" width="28" height="28" alt="Philosophy"/>
-</picture>
-&nbsp; Engineering Philosophy
-</h2>
-
+  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 780px;">
+    <tr>
+      <td style="padding: 40px 48px; background: linear-gradient(135deg, #09090b 0%, #1e293b 100%); border-radius: 16px; border: 1px solid #1e293b; text-align: center;">
+        <p style="font-family: 'SF Pro Display', -apple-system, sans-serif; font-size: 20px; line-height: 1.5; color: #ffffff; font-style: italic; font-weight: 300; margin: 0 0 24px 0;">
+          "Innovation begins where curiosity meets execution."
+        </p>
+        <div style="width: 40px; height: 1px; background: #3b82f6; margin: 0 auto 24px auto;"></div>
+        <p style="font-family: 'Geist Mono', monospace; font-size: 14px; font-weight: 700; color: #3b82f6; margin: 0 0 12px 0; letter-spacing: 2px;">
+          DREAM BOLDLY. BUILD RELENTLESSLY. SHIP FEARLESSLY.
+        </p>
+        <p style="font-family: -apple-system, sans-serif; font-size: 13.5px; line-height: 1.6; color: #94a3b8; max-width: 540px; margin: 0 auto;">
+          I believe high-grade software is not defined by raw line count — it is defined by the elimination of unnecessary complexity. Clear engineering architectures are not aesthetic choices; they are primary product strategies.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0" width="700">
-<tr>
-<td align="center" style="padding: 40px 48px; background: #0d1117; border-radius: 16px; border: 1px solid #1e293b;">
-
-<br/>
-
-*"Innovation begins where*
-*curiosity meets execution."*
-
-<br/>
-
----
-
-<br/>
-
-**Dream boldly.**
-**Build relentlessly.**
-**Ship fearlessly.**
-
-<br/>
-
----
-
-<br/>
-
-*I believe great engineering is not about writing code —*
-*it's about solving the right problems,*
-*with elegance, speed, and purpose.*
-
-*Clean architecture is not an aesthetic choice.*
-*It's a product strategy.*
-
-<br/>
-
-</td>
-</tr>
-</table>
-
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- DIVIDER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="40" alt="" loading="lazy"/>
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────────────────── -->
 <!-- OPEN SOURCE & COLLABORATION -->
-<!-- ─────────────────────────────────────────────────────── -->
-
 <div align="center">
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 24px; color: #f8fafc; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Hands.png" width="28" height="28" alt=""/>
+    Open Source &amp; Alignment
+  </h2>
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; color: #64748b; margin-top: 4px; margin-bottom: 24px;">Encouraging collaboration on research initiatives, security components, and startups.</p>
 
-<h2>
-<picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Open%20Hands.png?raw=true" width="28" height="28" alt="Collaboration"/>
-</picture>
-&nbsp; Open Source & Collaboration
-</h2>
+  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 800px; text-align: center;">
+    <tr>
+      <td width="20%">
+        <div style="font-size: 28px; margin-bottom: 8px;">🔬</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 13.5px; font-weight: 700; color: #f1f5f9; margin-bottom: 4px;">Research</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 11.5px; color: #64748b;">AI &amp; Deep Learning</div>
+      </td>
+      <td width="20%">
+        <div style="font-size: 28px; margin-bottom: 8px;">🤝</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 13.5px; font-weight: 700; color: #f1f5f9; margin-bottom: 4px;">Open Source</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 11.5px; color: #64748b;">PRs &amp; Modules</div>
+      </td>
+      <td width="20%">
+        <div style="font-size: 28px; margin-bottom: 8px;">⚡</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 13.5px; font-weight: 700; color: #f1f5f9; margin-bottom: 4px;">Hackathons</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 11.5px; color: #64748b;">0 to 1 Sprints</div>
+      </td>
+      <td width="20%">
+        <div style="font-size: 28px; margin-bottom: 8px;">🎓</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 13.5px; font-weight: 700; color: #f1f5f9; margin-bottom: 4px;">Mentorship</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 11.5px; color: #64748b;">Advising Devs</div>
+      </td>
+      <td width="20%">
+        <div style="font-size: 28px; margin-bottom: 8px;">🎤</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 13.5px; font-weight: 700; color: #f1f5f9; margin-bottom: 4px;">Speaking</div>
+        <div style="font-family: -apple-system, sans-serif; font-size: 11.5px; color: #64748b;">AI &amp; Tech Talks</div>
+      </td>
+    </tr>
+  </table>
 
+  <br/><br/>
+  
+  <p style="font-family: 'Geist Mono', monospace; font-size: 13px; color: #64748b; font-style: italic;">
+    "The best way to build the future is to open-source the present."
+  </p>
 </div>
 
 <br/>
 
+<!-- SECTION DIVIDER -->
 <div align="center">
-
-I build in public, contribute to the community, and collaborate across disciplines.
-
-If you're working on something that intersects with **AI, Security, Research, or Product** — let's connect.
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="0" width="800">
-<tr>
-
-<td align="center" width="150">
-
-🔬<br/>
-**Research**<br/>
-<sub>AI & Deep Learning</sub>
-
-</td>
-
-<td align="center" width="150">
-
-🤝<br/>
-**Open Source**<br/>
-<sub>PRs Welcome</sub>
-
-</td>
-
-<td align="center" width="150">
-
-⚡<br/>
-**Hackathons**<br/>
-<sub>Sprint & Win</sub>
-
-</td>
-
-<td align="center" width="150">
-
-🎓<br/>
-**Mentoring**<br/>
-<sub>Lift Others Up</sub>
-
-</td>
-
-<td align="center" width="150">
-
-🎤<br/>
-**Speaking**<br/>
-<sub>AI & Tech Talks</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-> *"The best way to build the future is to open-source the present."*
-
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
-<!-- DIVIDER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
-<div align="center">
-<img src="assets/divider.svg" width="100%" height="40" alt="" loading="lazy"/>
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────────────────── -->
 <!-- LET'S CONNECT -->
-<!-- ─────────────────────────────────────────────────────── -->
-
 <div align="center">
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 24px; color: #f8fafc; display: flex; align-items: center; justify-content: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28" height="28" alt=""/>
+    Communications
+  </h2>
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 14px; color: #64748b; margin-top: 4px; margin-bottom: 24px;">Always open to conversations regarding advanced systems engineering, deep tech research, and design systems.</p>
 
-<h2>
-<picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Telephone%20Receiver.png?raw=true" width="28" height="28" alt="Connect"/>
-</picture>
-&nbsp; Let's Connect
-</h2>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="padding: 0 10px;">
+        <a href="https://linkedin.com/in/benedictpatrick" target="_blank" style="text-decoration: none;">
+          <table border="0" cellspacing="0" cellpadding="0" style="background: #09090b; border: 1px solid #1e293b; border-radius: 8px;">
+            <tr>
+              <td style="padding: 10px 20px; font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; color: #f1f5f9;">LinkedIn</td>
+            </tr>
+          </table>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <a href="https://benedictpatrick.dev" target="_blank" style="text-decoration: none;">
+          <table border="0" cellspacing="0" cellpadding="0" style="background: #09090b; border: 1px solid #1e293b; border-radius: 8px;">
+            <tr>
+              <td style="padding: 10px 20px; font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; color: #f1f5f9;">Portfolio</td>
+            </tr>
+          </table>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <a href="https://twitter.com/benedictpatrick" target="_blank" style="text-decoration: none;">
+          <table border="0" cellspacing="0" cellpadding="0" style="background: #09090b; border: 1px solid #1e293b; border-radius: 8px;">
+            <tr>
+              <td style="padding: 10px 20px; font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; color: #f1f5f9;">Twitter / X</td>
+            </tr>
+          </table>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 10px;">
+        <a href="mailto:hello@benedictpatrick.dev" style="text-decoration: none;">
+          <table border="0" cellspacing="0" cellpadding="0" style="background: #09090b; border: 1px solid #1e293b; border-radius: 8px;">
+            <tr>
+              <td style="padding: 10px 20px; font-family: -apple-system, sans-serif; font-size: 13px; font-weight: 600; color: #f1f5f9;">Email</td>
+            </tr>
+          </table>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<br/>
+  <br/><br/>
 
-<p>I'm always open to meaningful conversations about AI, engineering, startups, and the future of technology.</p>
-
-<br/>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<td align="center" style="padding: 8px 12px;">
-<a href="https://linkedin.com/in/benedictpatrick" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=0a0a0a" alt="LinkedIn"/>
-</a>
-</td>
-
-<td align="center" style="padding: 8px 12px;">
-<a href="https://benedictpatrick.dev" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=safari&logoColor=3b82f6&labelColor=0a0a0a" alt="Portfolio"/>
-</a>
-</td>
-
-<td align="center" style="padding: 8px 12px;">
-<a href="https://twitter.com/benedictpatrick" target="_blank">
-<img src="https://img.shields.io/badge/Twitter_/_X-0a0a0a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=0a0a0a" alt="Twitter"/>
-</a>
-</td>
-
-<td align="center" style="padding: 8px 12px;">
-<a href="mailto:hello@benedictpatrick.dev" target="_blank">
-<img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0a0a0a" alt="Email"/>
-</a>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=BenedictPatrick&label=Profile%20Views&color=0a0a0a&style=flat-square&labelColor=1e293b" alt="Profile Views" loading="lazy"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Benedictpatrick&label=Telemetric%20Hits&color=3b82f6&style=flat-square&labelColor=09090b" alt="Profile Views" loading="lazy"/>
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────────────────── -->
 <!-- FOOTER WAVE -->
-<!-- ─────────────────────────────────────────────────────── -->
-
 <div align="center">
-<img src="assets/footer-wave.svg" width="100%" height="80" alt="" loading="lazy"/>
+  <img src="assets/footer-wave.svg" width="100%" height="60" alt="" loading="lazy"/>
 </div>
 
-<!-- ─────────────────────────────────────────────────────── -->
 <!-- FOOTER -->
-<!-- ─────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-<br/>
-
-<sub>
-
-**Designed and Engineered by Benedict Patrick**
-
-*Building tomorrow, one intelligent system at a time.*
-
-</sub>
-
+<div align="center" style="font-family: -apple-system, sans-serif; font-size: 12px; color: #475569; padding-top: 10px;">
+  <span>Designed and Engineered by Benedict Patrick</span><br/>
+  <span style="font-size: 11px; color: #334155; margin-top: 4px; display: inline-block;">Building tomorrow, one intelligent system at a time.</span>
 </div>
-
-<!-- END -->
