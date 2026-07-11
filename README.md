@@ -15,6 +15,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Intelligent+Systems.;Building+SecureVibe+Autonomous+Agent.;Researching+Deep+Learning+and+AI+Security.;Designing+Developer+Tools+and+Modern+APIs.;Always+Learning.+Always+Building.;Founder+in+Progress." alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<!-- INTERACTIVE TERMINAL WIDGET -->
+<img src="assets/interactive-terminal.svg?v=6" width="100%" alt="Interactive Terminal Dashboard" style="border-radius: 12px; border: 1px solid #1e293b;" loading="lazy"/>
+
 </div>
 
 <br/>

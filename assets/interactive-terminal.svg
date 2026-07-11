@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380">
+  <defs>
+    <radialGradient id="termBg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:#0f1115;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#07080a;stop-opacity:1"/>
+    </radialGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .term-text {
+        font-family: 'Geist Mono', 'Fira Code', Monaco, Consolas, monospace;
+        font-size: 13px;
+        fill: #94a3b8;
+      }
+      .term-keyword { fill: #3b82f6; font-weight: bold; }
+      .term-string { fill: #10b981; }
+      .term-comment { fill: #4b5563; }
+      .term-meta { fill: #a855f7; }
+      .term-number { fill: #f59e0b; }
+
+      /* Tabs CSS logic */
+      .tab-content {
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.25s ease, visibility 0.25s;
+      }
+      .tab-btn-rect {
+        fill: #161b22;
+        stroke: #30363d;
+        stroke-width: 0.8;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+      .tab-btn-text {
+        font-family: -apple-system, sans-serif;
+        font-size: 11px;
+        fill: #8b949e;
+        font-weight: 600;
+        cursor: pointer;
+        text-anchor: middle;
+      }
+
+      /* Hover States */
+      .tab-btn:hover .tab-btn-rect {
+        fill: #1f2937;
+        stroke: #3b82f6;
+      }
+      .tab-btn:hover .tab-btn-text {
+        fill: #60a5fa;
+      }
+
+      /* Core display logic */
+      #tab-profile { opacity: 1; visibility: visible; } /* default */
+
+      /* When hovering hardware */
+      #btn-hardware:hover ~ #tab-hardware,
+      #tab-hardware:hover { opacity: 1; visibility: visible; z-index: 5; }
+      #btn-hardware:hover ~ #tab-profile { opacity: 0; visibility: hidden; }
+
+      /* When hovering metrics */
+      #btn-metrics:hover ~ #tab-metrics,
+      #tab-metrics:hover { opacity: 1; visibility: visible; z-index: 5; }
+      #btn-metrics:hover ~ #tab-profile { opacity: 0; visibility: hidden; }
+
+      /* When hovering telemetry */
+      #btn-telemetry:hover ~ #tab-telemetry,
+      #tab-telemetry:hover { opacity: 1; visibility: visible; z-index: 5; }
+      #btn-telemetry:hover ~ #tab-profile { opacity: 0; visibility: hidden; }
+
+      /* Keep tab buttons highlighted when their content is hovered */
+      #tab-hardware:hover ~ #btn-hardware .tab-btn-rect { fill: #1f2937; stroke: #3b82f6; }
+      #tab-hardware:hover ~ #btn-hardware .tab-btn-text { fill: #60a5fa; }
+      #tab-metrics:hover ~ #btn-metrics .tab-btn-rect { fill: #1f2937; stroke: #3b82f6; }
+      #tab-metrics:hover ~ #btn-metrics .tab-btn-text { fill: #60a5fa; }
+      #tab-telemetry:hover ~ #btn-telemetry .tab-btn-rect { fill: #1f2937; stroke: #3b82f6; }
+      #tab-telemetry:hover ~ #btn-telemetry .tab-btn-text { fill: #60a5fa; }
+
+      /* Blinking cursor */
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .cursor {
+        animation: blink 1s infinite;
+        fill: #3b82f6;
+      }
+
+      @media (prefers-color-scheme: light) {
+        rect[fill="url(#termBg)"] { fill: #f8fafc !important; stroke: #cbd5e1 !important; }
+        .header-bar { fill: #e2e8f0 !important; stroke: #cbd5e1 !important; }
+        .tab-btn-rect { fill: #ffffff !important; stroke: #cbd5e1 !important; }
+        .tab-btn-text { fill: #475569 !important; }
+        .tab-btn:hover .tab-btn-rect { fill: #eff6ff !important; stroke: #1d4ed8 !important; }
+        .tab-btn:hover .tab-btn-text { fill: #1d4ed8 !important; }
+        .term-text { fill: #334155 !important; }
+        .term-keyword { fill: #1d4ed8 !important; }
+        .term-string { fill: #059669 !important; }
+        .term-comment { fill: #64748b !important; }
+        .cursor { fill: #1d4ed8 !important; }
+        .terminal-header-title { fill: #475569 !important; }
+      }
+    </style>
+  </defs>
+
+  <!-- Terminal Backdrop -->
+  <rect width="900" height="380" fill="url(#termBg)" rx="12" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Window Header Bar -->
+  <rect width="900" height="38" fill="#0d1117" rx="12" class="header-bar" clip-path="inset(0 0 342 0)" stroke="#1e293b" stroke-width="0.8"/>
+  
+  <!-- macOS dots -->
+  <circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="19" r="6" fill="#27c93f"/>
+
+  <!-- Header Title -->
+  <text x="90" y="24" font-family="'Geist Mono', monospace" font-size="11" fill="#8b949e" class="terminal-header-title">benedict@operating-system:~</text>
+
+  <!-- ==================== TAB BUTTONS ==================== -->
+  
+  <!-- Hardware Button -->
+  <g id="btn-hardware" class="tab-btn">
+    <rect x="520" y="6" width="96" height="26" rx="5" class="tab-btn-rect"/>
+    <text x="568" y="22" class="tab-btn-text">Hardware</text>
+  </g>
+
+  <!-- Metrics Button -->
+  <g id="btn-metrics" class="tab-btn">
+    <rect x="626" y="6" width="96" height="26" rx="5" class="tab-btn-rect"/>
+    <text x="674" y="22" class="tab-btn-text">Metrics</text>
+  </g>
+
+  <!-- Telemetry Button -->
+  <g id="btn-telemetry" class="tab-btn">
+    <rect x="732" y="6" width="96" height="26" rx="5" class="tab-btn-rect"/>
+    <text x="780" y="22" class="tab-btn-text">Telemetry</text>
+  </g>
+
+
+  <!-- ==================== TAB CONTENT: PROFILE (DEFAULT) ==================== -->
+  <g id="tab-profile" class="tab-content" transform="translate(40, 75)">
+    <!-- Terminal prompt -->
+    <text x="0" y="20" class="term-text"><tspan class="term-keyword">benedict</tspan><tspan class="term-meta">@</tspan><tspan class="term-string">OS</tspan> <tspan class="term-keyword">~</tspan> $ cat profile.json</text>
+    
+    <g transform="translate(0, 45)" class="term-text">
+      <text x="0" y="0"><tspan class="term-meta">{</tspan></text>
+      <text x="20" y="22"><tspan class="term-keyword">"username"</tspan>: <tspan class="term-string">"benedictpatrick"</tspan>,</text>
+      <text x="20" y="44"><tspan class="term-keyword">"shell"</tspan>: <tspan class="term-string">"/bin/zsh"</tspan>,</text>
+      <text x="20" y="66"><tspan class="term-keyword">"uptime_days"</tspan>: <tspan class="term-number">247</tspan>,</text>
+      <text x="20" y="88"><tspan class="term-keyword">"active_tasks"</tspan>: <tspan class="term-meta">[</tspan><tspan class="term-string">"MSc Research"</tspan>, <tspan class="term-string">"Startup Founding"</tspan>, <tspan class="term-string">"Open Source"</tspan><tspan class="term-meta">]</tspan>,</text>
+      <text x="20" y="110"><tspan class="term-keyword">"core_focus"</tspan>: <tspan class="term-string">"Deep Tech, AI &amp; Software Security Solutions"</tspan>,</text>
+      <text x="20" y="132"><tspan class="term-keyword">"interests"</tspan>: <tspan class="term-meta">[</tspan><tspan class="term-string">"AST Parsers"</tspan>, <tspan class="term-string">"Agentic Reasoning Loops"</tspan>, <tspan class="term-string">"Scale"</tspan><tspan class="term-meta">]</tspan></text>
+      <text x="0" y="154"><tspan class="term-meta">}</tspan></text>
+    </g>
+
+    <!-- Blinking cursor prompt -->
+    <text x="0" y="245" class="term-text"><tspan class="term-keyword">benedict</tspan><tspan class="term-meta">@</tspan><tspan class="term-string">OS</tspan> <tspan class="term-keyword">~</tspan> $ <rect x="145" y="233" width="8" height="14" class="cursor"/></text>
+  </g>
+
+
+  <!-- ==================== TAB CONTENT: HARDWARE ==================== -->
+  <g id="tab-hardware" class="tab-content" transform="translate(40, 75)">
+    <text x="0" y="20" class="term-text"><tspan class="term-keyword">benedict</tspan><tspan class="term-meta">@</tspan><tspan class="term-string">OS</tspan> <tspan class="term-keyword">~</tspan> $ systeminfo --node compute</text>
+    
+    <g transform="translate(0, 45)" class="term-text">
+      <text x="0" y="0" class="term-comment"># Node System Information Summary</text>
+      <text x="0" y="22"><tspan class="term-keyword">Compute Node:</tspan> Apple Silicon M3 Max (16-Core CPU, 40-Core GPU)</text>
+      <text x="0" y="44"><tspan class="term-keyword">ML Co-Processor:</tspan> NVIDIA RTX 4090 GPU (24GB VRAM) via Local Cluster</text>
+      <text x="0" y="66"><tspan class="term-keyword">Unified Memory:</tspan> 128GB LPDDR5x RAM / 64GB System DDR5</text>
+      <text x="0" y="88"><tspan class="term-keyword">Storage Array:</tspan> 2TB NVMe PCIe Gen 4.0 SSD (Read: 7100MB/s)</text>
+      <text x="0" y="110"><tspan class="term-keyword">Kernel Systems:</tspan> macOS Sequoia &amp; Arch Linux (dual-boot config)</text>
+      <text x="0" y="132"><tspan class="term-keyword">Hardware Status:</tspan> Operational [Temperature: 42°C, Fan Speed: Auto]</text>
+    </g>
+
+    <text x="0" y="245" class="term-text"><tspan class="term-keyword">benedict</tspan><tspan class="term-meta">@</tspan><tspan class="term-string">OS</tspan> <tspan class="term-keyword">~</tspan> $ <rect x="145" y="233" width="8" height="14" class="cursor"/></text>
+  </g>
+
+
+  <!-- ==================== TAB CONTENT: METRICS ==================== -->
+  <g id="tab-metrics" class="tab-content" transform="translate(40, 75)">
+    <text x="0" y="20" class="term-text"><tspan class="term-keyword">benedict</tspan><tspan class="term-meta">@</tspan><tspan class="term-string">OS</tspan> <tspan class="term-keyword">~</tspan> $ monitor --metrics all</text>
+    
+    <g transform="translate(0, 45)" class="term-text">
+      <text x="0" y="0" class="term-comment"># Real-time System Metrics Analyzer</text>
+      
+      <!-- Curiosity -->
+      <text x="0" y="22"><tspan class="term-keyword">Curiosity Index</tspan></text>
+      <rect x="150" y="12" width="200" height="10" fill="#161b22" rx="3" stroke="#30363d" stroke-width="0.5"/>
+      <rect x="150" y="12" width="198" height="10" fill="#3b82f6" rx="3" filter="url(#glow)"/>
+      <text x="365" y="22" class="term-number">99.8%</text>
+
+      <!-- Execution Speed -->
+      <text x="0" y="52"><tspan class="term-keyword">Execution Rate</tspan></text>
+      <rect x="150" y="42" width="200" height="10" fill="#161b22" rx="3" stroke="#30363d" stroke-width="0.5"/>
+      <rect x="150" y="42" width="190" height="10" fill="#3b82f6" rx="3" filter="url(#glow)"/>
+      <text x="365" y="52" class="term-number">95.0%</text>
+
+      <!-- Clean Code Ratio -->
+      <text x="0" y="82"><tspan class="term-keyword">Clean Code Ratio</tspan></text>
+      <rect x="150" y="72" width="200" height="10" fill="#161b22" rx="3" stroke="#30363d" stroke-width="0.5"/>
+      <rect x="150" y="72" width="198" height="10" fill="#10b981" rx="3" filter="url(#glow)"/>
+      <text x="365" y="82" class="term-string">99.4%</text>
+
+      <!-- Security Audit Ratio -->
+      <text x="0" y="112"><tspan class="term-keyword">Security Posture</tspan></text>
+      <rect x="150" y="102" width="200" height="10" fill="#161b22" rx="3" stroke="#30363d" stroke-width="0.5"/>
+      <rect x="150" y="102" width="200" height="10" fill="#10b981" rx="3" filter="url(#glow)"/>
+      <text x="365" y="112" class="term-string">100.0%</text>
+    </g>
+
+    <text x="0" y="245" class="term-text"><tspan class="term-keyword">benedict</tspan><tspan class="term-meta">@</tspan><tspan class="term-string">OS</tspan> <tspan class="term-keyword">~</tspan> $ <rect x="145" y="233" width="8" height="14" class="cursor"/></text>
+  </g>
+
+
+  <!-- ==================== TAB CONTENT: TELEMETRY ==================== -->
+  <g id="tab-telemetry" class="tab-content" transform="translate(40, 75)">
+    <text x="0" y="20" class="term-text"><tspan class="term-keyword">benedict</tspan><tspan class="term-meta">@</tspan><tspan class="term-string">OS</tspan> <tspan class="term-keyword">~</tspan> $ node-ping --active-nodes</text>
+    
+    <g transform="translate(0, 45)" class="term-text">
+      <text x="0" y="0" class="term-comment"># Active System Mesh Telemetry</text>
+      <text x="0" y="22"><tspan class="term-keyword">Active Sessions:</tspan> 4 active shells</text>
+      <text x="0" y="44"><tspan class="term-keyword">Uptime Status:</tspan> Operational [100.00% uptime SLA]</text>
+      <text x="0" y="66"><tspan class="term-keyword">Active Nodes:</tspan> London Node [Primary] &lt;-&gt; Edge CDN Clusters</text>
+      <text x="0" y="88"><tspan class="term-keyword">Mesh Latency:</tspan> 14ms (via Fiber) / packet loss 0.00%</text>
+      <text x="0" y="110"><tspan class="term-keyword">Active Process:</tspan> Executing ML training &amp; static code reasoning loops...</text>
+      <text x="0" y="132"><tspan class="term-keyword">Telemetry Logs:</tspan> All systems normal. Listening on port 443...</text>
+    </g>
+
+    <text x="0" y="245" class="term-text"><tspan class="term-keyword">benedict</tspan><tspan class="term-meta">@</tspan><tspan class="term-string">OS</tspan> <tspan class="term-keyword">~</tspan> $ <rect x="145" y="233" width="8" height="14" class="cursor"/></text>
+  </g>
+
+</svg>
