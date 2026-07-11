@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+  <defs>
+    <!-- Background styling -->
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:#0d1527;stop-opacity:1"/>
+      <stop offset="60%" style="stop-color:#070709;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#020203;stop-opacity:1"/>
+    </radialGradient>
+
+    <!-- Glassmorphic panel styling -->
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e293b;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:0.1"/>
+    </linearGradient>
+
+    <!-- Glow filters -->
+    <filter id="laserGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="8" flood-color="#000000" flood-opacity="0.7"/>
+    </filter>
+
+    <!-- Linear gradients for flows -->
+    <linearGradient id="flow1" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="flow2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="500" fill="url(#bgGlow)" rx="16" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Grid Accents (Isometric) -->
+  <g opacity="0.05" stroke="#ffffff" stroke-width="0.5">
+    <!-- Isometric grid lines -->
+    <path d="M -100,250 L 1000,800 M -100,150 L 1000,700 M -100,50 L 1000,600 M -100,-50 L 1000,500 M -100,-150 L 1000,400"/>
+    <path d="M 1000,250 L -100,800 M 1000,150 L -100,700 M 1000,50 L -100,600 M 1000,-50 L -100,500 M 1000,-150 L -100,400"/>
+  </g>
+
+  <!-- 3D FLOW CONNECTIONS (Behind panels) -->
+  <g stroke-width="2" fill="none" filter="url(#softShadow)">
+    <!-- Vertical connector 1 (Base -> Middle) -->
+    <path d="M 230,340 L 230,220" stroke="#3b82f6" opacity="0.3" stroke-dasharray="4,4"/>
+    <!-- Vertical connector 2 (Middle -> Top) -->
+    <path d="M 670,220 L 670,120" stroke="#10b981" opacity="0.3" stroke-dasharray="4,4"/>
+
+    <!-- Flow line 1 (Ingestion -> AI Engine) -->
+    <path d="M 230,340 L 450,220" stroke="url(#flow1)" stroke-width="1.5"/>
+    <!-- Flow line 2 (AI Engine -> Sandbox) -->
+    <path d="M 450,220 L 670,120" stroke="url(#flow2)" stroke-width="1.5"/>
+  </g>
+
+  <!-- Laser Pulses -->
+  <circle r="3" fill="#60a5fa" filter="url(#laserGlow)">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M 230,340 L 450,220"/>
+  </circle>
+  <circle r="3" fill="#34d399" filter="url(#laserGlow)">
+    <animateMotion dur="4s" begin="2s" repeatCount="indefinite" path="M 450,220 L 670,120"/>
+  </circle>
+
+  <!-- ==================== LAYER 1: INPUT CODE (BOTTOM LEFT) ==================== -->
+  <g transform="translate(100, 260)" filter="url(#softShadow)">
+    <!-- Isometric Panel Base -->
+    <polygon points="0,80 130,15 260,80 130,145" fill="url(#panelGrad)" stroke="#3b82f6" stroke-width="1" opacity="0.8"/>
+    
+    <!-- Title -->
+    <text x="130" y="55" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" letter-spacing="1" text-anchor="middle">STAGE 01 // INGESTION</text>
+    <text x="130" y="75" font-family="-apple-system, sans-serif" font-size="15" font-weight="800" fill="#ffffff" letter-spacing="1.5" text-anchor="middle">AST PARSER</text>
+    
+    <!-- Code Graphic -->
+    <g opacity="0.4" stroke="#60a5fa" stroke-width="1" fill="none">
+      <path d="M 70,95 L 120,70 M 70,105 L 140,70 M 70,115 L 110,95"/>
+      <circle cx="120" cy="70" r="2" fill="#60a5fa"/>
+      <circle cx="140" cy="70" r="2" fill="#60a5fa"/>
+    </g>
+
+    <!-- Pulse effect on border -->
+    <polygon points="0,80 130,15 260,80 130,145" fill="none" stroke="#60a5fa" stroke-width="1">
+      <animate attributeName="stroke-opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <!-- ==================== LAYER 2: AI REASONING (MIDDLE) ==================== -->
+  <g transform="translate(320, 140)" filter="url(#softShadow)">
+    <polygon points="0,80 130,15 260,80 130,145" fill="url(#panelGrad)" stroke="#3b82f6" stroke-width="1.2" opacity="0.9"/>
+    
+    <!-- Title -->
+    <text x="130" y="55" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" letter-spacing="1" text-anchor="middle">STAGE 02 // COGNITION</text>
+    <text x="130" y="75" font-family="-apple-system, sans-serif" font-size="15" font-weight="800" fill="#3b82f6" letter-spacing="1.5" text-anchor="middle">SECUREAGENT</text>
+
+    <!-- Glowing model nodes -->
+    <g filter="url(#laserGlow)" opacity="0.8">
+      <circle cx="130" cy="110" r="4" fill="#ffffff"/>
+      <circle cx="90" cy="100" r="3" fill="#60a5fa"/>
+      <circle cx="170" cy="100" r="3" fill="#60a5fa"/>
+      <circle cx="110" cy="125" r="3" fill="#60a5fa"/>
+      <circle cx="150" cy="125" r="3" fill="#60a5fa"/>
+      
+      <!-- Connections -->
+      <line x1="130" y1="110" x2="90" y2="100" stroke="#3b82f6" stroke-width="0.8"/>
+      <line x1="130" y1="110" x2="170" y2="100" stroke="#3b82f6" stroke-width="0.8"/>
+      <line x1="130" y1="110" x2="110" y2="125" stroke="#3b82f6" stroke-width="0.8"/>
+      <line x1="130" y1="110" x2="150" y2="125" stroke="#3b82f6" stroke-width="0.8"/>
+    </g>
+
+    <!-- Floating brain/neural wave -->
+    <path d="M 60,95 Q 95,70 130,95 T 200,95" fill="none" stroke="#60a5fa" stroke-width="1" opacity="0.3">
+      <animate attributeName="d" values="M 60,95 Q 95,70 130,95 T 200,95;M 60,95 Q 95,120 130,95 T 200,95;M 60,95 Q 95,70 130,95 T 200,95" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- ==================== LAYER 3: SANDBOX & COMPILE (TOP RIGHT) ==================== -->
+  <g transform="translate(540, 40)" filter="url(#softShadow)">
+    <polygon points="0,80 130,15 260,80 130,145" fill="url(#panelGrad)" stroke="#10b981" stroke-width="1" opacity="0.8"/>
+    
+    <!-- Title -->
+    <text x="130" y="55" font-family="-apple-system, sans-serif" font-size="11" font-weight="700" fill="#94a3b8" letter-spacing="1" text-anchor="middle">STAGE 03 // REMEDIATION</text>
+    <text x="130" y="75" font-family="-apple-system, sans-serif" font-size="15" font-weight="800" fill="#10b981" letter-spacing="1.5" text-anchor="middle">AUTO PATCH</text>
+
+    <!-- Success checkmark / Shield vector graphic -->
+    <g transform="translate(115, 95)" stroke="#10b981" stroke-width="1.5" fill="none">
+      <polygon points="15,0 30,5 30,18 15,28 0,18 0,5" fill="rgba(16, 185, 129, 0.1)"/>
+      <path d="M 8,13 L 13,18 L 22,9" stroke="#ffffff" stroke-width="2"/>
+    </g>
+
+    <!-- Outer green pulse ring -->
+    <polygon points="0,80 130,15 260,80 130,145" fill="none" stroke="#10b981" stroke-width="1">
+      <animate attributeName="stroke-opacity" values="0.8;0.1;0.8" dur="2.5s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <!-- Info Labels (Floating HUD style) -->
+  <g font-family="-apple-system, sans-serif" font-size="10" fill="#64748b" font-weight="600">
+    <text x="210" y="445" text-anchor="middle">RAW CODE INPUT</text>
+    <text x="450" y="325" text-anchor="middle">VULNERABILITY DETECTED</text>
+    <text x="690" y="225" text-anchor="middle">SECURE PATCH GENERATED</text>
+  </g>
+</svg>

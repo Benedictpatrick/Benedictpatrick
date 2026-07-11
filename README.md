@@ -107,6 +107,23 @@ collaboration:
 
 <br/>
 
+<!-- SECUREVIBE PIPELINE VISUALIZATION -->
+<div align="center">
+  <h2>🤖 Autonomous Compilation &amp; Security Pipeline</h2>
+  <p>Isometric representation of the dynamic scanning, analysis, and patching stages.</p>
+  <br/>
+  <img src="assets/pipeline.svg" width="100%" alt="SecureVibe Autonomous Pipeline" loading="lazy"/>
+</div>
+
+<br/>
+
+<!-- SECTION DIVIDER -->
+<div align="center">
+  <img src="assets/divider.svg" width="100%" height="32" alt="" loading="lazy"/>
+</div>
+
+<br/>
+
 <!-- FEATURED PROJECTS -->
 <div align="center">
   <h2>💎 Featured Projects</h2>
