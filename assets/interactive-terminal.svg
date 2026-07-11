@@ -154,8 +154,8 @@
       <text x="20" y="22"><tspan class="term-keyword">"username"</tspan>: <tspan class="term-string">"benedictpatrick"</tspan>,</text>
       <text x="20" y="44"><tspan class="term-keyword">"shell"</tspan>: <tspan class="term-string">"/bin/zsh"</tspan>,</text>
       <text x="20" y="66"><tspan class="term-keyword">"uptime_days"</tspan>: <tspan class="term-number">247</tspan>,</text>
-      <text x="20" y="88"><tspan class="term-keyword">"active_tasks"</tspan>: <tspan class="term-meta">[</tspan><tspan class="term-string">"MSc Research"</tspan>, <tspan class="term-string">"Startup Founding"</tspan>, <tspan class="term-string">"Open Source"</tspan><tspan class="term-meta">]</tspan>,</text>
-      <text x="20" y="110"><tspan class="term-keyword">"core_focus"</tspan>: <tspan class="term-string">"Deep Tech, AI &amp; Software Security Solutions"</tspan>,</text>
+      <text x="20" y="88"><tspan class="term-keyword">"active_tasks"</tspan>: <tspan class="term-meta">[</tspan><tspan class="term-string">"SyncSketch Engine"</tspan>, <tspan class="term-string">"Startup Founding"</tspan>, <tspan class="term-string">"Open Source"</tspan><tspan class="term-meta">]</tspan>,</text>
+      <text x="20" y="110"><tspan class="term-keyword">"core_focus"</tspan>: <tspan class="term-string">"Distributed Systems, Custom CRDTs &amp; Software Security"</tspan>,</text>
       <text x="20" y="132"><tspan class="term-keyword">"interests"</tspan>: <tspan class="term-meta">[</tspan><tspan class="term-string">"AST Parsers"</tspan>, <tspan class="term-string">"Agentic Reasoning Loops"</tspan>, <tspan class="term-string">"Scale"</tspan><tspan class="term-meta">]</tspan></text>
       <text x="0" y="154"><tspan class="term-meta">}</tspan></text>
     </g>
@@ -229,7 +229,7 @@
       <text x="0" y="44"><tspan class="term-keyword">Uptime Status:</tspan> Operational [100.00% uptime SLA]</text>
       <text x="0" y="66"><tspan class="term-keyword">Active Nodes:</tspan> London Node [Primary] &lt;-&gt; Edge CDN Clusters</text>
       <text x="0" y="88"><tspan class="term-keyword">Mesh Latency:</tspan> 14ms (via Fiber) / packet loss 0.00%</text>
-      <text x="0" y="110"><tspan class="term-keyword">Active Process:</tspan> Executing ML training &amp; static code reasoning loops...</text>
+      <text x="0" y="110"><tspan class="term-keyword">Active Process:</tspan> Syncing local CRDT state logs &amp; running convergence checks...</text>
       <text x="0" y="132"><tspan class="term-keyword">Telemetry Logs:</tspan> All systems normal. Listening on port 443...</text>
     </g>
 
