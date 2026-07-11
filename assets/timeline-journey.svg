@@ -129,7 +129,7 @@
     <g transform="translate(-80, -60)">
       <rect width="160" height="120" rx="8" fill="url(#cardGrad)" class="card-border"/>
       <text x="14" y="24" class="year-label">2025</text>
-      <text x="14" y="48" class="timeline-title">Research &amp; Security</text>
+      <text x="14" y="48" class="timeline-title">Distributed Systems</text>
       <text x="14" y="70" class="timeline-desc">Distributed Systems &amp; CRDT</text>
       <text x="14" y="86" class="timeline-desc">collaborative engines, WebSockets,</text>
       <text x="14" y="102" class="timeline-desc">and AST structural analysis.</text>

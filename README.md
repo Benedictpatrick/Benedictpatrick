@@ -12,7 +12,7 @@
 
 <!-- DYNAMIC TYPING STATUS -->
 <a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Intelligent+Systems.;Building+SecureVibe+Autonomous+Agent.;Researching+Deep+Learning+and+AI+Security.;Designing+Developer+Tools+and+Modern+APIs.;Always+Learning.+Always+Building.;Founder+in+Progress." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=16&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Intelligent+Systems.;Building+SecureVibe+Autonomous+Agent.;Building+High-Performance+Distributed+Systems.;Designing+Developer+Tools+and+Modern+APIs.;Always+Learning.+Always+Building.;Founder+in+Progress." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -38,9 +38,9 @@
 
 ## 🧠 About Me
 
-I am **Benedict Patrick**, an AI Engineer, Cybersecurity Researcher, and Startup Founder building the next generation of intelligent, secure systems.
+I am **Benedict Patrick**, an AI Engineer, Systems Architect, and Startup Founder building the next generation of intelligent, secure systems.
 
-My engineering focus lies at the intersection of **Deep Learning**, **Agentic AI**, and **Autonomous Security**. I specialize in turning deep tech research papers into scalable production software, emphasizing clean architecture, modular system design, and exceptional developer experience.
+My engineering focus lies at the intersection of **Deep Learning**, **Agentic AI**, and **Autonomous Security**. I specialize in turning complex system designs into scalable production software, emphasizing clean architecture, modular system design, and exceptional developer experience.
 
 Whether optimizing neural networks, writing static analysis parsers, or designing distributed systems, I aim for high-integrity craftsmanship.
 
@@ -57,7 +57,7 @@ identity:
   status: Always Building
 
 collaboration:
-  research: active
+  systems: active
   startups: active
   open_source: active
 ```
@@ -149,7 +149,7 @@ collaboration:
 <!-- FEATURED PROJECTS -->
 <div align="center">
   <h2>💎 Featured Projects</h2>
-  <p>A showcase of open source components, experimental pipelines, and research implementations.</p>
+  <p>A showcase of open source components, experimental pipelines, and systems implementations.</p>
 </div>
 
 <br/>
@@ -166,7 +166,7 @@ collaboration:
 | **Adaptive Traffic Control** | Reinforcement learning system for smart city traffic optimization. Reduces congestion using real-time adaptive signals. | `Python` `RL` `PyTorch` `Simulation` | 🚦 Smart City · Deep Learning |
 | **EcoVerify** | Blockchain-backed sustainability verification platform. Enables transparent carbon credit tracking and ESG compliance. | `Solidity` `Python` `React` `Web3` `FastAPI` | 🌿 Sustainability · Web3 |
 | **PARQ** | AI-powered parking intelligence system. Real-time space detection and smart reservation via computer vision. | `Python` `YOLO` `OpenCV` `React` `FastAPI` | 🅿️ Computer Vision · Smart City |
-| **Quantum Cyber Project** | Research into quantum-resistant cryptographic algorithms for next-generation secure communications. | `Python` `Qiskit` `Cryptography` | ⚛️ Quantum Computing · Research |
+| **Quantum Cyber Project** | Architecture into quantum-resistant cryptographic algorithms for next-generation secure communications. | `Python` `Qiskit` `Cryptography` | ⚛️ Quantum Computing · Architecture |
 
 <br/>
 
@@ -264,14 +264,14 @@ collaboration:
 <!-- OPEN SOURCE & ALIGNMENT -->
 <div align="center">
   <h2>🤝 Open Source &amp; Alignment</h2>
-  <p>Collaborating on research initiatives, security components, and startups.</p>
+  <p>Collaborating on engineering initiatives, security components, and startups.</p>
   <br/>
   
   <table border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width: 800px; text-align: center;">
     <tr>
       <td width="20%">
         <div style="font-size: 28px; margin-bottom: 8px;">🔬</div>
-        <strong>Research</strong><br/>
+        <strong>Architecture</strong><br/>
         <sub>AI &amp; Deep Learning</sub>
       </td>
       <td width="20%">
@@ -314,7 +314,7 @@ collaboration:
 <!-- LET'S CONNECT -->
 <div align="center">
   <h2>📞 Communications</h2>
-  <p>Open to conversations regarding advanced systems engineering, deep tech research, and design systems.</p>
+  <p>Open to conversations regarding advanced systems engineering, distributed systems, and design systems.</p>
   <br/>
   
   <a href="https://linkedin.com/in/benedictpatrick" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn"/></a>&nbsp;&nbsp;
