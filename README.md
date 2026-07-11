@@ -93,6 +93,9 @@ collaboration:
   <p>Transforming software security through autonomy.</p>
   <br/>
   <img src="assets/securevibe-showcase.svg" width="100%" alt="SecureVibe Product Showcase" loading="lazy"/>
+  <br/><br/>
+  <p>Install the CLI agent globally:</p>
+  <pre><code>npm install -g securevibe</code></pre>
 </div>
 
 <br/>
