@@ -1,5 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380">
   <defs>
+
+    <radialGradient id="showcaseBgLight" cx="70%" cy="30%" r="80%">
+      <stop offset="0%" style="stop-color:#f1f5f9;stop-opacity:1"/>
+      <stop offset="60%" style="stop-color:#f8fafc;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1"/>
+    </radialGradient>
+
     <!-- Background Gradient -->
     <radialGradient id="showcaseBg" cx="70%" cy="30%" r="80%">
       <stop offset="0%" style="stop-color:#1e293b;stop-opacity:1"/>
@@ -47,6 +54,16 @@
         font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
         font-size: 12.5px;
         fill: #64748b;
+      }
+
+      @media (prefers-color-scheme: light) {
+        rect[fill="url(#showcaseBg)"] { fill: url(#showcaseBgLight) !important; stroke: #cbd5e1 !important; }
+        .brand-title { fill: #0f172a !important; }
+        .brand-desc { fill: #334155 !important; }
+        .feature-title { fill: #0f172a !important; }
+        .feature-desc { fill: #475569 !important; }
+        line[stroke="#1e293b"] { stroke: #cbd5e1 !important; }
+        rect[fill="rgba(59, 130, 246, 0.1)"] { fill: #eff6ff !important; stroke: #bfdbfe !important; }
       }
     </style>
   </defs>

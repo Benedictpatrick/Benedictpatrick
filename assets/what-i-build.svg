@@ -38,6 +38,15 @@
       .card-bg {
         fill: url(#cardBg);
       }
+
+      @media (prefers-color-scheme: light) {
+        rect[fill="#080808"] { fill: #f8fafc !important; }
+        linearGradient#cardBg stop[offset="0%"] { stop-color: #ffffff !important; }
+        linearGradient#cardBg stop[offset="100%"] { stop-color: #f1f5f9 !important; }
+        .card-border { stroke: #cbd5e1 !important; }
+        .card-title { fill: #0f172a !important; }
+        .card-desc { fill: #475569 !important; }
+      }
     </style>
   </defs>
 

@@ -1,5 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
   <defs>
+
+    <style>
+      @media (prefers-color-scheme: light) {
+        rect[fill="#080808"] { fill: #f8fafc !important; }
+        rect[fill="url(#dots)"] { fill: url(#dots) !important; }
+        rect[fill="url(#vignette)"] { fill: url(#vignette) !important; }
+        rect[fill="url(#bottomFade)"] { fill: url(#bottomFade) !important; }
+        radialGradient#vignette stop[stop-color="#080808"] { stop-color: #f8fafc !important; }
+        radialGradient#centerGlow stop[stop-color="#080808"] { stop-color: #f8fafc !important; }
+        radialGradient#centerGlow stop[stop-color="#1d4ed8"] { stop-color: #3b82f6 !important; stop-opacity: 0.08 !important; }
+        linearGradient#bottomFade stop[stop-color="#080808"] { stop-color: #f8fafc !important; }
+        pattern#dots circle { fill: #cbd5e1 !important; opacity: 0.65 !important; }
+        g[stroke="#3b82f6"] { opacity: 0.25 !important; }
+        text[fill="#ffffff"] { fill: #0f172a !important; }
+        text[fill="#475569"] { fill: #64748b !important; }
+        linearGradient#scanTrail stop[stop-color="#3b82f6"] { stop-color: #3b82f6 !important; }
+      }
+    </style>
+
     <!-- Dot grid pattern -->
     <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
       <circle cx="14" cy="14" r="0.9" fill="#1e293b" opacity="0.55"/>
