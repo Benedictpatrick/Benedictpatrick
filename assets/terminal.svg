@@ -1,0 +1,85 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="term-clip"><rect x="0" y="0" width="1200" height="280" rx="16"/></clipPath>
+    <linearGradient id="term-border" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <clipPath id="clip-cmd"><rect id="clip-cmd-rect" x="80" y="58" width="0" height="30"/></clipPath>
+    <clipPath id="clip-out1"><rect id="clip-out1-rect" x="72" y="102" width="0" height="34"/></clipPath>
+    <clipPath id="clip-out2"><rect id="clip-out2-rect" x="72" y="154" width="0" height="28"/></clipPath>
+    <style>
+      @keyframes revealCmd {
+        0%   { width: 0px; }
+        12%  { width: 0px; }
+        30%  { width: 150px; }
+        100% { width: 150px; }
+      }
+      @keyframes revealOut1 {
+        0%   { width: 0px; }
+        34%  { width: 0px; }
+        52%  { width: 270px; }
+        100% { width: 270px; }
+      }
+      @keyframes revealOut2 {
+        0%   { width: 0px; }
+        56%  { width: 0px; }
+        92%  { width: 720px; }
+        100% { width: 720px; }
+      }
+      @keyframes moveCursor {
+        0%   { transform: translate(80px, 61px); }
+        29%  { transform: translate(80px, 61px); }
+        31%  { transform: translate(230px, 61px); }
+        50%  { transform: translate(230px, 61px); }
+        53%  { transform: translate(342px, 102px); }
+        90%  { transform: translate(342px, 102px); }
+        93%  { transform: translate(792px, 154px); }
+        100% { transform: translate(792px, 154px); }
+      }
+      @keyframes blink {
+        0%, 49%   { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      #clip-cmd-rect  { animation: revealCmd 8s steps(12, end) infinite; }
+      #clip-out1-rect { animation: revealOut1 8s steps(16, end) infinite; }
+      #clip-out2-rect { animation: revealOut2 8s steps(46, end) infinite; }
+      .cursor { animation: moveCursor 8s steps(1, end) infinite, blink 0.9s steps(1) infinite; }
+      .term-text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#term-clip)">
+    <rect x="0" y="0" width="1200" height="280" fill="#07070a"/>
+    <rect x="0" y="0" width="1200" height="280" fill="#7C6CF6" fill-opacity="0.03"/>
+
+    <!-- title bar -->
+    <rect x="0" y="0" width="1200" height="44" fill="#0d0d12"/>
+    <circle cx="28" cy="22" r="6" fill="#f87171" opacity="0.8"/>
+    <circle cx="50" cy="22" r="6" fill="#fbbf24" opacity="0.8"/>
+    <circle cx="72" cy="22" r="6" fill="#34d399" opacity="0.8"/>
+    <text x="600" y="27" text-anchor="middle" class="term-text" font-size="13" fill="#7c8091">benedict@phobos — zsh</text>
+
+    <!-- body -->
+    <g class="term-text" font-size="20">
+      <text x="48" y="80" fill="#7c8091">$</text>
+      <g clip-path="url(#clip-cmd)">
+        <text x="80" y="80" fill="#e5e7eb">whoami</text>
+      </g>
+
+      <text x="48" y="128" fill="#34d399">&#8594;</text>
+      <g clip-path="url(#clip-out1)">
+        <text x="72" y="128" fill="#f7f8fa" font-weight="600" font-size="24">Benedict Patrick</text>
+      </g>
+
+      <text x="48" y="176" fill="#34d399">&#8594;</text>
+      <g clip-path="url(#clip-out2)">
+        <text x="72" y="176" fill="#9aa1af" font-size="18">AI/ML engineer — LLMs, autonomous agents, secure systems.</text>
+      </g>
+    </g>
+
+    <rect class="cursor" width="11" height="24" fill="#34d399"/>
+
+    <rect x="1" y="1" width="1198" height="278" rx="15" fill="none" stroke="url(#term-border)" stroke-width="1.5"/>
+  </g>
+</svg>

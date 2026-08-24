@@ -15,6 +15,12 @@
 I work at the intersection of model architecture and applied AI systems — training language models from scratch, and shipping the tooling and products that put them to use. Currently split between LLM pretraining research and two products in active development.
 </p>
 
+<br/>
+
+<div align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami -> Benedict Patrick" />
+</div>
+
 <img src="assets/divider.svg" width="100%" height="24" alt="" />
 
 ## Building
@@ -51,12 +57,27 @@ npm install -g securevibe
 
 <div align="center">
 
+**Languages**
 ![Python](https://img.shields.io/badge/Python-7C6CF6?style=flat-square&logo=python&logoColor=white&labelColor=0b0b0e)
-![PyTorch](https://img.shields.io/badge/PyTorch-7C6CF6?style=flat-square&logo=pytorch&logoColor=white&labelColor=0b0b0e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7C6CF6?style=flat-square&logo=typescript&logoColor=white&labelColor=0b0b0e)
-![React](https://img.shields.io/badge/React-7C6CF6?style=flat-square&logo=react&logoColor=white&labelColor=0b0b0e)
-![FastAPI](https://img.shields.io/badge/FastAPI-7C6CF6?style=flat-square&logo=fastapi&logoColor=white&labelColor=0b0b0e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C6CF6?style=flat-square&logo=postgresql&logoColor=white&labelColor=0b0b0e)
+![JavaScript](https://img.shields.io/badge/JavaScript-7C6CF6?style=flat-square&logo=javascript&logoColor=white&labelColor=0b0b0e)
+![Rust](https://img.shields.io/badge/Rust-7C6CF6?style=flat-square&logo=rust&logoColor=white&labelColor=0b0b0e)
+![Dart](https://img.shields.io/badge/Dart-7C6CF6?style=flat-square&logo=dart&logoColor=white&labelColor=0b0b0e)
+![C++](https://img.shields.io/badge/C%2B%2B-7C6CF6?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0b0b0e)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-34D399?style=flat-square&logo=pytorch&logoColor=white&labelColor=0b0b0e)
+![Jupyter](https://img.shields.io/badge/Jupyter-34D399?style=flat-square&logo=jupyter&logoColor=white&labelColor=0b0b0e)
+![WebGPU](https://img.shields.io/badge/WebGPU-34D399?style=flat-square&labelColor=0b0b0e)
+
+**Frontend / Mobile**
+![React](https://img.shields.io/badge/React-F472B6?style=flat-square&logo=react&logoColor=white&labelColor=0b0b0e)
+![Flutter](https://img.shields.io/badge/Flutter-F472B6?style=flat-square&logo=flutter&logoColor=white&labelColor=0b0b0e)
+
+**Backend / Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-60A5FA?style=flat-square&logo=fastapi&logoColor=white&labelColor=0b0b0e)
+![Node.js](https://img.shields.io/badge/Node.js-60A5FA?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0b0b0e)
+![Git](https://img.shields.io/badge/Git-60A5FA?style=flat-square&logo=git&logoColor=white&labelColor=0b0b0e)
 
 </div>
 
