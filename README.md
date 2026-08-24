@@ -57,27 +57,89 @@ npm install -g securevibe
 
 <div align="center">
 
-**Languages**
 ![Python](https://img.shields.io/badge/Python-7C6CF6?style=flat-square&logo=python&logoColor=white&labelColor=0b0b0e)
+![PyTorch](https://img.shields.io/badge/PyTorch-7C6CF6?style=flat-square&logo=pytorch&logoColor=white&labelColor=0b0b0e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7C6CF6?style=flat-square&logo=typescript&logoColor=white&labelColor=0b0b0e)
-![JavaScript](https://img.shields.io/badge/JavaScript-7C6CF6?style=flat-square&logo=javascript&logoColor=white&labelColor=0b0b0e)
 ![Rust](https://img.shields.io/badge/Rust-7C6CF6?style=flat-square&logo=rust&logoColor=white&labelColor=0b0b0e)
-![Dart](https://img.shields.io/badge/Dart-7C6CF6?style=flat-square&logo=dart&logoColor=white&labelColor=0b0b0e)
-![C++](https://img.shields.io/badge/C%2B%2B-7C6CF6?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0b0b0e)
+![React](https://img.shields.io/badge/React-7C6CF6?style=flat-square&logo=react&logoColor=white&labelColor=0b0b0e)
+![FastAPI](https://img.shields.io/badge/FastAPI-7C6CF6?style=flat-square&logo=fastapi&logoColor=white&labelColor=0b0b0e)
+![Flutter](https://img.shields.io/badge/Flutter-7C6CF6?style=flat-square&logo=flutter&logoColor=white&labelColor=0b0b0e)
+![Docker](https://img.shields.io/badge/Docker-7C6CF6?style=flat-square&logo=docker&logoColor=white&labelColor=0b0b0e)
 
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-34D399?style=flat-square&logo=pytorch&logoColor=white&labelColor=0b0b0e)
-![Jupyter](https://img.shields.io/badge/Jupyter-34D399?style=flat-square&logo=jupyter&logoColor=white&labelColor=0b0b0e)
-![WebGPU](https://img.shields.io/badge/WebGPU-34D399?style=flat-square&labelColor=0b0b0e)
+<br/>
 
-**Frontend / Mobile**
-![React](https://img.shields.io/badge/React-F472B6?style=flat-square&logo=react&logoColor=white&labelColor=0b0b0e)
-![Flutter](https://img.shields.io/badge/Flutter-F472B6?style=flat-square&logo=flutter&logoColor=white&labelColor=0b0b0e)
+<details>
+<summary><b>Full breakdown</b></summary>
+<br/>
 
-**Backend / Infra**
-![FastAPI](https://img.shields.io/badge/FastAPI-60A5FA?style=flat-square&logo=fastapi&logoColor=white&labelColor=0b0b0e)
-![Node.js](https://img.shields.io/badge/Node.js-60A5FA?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0b0b0e)
-![Git](https://img.shields.io/badge/Git-60A5FA?style=flat-square&logo=git&logoColor=white&labelColor=0b0b0e)
+**Languages**
+Python • C++ • C • TypeScript • JavaScript • Rust • Dart • SQL • Bash
+
+**AI / Machine Learning**
+PyTorch • TensorFlow • JAX • scikit-learn • XGBoost • NumPy • Pandas • SciPy • Matplotlib • Jupyter
+
+**Deep Learning**
+PyTorch Lightning • TorchMetrics • torchvision • CUDA • cuDNN • NCCL • TensorRT • ONNX • ONNX Runtime
+
+**Large Language Models**
+Hugging Face Transformers • Tokenizers • Datasets • Accelerate • PEFT • LoRA • QLoRA • TRL • FlashAttention • bitsandbytes • Safetensors • vLLM • llama.cpp • Ollama
+
+**LLM Training / Research**
+Pretraining • SFT • DPO • RLHF • GRPO • Distributed Data Parallel • FSDP • DeepSpeed • Mixed Precision • Gradient Checkpointing • Quantization • Knowledge Distillation • Model Evaluation • Benchmarking • Ablation Studies
+
+**Generative AI**
+RAG • Embeddings • Vector Search • Multimodal AI • Vision-Language Models • Diffusion Models • Prompt Engineering • Structured Generation
+
+**AI Agents**
+LangGraph • LangChain • LlamaIndex • Model Context Protocol (MCP) • Tool Calling • Function Calling • Multi-Agent Systems • Planning • Memory • Reflection • ReAct • Agent Evaluation
+
+**Computer Vision**
+OpenCV • MediaPipe • YOLO • torchvision • Roboflow • SAM • Image Classification • Object Detection • Segmentation • Pose Estimation • Tracking
+
+**NLP**
+Transformers • Sentence Transformers • spaCy • NLTK • Tokenization • Semantic Search • Information Retrieval
+
+**Backend / APIs**
+FastAPI • Django • Flask • Node.js • Express.js • REST • WebSockets • gRPC • AsyncIO • Pydantic
+
+**Frontend**
+React • Next.js • TypeScript • Tailwind CSS • Framer Motion • HTML5 • CSS3
+
+**Databases**
+PostgreSQL • Supabase • MongoDB • Redis • SQLite • pgvector • Vector Databases
+
+**Data / Pipelines**
+Apache Airflow • Prefect • Kafka • Pandas • Polars • ETL / ELT • Data Validation • Feature Engineering • Data Versioning
+
+**MLOps / Experimentation**
+MLflow • Weights & Biases • DVC • TensorBoard • Model Registry • Experiment Tracking • Dataset Versioning • Model Monitoring
+
+**Deployment / Serving**
+Docker • Kubernetes • NVIDIA Triton Inference Server • vLLM • FastAPI • ONNX Runtime • TensorRT • Serverless • REST APIs
+
+**Cloud / Infrastructure**
+AWS • Google Cloud • Azure • Vercel • Hugging Face • Linux • Nginx • Kubernetes • Docker Compose
+
+**GPU / High-Performance Computing**
+NVIDIA CUDA • cuDNN • NCCL • CUDA Kernels • GPU Acceleration • Multi-GPU Training • Distributed Training • Mixed Precision • BF16 • FP16 • Quantization • Memory Optimization
+
+**Edge AI / Embedded**
+ESP32 • ESP32-CAM • Raspberry Pi • Arduino • TensorFlow Lite • ONNX Runtime • TensorRT • Edge AI • TinyML
+
+**Cybersecurity**
+OWASP • Network Security • Threat Modeling • Vulnerability Analysis • Static Analysis • Dynamic Analysis • Secure APIs • Authentication • Authorization
+
+**Software Engineering**
+Git • GitHub • GitHub Actions • CI/CD • REST APIs • Microservices • Unit Testing • Integration Testing • pytest • Playwright • Clean Architecture • SOLID • Design Patterns
+
+**Developer / Research Tools**
+VS Code • Jupyter • Postman • Figma • Linux • GitHub • Kaggle • Hugging Face
+
+</details>
+
+<br/>
+
+<sub><b>CORE FOCUS</b> — Artificial Intelligence · Machine Learning · Deep Learning · Large Language Models · Generative AI · AI Agents · Computer Vision · Edge AI · MLOps · Distributed Systems · High-Performance Computing · Full-Stack Engineering · AI Infrastructure</sub>
 
 </div>
 
