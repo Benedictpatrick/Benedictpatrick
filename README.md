@@ -25,7 +25,7 @@ I work at the intersection of model architecture and applied AI systems — trai
 
 ## Building
 
-<img src="https://img.shields.io/badge/-MODEL%20ARCHITECTURE-7C6CF6?style=flat-square&labelColor=0b0b0e" alt="Model Architecture"/>
+<img src="assets/badge-model.svg" height="34" alt="Model Architecture"/>
 
 **[Phobos](https://github.com/Benedictpatrick/Phobos-)** — a hybrid language model architecture: Mamba-2 selective state-space layers interleaved with sliding-window attention. Linear-time, linear-memory sequence modeling, with attention restored only where exact recall matters. The same codebase trains the hybrid model and a parameter-matched Transformer baseline, so any gain is measured, not assumed.
 
@@ -33,7 +33,7 @@ I work at the intersection of model architecture and applied AI systems — trai
 
 <br/>
 
-<img src="https://img.shields.io/badge/-PRODUCT-34D399?style=flat-square&labelColor=0b0b0e" alt="Product"/>
+<img src="assets/badge-product.svg" height="34" alt="Product"/>
 
 **[Navo AI](https://navoai.space)** — a private, offline AI assistant that runs entirely on-device. Browser-based, no data leaves the machine after the initial model download, with a choice of 20+ local models for chat, code, and math.
 
@@ -41,7 +41,7 @@ I work at the intersection of model architecture and applied AI systems — trai
 
 <br/>
 
-<img src="https://img.shields.io/badge/-SECURITY-F472B6?style=flat-square&labelColor=0b0b0e" alt="Security"/>
+<img src="assets/badge-security.svg" height="34" alt="Security"/>
 
 **SecureVibe** — an autonomous security engineer that scans codebases for vulnerabilities and opens pull requests with the fix already written.
 
@@ -50,46 +50,6 @@ npm install -g securevibe
 ```
 
 `Python` `FastAPI` `AST-SAST` `LLMs`
-
-<img src="assets/divider.svg" width="100%" height="24" alt="" />
-
-## Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-7C6CF6?style=flat-square&logo=python&logoColor=white&labelColor=0b0b0e)
-![TypeScript](https://img.shields.io/badge/TypeScript-7C6CF6?style=flat-square&logo=typescript&logoColor=white&labelColor=0b0b0e)
-![JavaScript](https://img.shields.io/badge/JavaScript-7C6CF6?style=flat-square&logo=javascript&logoColor=white&labelColor=0b0b0e)
-![Rust](https://img.shields.io/badge/Rust-7C6CF6?style=flat-square&logo=rust&logoColor=white&labelColor=0b0b0e)
-![Dart](https://img.shields.io/badge/Dart-7C6CF6?style=flat-square&logo=dart&logoColor=white&labelColor=0b0b0e)
-![C++](https://img.shields.io/badge/C%2B%2B-7C6CF6?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0b0b0e)
-
-<br/>
-
-**AI / ML**
-<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-34D399?style=flat-square&logo=pytorch&logoColor=white&labelColor=0b0b0e)
-![Jupyter](https://img.shields.io/badge/Jupyter-34D399?style=flat-square&logo=jupyter&logoColor=white&labelColor=0b0b0e)
-![WebGPU](https://img.shields.io/badge/WebGPU-34D399?style=flat-square&logo=webgpu&logoColor=white&labelColor=0b0b0e)
-
-<br/>
-
-**Frontend / Mobile**
-<br/>
-![React](https://img.shields.io/badge/React-F472B6?style=flat-square&logo=react&logoColor=white&labelColor=0b0b0e)
-![Flutter](https://img.shields.io/badge/Flutter-F472B6?style=flat-square&logo=flutter&logoColor=white&labelColor=0b0b0e)
-
-<br/>
-
-**Backend / Tools**
-<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-60A5FA?style=flat-square&logo=fastapi&logoColor=white&labelColor=0b0b0e)
-![Git](https://img.shields.io/badge/Git-60A5FA?style=flat-square&logo=git&logoColor=white&labelColor=0b0b0e)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-60A5FA?style=flat-square&logo=githubactions&logoColor=white&labelColor=0b0b0e)
-
-</div>
 
 <img src="assets/divider.svg" width="100%" height="24" alt="" />
 
