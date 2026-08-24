@@ -1,0 +1,57 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="card-clip">
+      <rect x="0" y="0" width="1200" height="380" rx="28"/>
+    </clipPath>
+    <radialGradient id="glow-violet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(140 60) rotate(45) scale(520 420)">
+      <stop offset="0%" stop-color="#7C6CF6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7C6CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-emerald" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 340) rotate(-135) scale(480 380)">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B7CF7"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+    <filter id="grain-blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#card-clip)">
+    <rect x="0" y="0" width="1200" height="380" fill="#07070a"/>
+    <rect x="0" y="0" width="1200" height="380" fill="url(#glow-violet)"/>
+    <rect x="0" y="0" width="1200" height="380" fill="url(#glow-emerald)"/>
+
+    <!-- fine dot grid texture -->
+    <g opacity="0.05">
+      <path d="M0 40H1200M0 100H1200M0 160H1200M0 220H1200M0 280H1200M0 340H1200" stroke="#ffffff" stroke-width="1"/>
+    </g>
+
+    <!-- eyebrow -->
+    <g transform="translate(72,72)">
+      <rect x="0" y="0" width="223" height="30" rx="15" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.14"/>
+      <circle cx="16" cy="15" r="4" fill="#34D399"/>
+      <text x="30" y="20" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" letter-spacing="2" fill="#C9CDD6" font-weight="600">AI &amp; ML ENGINEER</text>
+    </g>
+
+    <!-- headline -->
+    <text x="70" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#F7F8FA" letter-spacing="-1.5">Benedict Patrick</text>
+
+    <!-- accent rule -->
+    <rect x="72" y="222" width="86" height="4" rx="2" fill="url(#rule)"/>
+
+    <!-- subheadline -->
+    <text x="72" y="266" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#9AA1AF">Building language models, autonomous security tooling,</text>
+    <text x="72" y="296" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" fill="#9AA1AF">and privacy-first AI products.</text>
+
+    <!-- outer hairline border -->
+    <rect x="1" y="1" width="1198" height="378" rx="27" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+  </g>
+</svg>
